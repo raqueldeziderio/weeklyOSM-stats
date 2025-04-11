@@ -4,84 +4,108 @@ Storage of statistical files for the weeklyOSM , initially static and considerin
 
 All processes with SQL statements - SELECT, DELETE, UPDATE, in the PostgreSQL.
 
-* This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto
+This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto
 
 ===== Sequence of steps ======
 
-1. Initial file
+1) Initial file
 
-   Considering only EN version - principal version that is translated to the other 14 languages.
+* Considering only EN version - principal version that is translated to the other 14 languages.
    768 issues, being: 
-         WN001 a WN271 - without articles (markdown column)* - desconsidered
+         WN001 a WN271 - without articles (markdown column) - desconsidered, because of the initial weeklyOSM workflow that 
+         was different of today.    
+
          WN272 to WN768 - considered to this analysis
-         * Because of the initial weeklyOSM workflow that was different of today.
 
-   43 categories
+* 43 categories
    
-   32.261 - total dataset
+* 32.261 - total dataset
    
-   3.013 - unpublished records
+* 3.013 - unpublished records
   
-3. Initial cleaning
+2) Initial cleaning
 
-   Deleting the WN001 to WN271 - empty articles
+* Deleting the WN001 to WN271 - empty articles
    
-   Deleting the articles in the following categories, because not corresponding to actual categories or corresponding to 
+* Deleting the articles in the following categories, because not corresponding to actual categories or corresponding to 
    unpublished articles:
    
-         [Actual Category] (68 records), automatically translated links of this week (1 record), exerciseEN: (2), Future,
-         Long Term Dates (3), -- no category yet -- (5), Not translated (3), #switch2OSM (7), switch2OSM (282), unpublished 
-         (3,013), SotM 2016 (5).
+   [Actual Category] (68 records), automatically translated links of this week (1), exerciseEN: (2), Long Term Dates (3),
+   -- no category yet -- (5), Not translated (3), SotM 2016 (5), #switch2OSM (7), switch2OSM (282), unpublished (3,013).
 
    delete from weekly_issues where (category='[sentence here]')
         
-5. Standardizing categories
+3) Standardizing categories
    
-   Standardizing 'Did you know...' and 'Did you know that...'  to the actual category (Did you know that...) (1,142 records)
+* Standardizing 'Did you know...' and 'Did you know that...'  to the actual category (Did you know that...) (1,142 records)
 
    update weekly_issues set category='Did you know that …' where category='Did you know …'
    
-   Standardizing Licences (Een-GB) and Licenses (en-US) to the actual category (Licenses) (138 records)
+   
+* Standardizing Licences (en-GB) and Licenses (en-US) to the actual category (Licenses) (138 records)
 
    update weekly_issues set category='Licenses' where category='Licences'
    
-6. Analysis dataset
+4) Analysis dataset
    
-   After cleaning and standardizing processes:
+    After cleaning and standardizing processes:
 
-   18.755 records
+* 18.378 records
    
-   24 categories as below:
+* 24 categories:
 
     About us
+   
     Breaking news
+   
     Community
+   
     Did you know that…
+   
     Education
+   
     Events
+   
     Humanitarian OSM
+   
     Imports
+   
     Licenses
+   
     Local chapter news
+   
     Mapping
+   
     Mapping campaigns
+   
     Maps
+   
     Open Data
+   
     OpenStreetMap Foundation
+   
     OSM in action
+   
     OSM in the media
+   
     OSM research
+   
     Other Geo Things
+   
     Picture
+   
     Programming
+   
     Releases
+   
     Software
+   
     Upcoming Events
    
-8. Files storage
+5) Files storage
 
-   The files with specific selection according to the application type - editors, navigators, QA analysis and others are 
-   stored in the folders /selection /statistics in this project.
+   The files with specific selection according to the application type - editors, navigators, QA analysis and others, are 
+   stored in the folders /selection and /statistics in this project.
    
    Delimiter - comma (,)
    
