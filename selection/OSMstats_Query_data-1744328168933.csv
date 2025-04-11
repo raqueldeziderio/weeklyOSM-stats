@@ -1,0 +1,29 @@
+"id","blog","category","markdown"
+848,"WN285","Did you know that…","... the always current [OSM Statistics](http://osmstats.neis-one.org/) by Pascal Neis?"
+3815,"WN341","Did you know that…","... [OSMstats](http://osmstats.neis-one.org/?item"
+3962,"WN344","Community","Steve Coast [showcases](http://stevecoast.com/2017/02/14/explore-openstreetmap-statistics/) his [OSM Stats](https://osmstats.stevecoast.com/) website where the evolution of the various types of ways can be gathered by country. Direct links to: [UK](https://osmstats.stevecoast.com/dashboard/gb/total) and [US](https://osmstats.stevecoast.com/dashboard/us/total)."
+4366,"WN352","Community","Steve Coast [launched](https://www.reddit.com/r/openstreetmap/comments/64s2zt/osm_stats_kickstarter/) a  [Kickstarter](https://www.kickstarter.com/projects/237731198/openstreetmap-stats-2017?ref=card) campaign to fix and stabilize [OSM Stats](https://osmstats.stevecoast.com/dashboard/us/total) and already reached his goal of 1000 USD. However, it also received [some criticism](https://lists.openstreetmap.org/pipermail/talk/2017-April/thread.html#77854)."
+5236,"WN370","Did you know that…","... Pascal Neis' [OSMstats](http://osmstats.neis-one.org) with daily updated statistics relating to the OSM user base?"
+7912,"WN428","Community","Simon Poole [is surprised](https://twitter.com/sp8962/status/1045397276536053761) that there are more mappers active in OSM in the United States on weekdays than on weekends. Are there more commercial than independent mappers? See the charts at [osmstats.neis-one.org](http://osmstats.neis-one.org/?item"
+8212,"WN435","Community","Pascal Neis, since October 2018 [Professor for Geo-Government ](https://i3mainz.hs-mainz.de/de/personal/pascal.neis) at Mainz University of Applied Sciences, made the average number of OSM contributors per country of the twelve-month rolling period available for download as a [csv file](https://tools.neis-one.org/tmp/20181118_AvgOSMContributors.txt). According to his [tweet](https://twitter.com/pascal_n/status/1064230977952800769), this is the data he is using for [osmstats.neis-one.org](https://osmstats.neis-one.org/)."
+10469,"WN483","Community","[1] Pascal Neis [added](https://twitter.com/pascal_n/status/1185933156794404867?s=20) some  ""leaderboards"" to his [OSMstats](https://osmstats.neis-one.org/?item=boards). Exactly 19 users contributed and mapped every single day to OSM last year, as reported in ""Activity"". It is also worthwhile to have a look at the [other reports](http://resultmaps.neis-one.org/): Map changes, Discussions, Traces and Notes."
+10465,"WN483","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/sites/4/2019/10/stats-1.png =405x471)
+
+[Mapping every single day](https://osmstats.neis-one.org/?item=boards) ;-) [^1^](#wn483_21154) | © [altogetherlost.com](http://altogetherlost.com/) & Pascal Neis ([neis-one.org](http://neis-one.org/))"
+11921,"WN515","Mapping","[1] Pascal Neis has [implemented](https://twitter.com/pascal_n/status/1267484310153682947?s=19) a function similar to Twitter Trends that shows trending countries, cities and topics on his statistics site [osmstats.neis-one.org](https://osmstats.neis-one.org)."
+12680,"WN530","Did you know that…","... Pascal Neis has updates on [Trends](https://osmstats.neis-one.org/?item"
+14472,"WN572","Did you know that…","... [OpenStreetMap Statistics &ndash; @OSMstats](https://twitter.com/OSMstats/status/1412022144226168835?s"
+15321,"WN598","Community","48 contributors [mapped](https://twitter.com/OSMstats/status/1478021021286506496) every single day in 2021. Interested in more statistics? Just have a look at [OSMStats](https://osmstats.neis-one.org/) by Pascal Neis."
+17222,"WN653","Community","OpenStreetMap recently [hit](https://osmstats.neis-one.org/?item"
+17327,"WN655","Humanitarian OSM","[1] Mapping in the Turkey/Syria earthquake region is urgently needed.
+
+Via the tasking manager you can [get](https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023&orderBy=priority&orderByType=ASC) an overview of the tasks with high urgency and start mapping immediately.
+
+New tasks are being added hourly and their progress is also [documented](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Mapping_Priority) on the wiki page.
+
+You can also [search](https://maproulette.org/browse/challenges?challengeSearch=36.49247921635242%2C36.73228144586829%2C38.44529904057117%2C37.43125118525891&location=intersectingMapBounds&query=Turkey) for MapRoulette challenges. Examples include: [Afsin &ndash; Damaged Buildings](https://maproulette.org/browse/challenges/37589), [Islahiye &ndash; Damaged Buildings](https://maproulette.org/browse/challenges/37591) and [Building Damage &ndash; Nurdagi](https://maproulette.org/browse/challenges/37595).
+
+Said Turksever [tweeted](https://twitter.com/asturksever/status/1623023591619960832) that Maxar has [published](https://www.maxar.com/open-data/turkey-earthquake-2023) satellite images taken after the earthquake in southern Turkey, which are being processed for post-disaster mapping.
+
+You can [watch](https://osmstats.neis-one.org/?item=countries) the daily work of the mapping community by using Pascal Neis' OSMstats."
+18227,"WN683","Community","Pierre Béland's diary entry 'Trend of OSM Objects Edited with focus on Organised editing' [presented](https://www.openstreetmap.org/user/PierZen/diary/402217) compilations of statistics by country for 2022-Q2 to 2023-Q2, using data from Pascal Neis's [osmstats](https://osmstats.neis-one.org/?item=countries) website, and analysed trends by continents. Monthly statistics (csv format) are available for this period from [GitHub](https://github.com/pierzen/osm-changesets-analysis)."
