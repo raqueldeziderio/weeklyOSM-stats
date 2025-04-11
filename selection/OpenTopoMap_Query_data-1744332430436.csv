@@ -1,0 +1,70 @@
+"id","blog","category","markdown"
+798,"WN284","Maps","User derStefan announced a new version of [OpenTopoMap 2.0](http://forum.openstreetmap.org/viewtopic.php?pid"
+1051,"WN289","Maps","Derstefan announced a [prerelease](http://dev.opentopomap.org/#map=5/46.755/10.217) of OpenTopoMap 2.0. The innovations: 
+  worldwide coverage
+  house numbers at Zoom level 16 and 17
+  Shading and contour lines with 30m resolution
+  Bridges with abutments
+evoked positive and constructive feedback."
+1059,"WN289","Picture","![Logo](http://www.weeklyosm.eu/wp-content/uploads/2016/02/289OpenTopoMapEN_2.png)
+Chefchaouen, Marocco - view in OpenTopoMap [[1]](#wn289_opentopomap) | [the world in OpenTopoMap](http://www.weeklyosm.eu/wp-content/uploads/2016/02/289OpenTopoMapEN_1.png)"
+2183,"WN309","Mapping","Fredy Rivera [visited](https://umh.openstreetmap.co/b182?registros=10#estuvimos-dentro-del-volc-n-cerro-mach-n-general) the ""Cerro Machín"", a very dangerous (because of its size and [its position](https://opentopomap.org/#map=13/4.50173/-75.32106)) assessed [stratovolcano](https://en.wikipedia.org/wiki/Stratovolcano) in Columbia with the habitants of the area to capture necessary data in OSM which can be helpful in case of an outbreak. (automatic [translation](https://translate.google.com/translate?sl=auto&tl=EN&u=https://umh.openstreetmap.co/b182?registros=10#estuvimos-dentro-del-volc-n-cerro-mach-n-general))"
+2283,"WN311","Picture","![Logo](http://blog.openstreetmap.de/wp-uploads//2016/07/DE_311_web.png) Combination of OpenTopoMap and the Dofour map from 1865 [^1^](#wn311_12382)"
+2615,"WN318","Maps","Opentopomap doesn't [update](https://help.openstreetmap.org/questions/51558/opentopomap-doesnt-update-anymore) anymore? Stefan Erhardt is [looking](https://www.openstreetmap.org/user/derstefan/diary/39329) for help. ![(Deutsch)](http://blog.openstreetmap.de/wp-uploads//2016/05/de.svg) (automatic [translation](https://translate.google.com/translate?sl"
+4307,"WN351","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Osmium Tool](http://osmcode.org/osmium/)|[1.6.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Two changes and three fixes.|
+|[GpsMaster](http://wiki.openstreetmap.org/wiki/GpsMaster)|[0.63.00](https://wiki.openstreetmap.org/wiki/GpsMaster/Changelog#0.63.00)|2017-04-06|OpenCycleMap enhanced, OpenTopoMap added and more changes.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-04-07|Route planning and search reworked.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[9.0.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2017-04-07|Improvement of performance and further small changes.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.35.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.35.0)|2017-04-07|Seven new features and 12 bugfixes.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.12](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-04-07|Changes for different cameras and a bug fixed.|
+|[QGIS](http://www.qgis.org)|[2.18.6](https://github.com/qgis/QGIS/releases/tag/final-2_18_6)|2017-04-07|No infos.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.45](https://play.google.com/store/apps/details?id=app.mapillary)|2017-04-08|Don't rotate the UX for left handed to fix the preview upside down problem.|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.19](https://docs.kurviger.de/app)|2017-04-09|Various improvements.|
+|[StreetComplete](https://fossdroid.com/a/street%C2%ADcomplete.html)|[0.7](https://github.com/westnordost/StreetComplete/releases/tag/v0.7)|2017-04-09|Fix of version 0.6 with the fixed changeset problem.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.12.1](https://github.com/osmcode/libosmium/releases/tag/v2.12.1)|2017-04-10|Many changes and bugfixes. Please read change log.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.7.3](https://github.com/MapContrib/MapContrib/releases/tag/1.7.3)|2017-04-10|Many changes since 1.6.1, please read release infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-04-10|Changes to the GUI, more hotels, beaches, parking, cameras and WLAN hotspots added.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.2.3](https://itunes.apple.com/app/id510623322)|2017-04-10|100,000 objects added. Incl. restaurants, shops and POI.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.23.0](http://www.locusmap.eu/news-version-3-23-0)|2017-10-04|Many improvements, please read releaseinfo.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-10 15:08:55+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4393,"WN353","Maps","[1]  [BBBike extract](https://extract.bbbike.org/extract-screenshots.html#garmin-opentopo) service now also [delivers](https://lists.openstreetmap.org/pipermail/talk-de/2017-April/114027.html) maps with the OpenTopoMap style for Garmin devices."
+4388,"WN353","Picture","![Beispiele des neuen OpenTopoMap-Stils](http://blog.openstreetmap.de/wp-uploads//2017/04/bbbike_garmin_topo.png =800x794)
+
+Screen shot  examples of the new OpenTopoMap style for Garmin devices [^1^](#wn353_14881) | © Wolfram Schneider, [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)"
+4683,"WN360","Maps","Sarah Hoffmann, aka [Lonvia](https://wiki.openstreetmap.org/wiki/User:Lonvia), the maintainer of [Waymarked Trails](https://hiking.waymarkedtrails.org/#routelist?ids=3727206,7184693&map=12!38.4664!-28.2168),  [announced](https://www.openstreetmap.org/user/lonvia/diary/41602)  a collaboration with [OpenTopoMap](https://opentopomap.org/#map=12/38.4725/-28.2919)."
+4833,"WN363","Maps","The OpenTopoMap now [evaluates](https://forum.openstreetmap.org/viewtopic.php?id"
+4984,"WN365","Events","On Tuesday, July 19th, Rubén López of Mapbox [made a presentation](https://www.facebook.com/notes/mapbox-per%C3%BA/participaci%C3%B3n-de-mapbox-en-el-congreso-de-estudiantes-de-tecnolog%C3%ADas-de-informac/1347357692048431/) for 60 students at the Congress of Information and Communication Technologies in Churcampa - [Huancavelica](https://opentopomap.org/#map=13/-12.78778/-74.94684). Rubén spoke about OpenStreetMap, how to collaborate with the OpenStreetMap community, how to add data to the map and the different applications that can be done using OpenStreetMap data."
+5965,"WN385","Maps","The [OpenTopoMap](https://opentopomap.org/) now arranges summits according to their dominance. For example, at zoom level 8, mountains with a dominance greater than 100 km are displayed.  See [this forum post](https://forum.openstreetmap.org/viewtopic.php?pid=675310#p675310) for more information."
+6917,"WN407","Programming","On the OpenTopoMap, the names of lakes are marked along the path of the centre line of the longest loops. This results in a very professional map. User maxbe [explains](https://wiki.openstreetmap.org/wiki/User:Maxbe/Beschriftung_von_Seen) the algorithm used by the renderer to determine this line from the shore."
+7625,"WN423","Picture","![Pic](http://www.weeklyosm.eu/wp-content/uploads/2018/08/423.png =700x450)
+
+Map of [_extremal_](https://gitlab.com/nuntius35/extremal_peaks/blob/master/README.md) peaks [[1]](#wn423_18216) | © gsa |
+Leaflet | Map data © OpenStreetMap contributors, SRTM | Imagery © OpenTopoMap (CC-BY-SA)"
+7812,"WN426","Maps","[OpenTopoMap](https://www.opentopomap.org/) is running on a backup server, possibly until November, which means low-level zooms are not updated and higher-level zooms are not rendered. In that same [forum post](https://forum.openstreetmap.org/viewtopic.php?pid=715447#p715447) (automatic [translation](https://translate.google.com/translate?sl=auto&tl=EN&u=https://forum.openstreetmap.org/viewtopic.php?pid=715447#p715447)) there is an interesting discussion about the not exactly trivial rendering of names of lakes."
+13349,"WN545","Maps","[1] From 25 December OpenTopoMap now [provides](https://garmin.opentopomap.org/) OSM maps for Garmin worldwide."
+13339,"WN545","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/12/545_T_EN.png  =940x481)
+
+OpenTopoMap now for Garmin worldwide [^1^](#wn545_240286) |  ©  [OpenTopoMap](https://opentopomap.org) |  map data © OpenStreetMap contributors"
+13835,"WN556","Maps","Amateur radio operators are keen to discover new technologies and this includes mapping. Many applications make use of OSM, such as the positional tracking service [APRS](https://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System) with its [APRS-Map](https://aprs.fi/#!mt=osm&z=11&call=&others=1&timerange=3600&tail=3600), which displays the distribution of [KiwiSDR](http://rx.linkfanel.net/) receivers, or the popular [Repeater Map](https://repeatermap.de/), which shows the position of amateur radio repeater stations. However, amateur radio operators are not just consumers of but also contributors to OSM. You can find them everywhere, writing for _weeklyOSM_, just mapping, or on the OSMF board. So it is not surprising that there are amateur radio functions in OSM community projects like the optional [QTH locator](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) layer, which is a special geographic co-ordinate system, on the [OpenTopoMap](https://www.opentopomap.org/#map=10/50.9548/13.0241)."
+16299,"WN626","Maps","Tracestrack has [released](https://www.tracestrack.com/) an Osm-Carto/OpenTopoMap hybrid map style. With a demo page using Mapbox Globe, it shows the [OSM-Carto](https://github.com/gravitystorm/openstreetmap-carto) style enriched with colour relief, hill shades and contour lines from [OpenTopoMap](https://github.com/der-stefan/OpenTopoMap). As a background layer, various existing label layers can be overlaid."
+16704,"WN638","Software","At this year's NASA International Space Apps Challenge, a team of developers from Kyiv [presented](https://2022.spaceappschallenge.org/challenges/2022-challenges/earth-data-analysis-developers-wanted/teams/worldwind-kotlin/project) an open-source SDK ([WorldWind Kotlin](https://github.com/WorldWindEarth/WorldWindKotlin)) for creating applications that work with online and offline 3D maps.
+
+The source of data can be from any public service (OpenTopoMap, OpenStreetMap, GoogleMaps, WikiMapia and others), well-known sources of SRTM, ASTER, ALOS, GEBCO elevations, and servers working on WMS, WMTS and WCS protocols. The WorldWind Kotlin SDK supports visualisation of icons, lines, polygons and ellipses both in 3D space and on the surface. An example [application](https://tutorials.worldwind.earth/) is available to see what the end product looks like."
+18171,"WN682","Did you know that…","[1] ... that amateur radio operators are keen to explore new technologies and mapping is one of them? Many applications make use of OSM, such as the [APRS](https://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System) position tracking service with its [APRS-Map](https://aprs.fi/#!mt=osm&z=11&call=&others=1&timerange=3600&tail=3600), which shows the location of [KiwiSDR](http://rx.linkfanel.net/) receivers, or the popular [Repeater Map](https://repeatermap.de/), which shows the position of amateur radio repeater stations. But amateur radio operators are not just consumers of OSM, they are also contributors. You can find them everywhere, writing for _weeklyOSM_, just mapping, or on the OSMF board. So it is not surprising that there are amateur radio features in OSM community projects, such as the optional [QTH locator](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) layer, a special geographic co-ordinate system, on the [OpenTopoMap](https://www.opentopomap.org/#map=10/50.9548/13.0241). Radio amateurs have also [produced](https://www.dxmaps.com/spots/mapg.php) their own map to check the propagation conditions on the various radio bands they use."
+19578,"WN716","Did you know that…","... the various options for supplying your Garmin devices with OSM maps?
+   [OpenTopoMap](https://garmin.opentopomap.org/)
+   [Speichenkarte](https://speichenkarte.de/) :DE-s:>>>[:EN-t:](https://speichenkarte-de.translate.goog/?_x_tr_sl=auto&_x_tr_tl=EN)
+   [Garmin's TopoActive](https://gpsradler.de/news/kartenupdate-garmin-topoactive-2020-20/) :DE-s:>>>[:EN-t:](https://gpsradler-de.translate.goog/news/kartenupdate-garmin-topoactive-2020-20/?_x_tr_sl=auto&_x_tr_tl=EN)
+  [kleineisel.de](http://www.kleineisel.de/blogs/index.php/osmmap/) :DE-s:
+  [VeloMap](https://www.velomap.org/)
+  [WanderReitKarte.de](https://www.wanderreitkarte.de/garmin_de.php) :DE-s:>>>[:EN-t:](https://www-wanderreitkarte-de.translate.goog/garmin_de.php?_x_tr_sl=auto&_x_tr_tl=EN)
+  [thkukuk.de](https://www.thkukuk.de/osm/) :DE-s:>>>[:EN-t:](https://www-thkukuk-de.translate.goog/osm/?_x_tr_sl=auto&_x_tr_tl=EN)
+  [freizeitkarte-osm.de](https://www.freizeitkarte-osm.de/garmin/de/regionen.html) :DE-s:>>>[:EN-t:](https://www-freizeitkarte--osm-de.translate.goog/garmin/de/regionen.html?_x_tr_sl=auto&_x_tr_tl=EN)
+  [hscholland.de](https://www.hscholland.de/OSM/index.php) :DE-s:>>>[:EN-t:](https://www-hscholland-de.translate.goog/OSM/index.php?_x_tr_sl=auto&_x_tr_tl=EN)
+  [OpenHiking.eu](https://www.openhiking.eu/)
+  [hike-and-bike.ch](https://hike-and-bike.ch/en/)"
