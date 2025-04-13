@@ -4,7 +4,7 @@ Storage of statistical files for the weeklyOSM , initially static and considerin
 
 All processes with SQL statements - SELECT, DELETE, UPDATE, in the PostgreSQL.
 
-This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto.
+This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto. Colaborate in this research: Strubbl, derFred and TheFive.
 
 How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://github.com/raqueldeziderio/weeklyOSM-stats. GPL 3.0.
 
