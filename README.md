@@ -19,11 +19,9 @@ How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://git
 
          WN272 to WN768 - considered to this analysis
 
-* 43 categories
+* 35 categories
    
-* 32.261 - total dataset
-   
-* 3.013 - unpublished records
+* 21.767 - total dataset
   
 2) Initial cleaning
 
@@ -32,8 +30,8 @@ How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://git
 * Deleting the articles in the following categories, because not corresponding to actual categories or corresponding to 
    unpublished articles:
    
-   [Actual Category] (68 records), automatically translated links of this week (1), exerciseEN: (2), Long Term Dates (3),
-   -- no category yet -- (5), Not translated (3), SotM 2016 (5), #switch2OSM (7), switch2OSM (282), unpublished (3,013).
+   [Actual Category] (68 records), automatically translated links of this week (1), exerciseEN: (8), Long Term Dates (3),
+   -- no category yet -- (5), Not translated (3), unpublished (3,013). 
 
    delete from weekly_issues where (category='[sentence here]')
         
@@ -47,12 +45,15 @@ How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://git
 * Standardizing Licences (en-GB) and Licenses (en-US) to the actual category (Licenses) (138 records)
 
    update weekly_issues set category='Licenses' where category='Licences'
+
+  * Standardizing 'SotM 2016' to 'Events'
+  * Standardizing '#switch2OSM' and 'switch2OSM' to 'OSM in action'
    
 4) Analysis dataset
    
     After cleaning and standardizing processes:
 
-* 18.378 records
+* 18.672 records
    
 * 24 categories:
 
