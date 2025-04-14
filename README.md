@@ -21,7 +21,7 @@ How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://git
 
 * 35 categories
    
-* 21.767 - total dataset
+* 21.864 - total dataset
   
 2) Initial cleaning
 
