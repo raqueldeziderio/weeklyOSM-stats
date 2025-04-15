@@ -18,9 +18,11 @@ SELECT category, count(*) from weekly_issues
         GROUP BY category
         ORDER BY count(*) DESC;
 
-* --- Most frequent words in the table weekly_issues, column markdown, according to category.
+* Most frequent words in the table weekly_issues, column markdown, according to category.
 
-ndoc .. the number of rows  | nentry .. the number of occurrences (can be bigger with multiple instances in a single text).
+ndoc .. the number of rows 
+
+nentry .. the number of occurrences (can be bigger with multiple instances in a single text).
 
 1 - top_sites_category_software...csv
 
