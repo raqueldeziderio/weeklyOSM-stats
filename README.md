@@ -112,6 +112,7 @@ How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://git
    
    https://wiki.openstreetmap.org/wiki/Comparison_of_editors
    https://osm-apps.org/?category=edit ("Improve the map" category)
+   https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services
 
    The .csv files has these overall delimiters: 
    
