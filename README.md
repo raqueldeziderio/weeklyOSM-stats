@@ -8,6 +8,12 @@ This analysis is under development. To keep contact about this initiative: ivide
 
 How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://github.com/raqueldeziderio/weeklyOSM-stats. GPL 3.0.
 
+To know about the OSM-Wochennotiz (weeklyOSM)
+
+Issue #1 (July 23, 2010): https://blog.openstreetmap.de/blog/2010/07/osm-wochennotiz-nr-1/
+
+Actual host: https://weeklyosm.eu/
+
 ===== Sequence of steps ======
 
 1) Initial file
