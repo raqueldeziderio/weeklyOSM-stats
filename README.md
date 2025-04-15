@@ -109,9 +109,11 @@ How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://git
 
    The files with specific selection according to the application type - editors, navigators, QA analysis and others, are 
    stored in the folders /selection and /statistics in this project. The softwares were selected according to these two repos:
-   
+
    https://wiki.openstreetmap.org/wiki/Comparison_of_editors
+   
    https://osm-apps.org/?category=edit ("Improve the map" category)
+   
    https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services
 
    The .csv files has these overall delimiters: 
