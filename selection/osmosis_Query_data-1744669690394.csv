@@ -1,0 +1,16 @@
+"id","blog","category","markdown"
+884,"WN286","Mapping","  Osmosis was released in mid-December for Australia. Andrew Davidson notes that [the most common mistake](https://lists.openstreetmap.org/pipermail/talk-au/2016-January/010789.html) is ""approximate waterway""."
+2007,"WN306","Releases","| Software|Version|Release Date| Comment|
+| ------ | ----------- |----|----|
+|[OpenLayers](http://openlayers.org/)|[3.16.0](https://github.com/openlayers/ol3/releases/tag/v3.16.0)|2016-05-23|Features and fixes from 95 pull requests since release v3.15.1|
+|[iD](http://ideditor.com/)|[1.9.5](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-05-25|-|
+|[Maps.me iOS](http://maps.me)|[6.1.7](https://itunes.apple.com/app/id510623322)|2016-05-25|ZIP codes available|
+|[osmosis](http://wiki.openstreetmap.org/wiki/Osmosis)|[0.45](https://lists.openstreetmap.org/pipermail/osmosis-dev/2016-May/001780.html)|2016-05-27|Many, see release info|
+
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+6526,"WN398","Programming","There are plans to [redirect HTTP requests](https://github.com/openstreetmap/operations/issues/200) to planet.openstreetmap.org on HTTPS from May 7th. Users of Osmosis and curl are made aware that these programs can't follow the redirect."
+6747,"WN403","Programming","From May 7 onwards all unencrypted HTTP requests will be [forwarded](https://lists.openstreetmap.org/pipermail/dev/2018-April/030193.html) to planet.openstreetmap.org on HTTPS (port 443). For Curl, Java (Osmosis) and other HTTP clients this following of redirects must be activated manually!"
+9256,"WN456","Programming","Users of systems using Osmosis to obtain the minutely diffs should check whether their system continued functioning properly after 11 April. On that day, a diff was published that Osmosis could not handle. See the [mailing list Talk](https://lists.openstreetmap.org/pipermail/talk/2019-April/082391.html) for more information."
+13150,"WN541","Maps","Jacek Czapla has made [some suggestions](https://medium.com/dac-technology-blog/openstreetmap-map-size-reduction-guide-43372bbf38c9) as to how to reduce the size of an OSM file before use in an application. His approach uses the --tag-filter option of Osmosis to retain only the road network and buildings."
+14686,"WN579","Did you know that …","... that [LearnOSM](https://learnosm.org/en/) is dedicated to helping people learn how to map in OpenStreetMap? The guides start from the basics of what OSM is and how to get mapping, through to advanced topics such as osm2pgsql and manipulating data with Osmosis."
+16063,"WN618","Programming","OpenSnowMap has [moved](https://blog.opensnowmap.org/major-update-but-you-wont-notice/) its API from [Osmosis](https://github.com/openstreetmap/osmosis/) to [Osm2pgsql](https://osm2pgsql.org/), resulting in a major performance improvement in the request response delay."
