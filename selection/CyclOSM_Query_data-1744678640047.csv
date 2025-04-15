@@ -1,0 +1,17 @@
+"id","blog","category","markdown"
+10348,"WN480","Maps","[1] CyclOSM is a brand new bike-oriented map based on OpenStreetMap data. The goal is to provide a beautiful and practical map for cyclists, regardless of their habits or abilities. A global server is available at [https:/www.cyclosm.org](https://www.cyclosm.org/#map=13/49.4118/8.6983/cyclosm) supported by OSM-France"
+10335,"WN480","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/sites/4/2019/10/480_T_EN.png =925x480)
+
+CyclOSM is a brand new bike-oriented map [^1^](#wn80_21017) | Leaflet | CyclOSM v0.2 | Map data © OpenStreetMap contributors"
+11372,"WN502","Releases","Florimond Berthoux [announced](https://lists.openstreetmap.org/pipermail/talk/2020-February/084257.html) the release of a new version of [CyclOSM](https://www.cyclosm.org/), on its first anniversary. In his mail he briefly mentions the rendering improvements made in recent versions."
+11635,"WN509","Releases","CyclOSM v0.3.5 has been released with new features such as mountain bike difficulty scales, inner tube vending machines, and railways at low zooms... A short overview can be seen in the [release twitter post](https://twitter.com/CyclOSMorg/status/1250509136330215424) and the full [change log here](https://github.com/cyclosm/cyclosm-cartocss-style/releases/tag/v0.3.5)."
+12875,"WN534","Software","CyclOSM [has released](https://github.com/cyclosm/cyclosm-cartocss-style/releases/tag/v0.3.7) its new 0.3.7 version, including many rendering improvements."
+13470,"WN548","Maps","[1] With [little fanfare](https://github.com/openstreetmap/openstreetmap-website/pull/2994), [CyclOSM](https://www.cyclosm.org/), a beautiful and practical bicycle-oriented map, was [added to the default layers](https://www.openstreetmap.org/#map=13/52.2020/0.1511&layers=Y) on openstreetmap.org."
+13489,"WN548","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/sites/4/2021/01/548_T_EN-1.png =926x508)
+
+CyclOSM now a default layer on openstreetmap.org  [^1^](#wn548_24187) |  © Tiles style by CyclOSM hosted by OpenStreetMap France |  map data © OpenStreetMap contributors"
+13794,"WN555","Maps","_CyclOSM_ [released](https://github.com/cyclosm/cyclosm-cartocss-style/releases/tag/v0.5) the version 0.5 update of its map, featuring contour lines, cycle tracks and better rendering of lanes shared between buses and bicycles."
+13784,"WN555","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/sites/4/2021/03/555_T_all.png =810x573)
+
+CyclOSM released the 0.5 update of it’s map [[^1^](#wn555_24543)] | © [CyclOSM.org](https://www.cyclosm.org/#map=3/56.80/19.69/cyclosm) | map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)"
+14427,"WN571","Did you know that …","... [CyclOSM](https://www.cyclosm.org/)? This is one of two bicycle maps featured as layers on the main OSM site."
