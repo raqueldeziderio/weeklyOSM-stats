@@ -1,0 +1,421 @@
+"id","blog","category","markdown"
+137,"WN273","Programming","Jerome Cukier reports that the sourcecode of [React-map-gl](https://github.com/uber/react-map-gl) was published. This project provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library."
+205,"WN274","Programming","Richard Fairhurst publishes [Glug](https://github.com/systemed/glug), a text-based and compact markup language that compiles to Mapbox GL JSON styles. (via [@richardf](https://twitter.com/richardf/status/652187491441750016))"
+1548,"WN297","Maps","Christopher Möller of webkid [explains](http://blog.webkid.io/mapbox-gl-data-visualization/) how they used Mapbox GL to generate a vector based and interactive map of cycleways in Berlin."
+2227,"WN310","Releases","| Software|Version|Release Date| Comment|
+| ------ | ----------- |----|----|
+|[GraphHopper Routing Engine](https://graphhopper.com/)|[0.7](https://graphhopper.com/blog/2016/06/15/graphhopper-routing-e+ngine-0-7-released/)|2016-06-15|Java 7 support, new translations and many more
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.20.1](https://github.com/mapbox/mapbox-gl-js/releases)|2016-06-21|Bugfix|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|2.40|2016-06-21|No info|
+|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2016-06-23](https://github.com/osm-fr/osmose-backend/releases)|2016-06-23|No info|
+|[OSM Buildings](http://osmbuildings.org)|[3.0.0](https://github.com/OSMBuildings/OSMBuildings/releases/tag/v3.0.0)|2016-06-24|4 changes and 2 fixes|
+|[OSRM Backend](http://project-osrm.org/)|[5.2.6](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.2.6)|2016-06-24|Bugfix |
+|[Cruiser for Android](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.8](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-06-25|Multilingual vector maps|
+|[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.7|2016-06-25|-|
+|[Locus Map Free](http://www.locusmap.eu/)|[3.18.0](http://www.locusmap.eu/news-version-3-18-0)|2016-06-27|New function added|
+
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+2372,"WN313","Releases","| Software|Version|Release date| Comment|
+| ------ | ----------- |----|----|
+|[QGIS](http://www.qgis.org)|2.16.0|2016-07-08|No infos|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|2.41.0|2016-07-12|No infos|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.21.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-07-13|11 new features & improvements, 10 bug fixes|
+|[Naviki iOS](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.45](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2016-07-13|Some improvements|
+|[Komoot iOS](https://www.komoot.de/)|[8.2](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-07-14|Some extensions and improvements|
+|[QMapShack Lin/Mac/Win](https://bitbucket.org/maproom/qmapshack/wiki/Home)|1.6.3|2016-07-15|No infos|
+|[Cruiser for Android](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.9](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-07-16|SVG Graphics|
+|[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.8|2016-07-16|No infos|
+|[Locus Map Free](http://www.locusmap.eu/)|3.18.4|2016-07-16|Bugfix release|
+|[osm2pgsql](https://github.com/openstreetmap/osm2pgsql)|[0.90.1](https://lists.openstreetmap.org/pipermail/dev/2016-July/029370.html)|2016-07-16|Maintainance release without new features|
+|[iD](http://ideditor.com/)|[1.9.7](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-07-17|No infos|
+|[Mapillary iOS](http://www.mapillary.com/map)|[4.4.3](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-07-17|Some fixes|
+|[Naviki Android](https://www.naviki.org/naviki/)|[3.45](https://play.google.com/store/apps/details?id=org.naviki)|2016-07-18|Some improvements|
+
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+2510,"WN316","Licenses","Due to the [discussion](https://github.com/osm2vectortiles/osm2vectortiles/issues/387) about the replicas of the map style Mapbox Streets (in JSON format of Mapbox GL) between Mapbox and the OSM2Vectortiles project. Steve Gifford [writes about](http://mousebirdconsulting.blogspot.de/2016/08/deprecating-mapbox-gl-style-sheet.html) Mapbox GL Style Sheets of the WhirlyGlobe toolkit for version 2.5. Styled Layer Descriptor format support is coming soon. As Steve says: ""Not as cool, but a nice safe OGC standard."""
+2588,"WN317","Maps","A free Mapbox GL basemap, [OSM liberty](https://github.com/lukasmartinelli/osm-liberty) from OpenStreetMap, with complete liberty to use and self host. It is a fork of OSM Bright based on free data sources with a mission for a clear good looking design for the everyday user."
+2555,"WN317","Releases","| Software|Version|Release date| Comment|
+| ------ | ----------- |----|----|
+|[OSRM Backend](http://project-osrm.org/)|[5.3.2](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.3.1)|2016-08-09|One bug fixed|
+|[Naviki Android](https://www.naviki.org/naviki/)|[3.45.3](https://play.google.com/store/apps/details?id=org.naviki)|2016-08-11|Two errors fixed|
+|[SQLite](http://www.sqlite.org/)|[3.14.1](http://www.sqlite.org/releaselog/3_14_0.html)|2016-08-11|Performance enhancement to the page-cache, fix of --rbu option|
+|[JOSM](http://josm.openstreetmap.de/)|[10786](http://josm.openstreetmap.de/wiki/Changelog)|2016-08-12|Java 7 not supported any more, new function ""Paste at source position"", support geo: URLs |
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.22.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-08-12|Two breaking changes, seven new features & improvements, eight bugfixes|
+|[Mapillary Android](http://www.mapillary.com/map)|[2.38](https://play.google.com/store/apps/details?id=app.mapillary)|2016-08-12|Many extensions and some bug fixes|
+|[Mapillary iOS](http://www.mapillary.com/map)|[4.4.9](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-08-12|Three bugs fixed|
+|[OsmAnd+ for Android](http://osmand.net/)|[var](https://play.google.com/store/apps/details?id=net.osmand.plus)|2016-08-12|New UI, enhanced POI search, improved POI and OSM editing|
+|[PostgreSQL](http://www.postgresql.org/)|[9.5.4 ff](https://www.postgresql.org/docs/9.5/static/release-9-5-4.html)|2016-08-12|Update releases fixing a number of issues of 9.5.3|
+|[Maps.me Android](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-08-15|POI for Olympia, updated map data|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+2652,"WN318","Releases","| Software|Version|Release date| Comment|
+| ------ | ----------- |----|----|
+|[OsmAnd for Android  ](http://osmand.net/)|[2.4](http://osmand.net/blog)|2016-08-08|New search interface and many fixes|
+|[Magic Earth  ](http://www.generalmagic.com/magic-earth/)|[7.1.16.33](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-08-16|GPS problems solved, better performance, some bugs fixed|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.22.1](https://github.com/mapbox/mapbox-gl-js/releases)|2016-08-18|Reduced library size, warning added, three bugs fixed|
+|[Mapillary Android  ](http://www.mapillary.com/map)|[2.39](https://play.google.com/store/apps/details?id=app.mapillary)|2016-08-18|Some adjustments and fixes|
+|[Maps.me Android  ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-08-18|Changes in vehicle and bicycle navigation, better hotel search, new map data|
+|[Maps.me iOS  ](http://maps.me)|[6.3.2](https://itunes.apple.com/app/id510623322)|2016-08-18|Changes in vehicle and bicycle navigation, better hotel search, new map data|
+|[OsmAnd+ for Android  ](http://osmand.net/)|[var](https://play.google.com/store/apps/details?id=net.osmand.plus)|2016-08-22|New search interface and many fixes|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+2695,"WN319","Releases","| Software|Version|Release date| Comment|
+| ------ | ----------- |----|----|
+|[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
+|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2016-08-22](https://github.com/osm-fr/osmose-backend/releases)|2016-08-22|No info|
+|[Mapillary iOS  ](http://www.mapillary.com/map)|[4.4.10](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-08-23|iOS 10 support, bug fixed|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.23.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-08-24|Five new functions, performance enhancements and some bugs fixed|
+|[ODL Studio](http://www.opendoorlogistics.com/software/)|[1.3.5](http://www.opendoorlogistics.com/odl-studio-v1-3-5-released)|2016-08-24|Update notifyer, two bugs fixed|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.7](http://vespucci.io/help/en/0.9.7%20Release%20notes/)|2016-08-24|Too much, please read release info|
+|[Locus Map Free  ](http://www.locusmap.eu/)|3.18.7|2016-08-25|BRouter configuration, some fixes|
+|[Maps.me Android  ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-08-25|GPS error fixed, new map data|
+|[QGIS](http://www.qgis.org)|2.16.2|2016-08-26|No infos|
+|[OpenLayers](http://openlayers.org/)|[3.18.1](https://github.com/openlayers/ol3/releases/tag/v3.18.1)|2016-08-29|Patch of the recently published 3.18.0|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+2756,"WN320","Programming","Petr Pridall of [Klokan Technologies](https://www.klokantech.com/), the project [Tileserver GL](https://github.com/klokantech/tileserver-gl). This is a tile server written in Node.js  that uses Mapbox GL Native (C and OpenGL)."
+2901,"WN323","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.24.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-09-19|Eleven new features & improvements, ten bugs fixed.|
+|[OsmAnd for iOS&nbsp; ](http://osmand.net)|[1.2.5](http://osmand.net/blog?id=osmand-ios-1.2.3-released)|2016-09-19|Bugs fixed.|
+|[Geobuf](https://github.com/mapbox/geobuf)|[3.0.0](https://github.com/mapbox/geobuf/blob/master/CHANGELOG.md)|2016-09-20|One important breaking change and one bug fixed.|
+|[OsmAnd for Android&nbsp; ](http://osmand.net/)|[2.4](http://osmand.net/blog)|2016-09-21|No actual info.|
+|[OsmAnd+ for Android&nbsp; ](http://osmand.net/)|[2.4.6](https://play.google.com/store/apps/details?id=net.osmand.plus)|2016-09-21|Car audio system integration, better routing, bugfixes.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8](http://vespucci.io/help/en/0.9.8%20Release%20notes/)|2016-09-21|Many changes and improvements, please read relase info.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[2.40](https://play.google.com/store/apps/details?id=app.mapillary)|2016-09-23| Login and signup with OpenStreetMap and Google, fixes for more stable browsing.|
+|[QGIS](http://www.qgis.org)|[2.16.3](https://github.com/qgis/QGIS/releases/tag/final-2_16_3)|2016-09-23|No infos|
+|[Gnome Maps](https://wiki.gnome.org/Apps/Maps)|[3.22.0](http://linux.softpedia.com/progChangelog/GNOME-Maps-Changelog-102221.html)|2016-09-24|Added, updated or fixed translations: Persian, Italian, Scottish Gaelic and Ukrainian.|
+|[Maperitive&nbsp; ](http://maperitive.net/)|[2.4.0](http://maperitive.net/docs/)|2016-09-25|No Info|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-09-26|No info|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.14](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-09-26| Login and signup with OpenStreetMap and Google,  preserving EXIF tags.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-09-26|GPS error fixed, new map data.|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[2.44.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v2.43.0...v2.44.0)|2016-09-26|Please read info.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+2935,"WN323","Programming","Lukas Martinelli [searches](https://www.kickstarter.com/projects/174808720/maputnik-visual-map-editor-for-mapbox-gl) for supporters on Kickstarter.com  to develop a free style editor for JSON Styles for MapboxGL. The funding target was 4000 CHF and was reached during the SotM weekend."
+3011,"WN324","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[PostGIS](http://www.postgis.net)|[2.3.0](https://svn.osgeo.org/postgis/tags/2.3.0/ChangeLog)|2016-09-26|Support parallel processing when using PostgreSQL 9.6|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-09-28|Swipe-to-pause gesture and minor improvements.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-09-28|Modifications for iOS 10|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.15](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-09-28|Two bugs fixed.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-09-28| Height profiles for pedestrians and cyclists, improvement of search and map editor.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[6.4.3](https://itunes.apple.com/app/id510623322)|2016-09-28| Height profiles for pedestrians and cyclists, improvement of search and map editor.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1200](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/0.9.8r1200)|2016-09-28|No information.|
+|[PostgreSQL](http://www.postgresql.org/)|[9.6.0](https://www.postgresql.org/docs/9.6/static/release-9-6.html)|2016-09-29|Highliht: Parallel support, please read release info.|
+|[BRouter](http://brouter.de/brouter/)|[1.4.6](http://brouter.de/brouter/revisions.html)|2016-09-30|Improved memory footprint, tweaked recalculation timeout logic. |
+|[Leaflet](http://leafletjs.com/)|[1.0.1](https://github.com/Leaflet/Leaflet/blob/master/CHANGELOG.md)|2016-09-30|Completely revised version, please read release information.|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.16.39](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-09-30|No specific information.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.25.1](https://github.com/mapbox/mapbox-gl-js/releases)|2016-09-30|Bug fix of the currently released version v0.25.0|
+|[Traccar Client Android&nbsp;?](https://www.traccar.org/client/)|[3.12](https://www.traccar.org/blog/category/releases/)|2016-10-01|Fix some small issues.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[2.42](https://play.google.com/store/apps/details?id=app.mapillary)|2016-10-03|Bug fixes with login, signup and camera when receiving calls.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3089,"WN326","Mapping","AJ Ashton [explains](https://www.mapbox.com/blog/mapping-3d-buildings/) how to tag complicated buildings and add 3D information to them. This information can now also be viewed on Mapbox Streets and Mapbox GL JS."
+3107,"WN326","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.49](https://play.google.com/store/apps/details?id=org.naviki)|2016-10-11|Layout revised, better bluetooth support, bugs fixed.|
+|[GeoServer](http://geoserver.org/)|[2.9.2](http://blog.geoserver.org/2016/10/12/geoserver-2-9-2-released/)|2016-10-12|Better Mac OS support, 30 bugs fixed, many improvements.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.19.0](http://www.locusmap.eu/news-version-3-19-0/)|2016-10-12|New maps and some fixes.|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[2.44.1](https://github.com/gravitystorm/openstreetmap-carto/compare/v2.44.0...v2.44.1)|2016-10-12|Please read info.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-10-13|Adjustments and performance enhancements for Android 7|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.26.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.26.0)|2016-10-13|Six new functions, better performance and some bugs fixed.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1204](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/0.9.8r1204)|2016-10-13|No informations.|
+|[SQLite](http://www.sqlite.org/)|[3.15.0](http://www.sqlite.org/releaselog/3_15_0.html)|2016-10-14|Eight extensions and five bugs fixes.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2..1.0](https://github.com/mapzen/lost/releases/tag/lost-2.1.0)|2016-10-17|Four new funtions, four bugs fixed.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3208,"WN328","Licenses","Mapbox [clarifies](https://twitter.com/lukmartinelli/status/791658275922206720) who has which rights on a map style for Mapbox GL JS when created with Mapbox Studio. It does not make any demands on styles self-written by its users."
+3287,"WN330","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[OSRM Backend](http://project-osrm.org/)|[5.4.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.4.3)|2016-11-08|Bugfix release.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.5.5](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-11-10|Bugfix release.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.10.0](https://github.com/osmcode/libosmium/releases)|2016-11-11|Too many changes, please read release info.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.27.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.27.0)|2016-11-11|Many extensions and fixes, see release info.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4.2](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-11-13|Gallery reworked.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-11-14|Minor enhancements.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-11-14|Bug fixes and new map data.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3357,"WN331","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.14](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-11-15|Various improvements.|
+|[Cruiser for Desktop&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.14|2016-11-15|Various improvements.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.0.6](https://play.google.com/store/apps/details?id=app.mapillary)|2016-11-15|Fix dialog text and image dates on some devices.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-11-16|Minor enhancements.|
+|[PyOsmium](http://osmcode.org/pyosmium/)|[2.10.2](https://github.com/osmcode/pyosmium/releases)|2016-11-16|Three extensions, two bug fixes and use actual libosmium.|
+|[iD](http://ideditor.com/)|[2.0.1](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-11-17|Bug fixes of the just released 2.0.0.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.28.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.28.0)|2016-11-17|Three new features and improvements, six bug fixes.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1214](http://vespucci.io/help/en/0.9.8%20Release%20notes/)|2016-11-18|See release info.|
+|[Traccar Server](https://www.traccar.org/server/)|[3.8](https://www.traccar.org/blog/category/releases/)|2016-11-19|No Info.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.10.3](https://github.com/osmcode/libosmium/releases/tag/v2.10.3)|2016-11-20|Please read release info.|
+|[Osmium Tool](http://osmcode.org/osmium/)|[1.4.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2016-11-20|Two extensions, four changes and three fixes.|
+|[Leaflet](http://leafletjs.com/)|[1.0.2](https://github.com/Leaflet/Leaflet/blob/master/CHANGELOG.md)|2016-11-21|Many bug fixes and enhancements, please read release information.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[6.5.3](https://itunes.apple.com/app/id510623322)|2016-11-21|Bug fixes.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3397,"WN332","Imports","Brandon Liu [announces](https://lists.openstreetmap.org/pipermail/imports/2016-November/004672.html) a planned import of building heights in San Francisco. The initiative [seems](http://www.openstreetmap.org/user/Chetan_Gowda/diary/39958) to be motivated by Mapbox GL JS.  A discussion [ensues](https://lists.openstreetmap.org/pipermail/imports/2016-November/004707.html) about how involved the local the mappers are, and the initiator of the project [explains](https://lists.openstreetmap.org/pipermail/imports/2016-November/004708.html) his motivation."
+3564,"WN335","Programming","Thomas Park releases its open source editor of vector styles for interactive maps. The [MVT Styler](https://sputnik-maps.github.io/mvt-styler/) uses the Mapbox GL Style specification."
+3570,"WN336","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.16](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-20|Various improvements.|
+|[Cruiser for Desktop&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.16|2016-12-20|No info.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.29.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.29.0)|2016-12-20|Many changes and bugfixes. Please read change log.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.11](https://play.google.com/store/apps/details?id=app.mapillary)|2016-12-20|Google login & signup is now working.|
+|[OpenLayers](http://openlayers.org/)|[3.20.1](https://github.com/openlayers/ol3/releases/tag/v3.20.1)|2016-12-20|Two bugfixes.|
+|[GeoServer](http://geoserver.org/)|[2.10.1](http://blog.geoserver.org/2016/12/21/geoserver-2-10-1-released/)|2016-12-21|Four extensions and nine fixes.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-12-21|Minor enhancements.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.21.0](http://www.locusmap.eu/news-version-3-21-0)|2016-12-21|Many changes and bugfixes. Please read change log.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-12-21|Bug fixes and new map data.|
+|[OSRM Backend](http://project-osrm.org/)|[5.5.2](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.2)|2016-12-21|One bugfix.|
+|[iD](http://ideditor.com/)|[2.0.2](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-12-22|Three new features and six bugfixes.|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[3.0.1](https://github.com/gravitystorm/openstreetmap-carto/compare/v3.0.0...v3.0.1)|2016-12-22|Fix of version 3.0.0 released the same day.|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.16.51](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-12-23|Optimized search, new font system and more.|
+|[GEOS](http://trac.osgeo.org/geos)|[3.6.1](http://trac.osgeo.org/geos/browser/tags/3.6.1/NEWS)|2016-12-24|Four bugfixes.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3649,"WN338","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[OSRM](http://josm.openstreetmap.de/)|[5.5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0)|2016-12-16|Navigation, tag interpretation and the API infrastructure have been improved.|
+|[JOSM](http://josm.openstreetmap.de/)|[11427](http://josm.openstreetmap.de/wiki/Changelog)|2016-12-31|No info.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.14](https://play.google.com/store/apps/details?id=app.mapillary)|2017-01-04|Much faster GPX fix.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.30.0](https://github.com/mapbox/mapbox-gl-js/releases)|2017-01-05|No info.|
+|[Naviki Android; ](https://www.naviki.org/naviki/)|[3.52.4](https://play.google.com/store/apps/details?id=org.naviki)|2017-01-05|Accuracy improved.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.5.11](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-01-06|Improved onboarding.|
+|[SQLite](https://sqlite.org/)|[1.16.2](https://sqlite.org/releaselog/3_16_2.html)|2017-01-06|Four fixes.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3731,"WN339","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.21.1](https://play.google.com/store/apps/details?id=menion.android.locus)|2017-01-10|Bugfix release.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.31.0](https://github.com/mapbox/mapbox-gl-js/releases)|2017-01-10|One new feature and two bugfixes.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.5.12](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-01-10|Minor fixes.|
+|[OSRM](http://project-osrm.org/)|[5.5.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.3)|2017-01-11|Two enhancements and three bugfixes.|
+|[Naviki iOS; ](https://www.naviki.org/naviki/)|[3.53](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2017-01-12|Supporting Apple Watch.|
+|[OSM Contributor](https://github.com/jawg/osm-contributor)|[3.0.1](https://github.com/jawg/osm-contributor/releases)|2017-01-12|Bugfix release.|
+|[QGIS](http://www.qgis.org/)|[2.18.3](https://github.com/qgis/QGIS/releases/tag/final-2_18_3)|2017-01-13|No info.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.11.0](https://github.com/osmcode/libosmium/releases)|2017-01-14|Many changes, please read release info.|
+|[Traccar Client Android](https://www.traccar.org/client/)|[4.0](https://play.google.com/store/apps/details?id=org.traccar.client)|2017-01-14|No info.|
+|[pyosmium](https://github.com/osmcode/pyosmium)|[2.11](https://github.com/osmcode/pyosmium/releases)|2017-01-15|Use current libosmium.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3801,"WN341","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Traccar Client iOS](https://itunes.apple.com/us/app/traccar-client/id843156974)|[4.0](https://itunes.apple.com/us/app/traccar-client/id843156974)|2017-01-16|Fix battery level reading.|
+|[Osmose Backend](https://github.com/osm-fr/osmose-backend/)|[v10.0-2017-01-24](https://github.com/osm-fr/osmose-backend/releases/tag/v1.0-2017-01-24)|2017-01-24|No infos.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.32.1](https://github.com/mapbox/mapbox-gl-js/releases)|2017-01-26|One bug fixed.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.2](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-01-26|Tap on user names and hyperlinks.|
+|[Naviki Android; ](https://www.naviki.org/naviki/)|[3.53.1](https://play.google.com/store/apps/details?id=org.naviki)|2017-01-26|Bluetooth bug fixed.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.24](https://play.google.com/store/apps/details?id=app.mapillary)|2017-01-27|Less user data saved in EXIF, fix small bugs, dismissal be error notification.|
+|[OpenJUMP](http://jump-pilot.sourceforge.net/)|[1.10](https://sourceforge.net/projects/jump-pilot/files/OpenJUMP/1.10/)|2017-01-27|Many enhancements and fixes, read release info.|
+|[OpenStreetmap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[3.1.0](https://github.com/gravitystorm/openstreetmap-carto/releases/tag/v3.1.0)|2017-01-29|No infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-01-30|Improved search, search filters.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.1.1](https://itunes.apple.com/app/id510623322)|2017-01-30|Improved search, search filters.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3829,"WN341","Programming","Mapbox [writes](https://www.mapbox.com/blog/construction-project-atlas/) about   Project Atlas   that turns blueprints into maps – ingesting thousands of drawings and work orders per project, converting them from building information modeling (BIM) and computer-aided design (CAD) formats to Mapbox vector tiles, and making them interactive with Mapbox GL JS."
+4118,"WN347","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[OSRM Backend](http://project-osrm.org/)|[5.6.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.6.3)|2017-03-03|Some bugfixes.|
+|[Osmium Tool](http://osmcode.org/osmium/)|[1.6.0](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Many changes, please read release info.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.12.0](https://github.com/osmcode/libosmium/releases/tag/v2.12.0)|2017-03-07|Many changes and bugfixes. Please read change log.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.4.6](https://blog.mapcontrib.xyz/category/release-notes/)|2017-03-08|Bug fixed.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.32](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-08|Fix background crash in camera and upload.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.22.1](http://www.locusmap.eu/news-version-3-22-1)|2017-03-09|Bugfix release.|
+|[VROOM](https://github.com/VROOM-Project)|[V1.1.0](https://github.com/VROOM-Project/vroom/blob/master/CHANGELOG.md)|2017-03-09|Three extensions and three changes.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.33.1](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.33.1)|2017-03-10|Many changes and bugfixes. Please read change log.|
+|[Routino](http://www.routino.org)|[3.2](http://www.routino.org/software/NEWS.txt)|2017-03-12|Various bug fixes, more translated phrases and some web page improvements.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4166,"WN348","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.33](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-14|Fix bug in distance mode, upgrade map box map for more stability.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.9](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-03-15|Added support for future feed items, some bugs fixed.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.22.2](http://www.locusmap.eu/news-version-3-22-1)|2017-03-16|Bugfix release.|
+|[Maps 3D Pro&nbsp; ](https://itunes.apple.com/de/app/maps-3d-pro-gps-tracks-fur/id391304000)|[4.1.4](https://itunes.apple.com/de/app/maps-3d-pro-gps-tracks-fur/id391304000)|2017-03-16|Many changes and fixes, please read release infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-03-16|Hotel pages enhanced.|
+|[Naviki iOS&nbsp; ](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.56](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2017-03-16|Integration of smart bike systems, bug fixes.|
+|[Traccar Client Android](https://www.traccar.org/client/)|[4.1](https://www.traccar.org/blog/category/releases/)|2017-03-16|Fix some small issues.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-03-17|Minor enhancements.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.34.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.34.0)|2017-03-17|Two new features and three bugfixes.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.6](https://github.com/MapContrib/MapContrib/releases/tag/1.6.0)|2017-03-17|Bug fixed.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.56](https://play.google.com/store/apps/details?id=org.naviki)|2017-03-17|Integration of smart bike systems, connection to Bluetooth devices revised, bug fixes.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.2.1](https://itunes.apple.com/app/id510623322)|2017-03-19|Fixes for iOS 8.|
+|[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.0](https://github.com/osmcode/pyosmium/releases)|2017-03-20|Three extensions, documentation fixes and use actual libosmium.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4307,"WN351","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Osmium Tool](http://osmcode.org/osmium/)|[1.6.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Two changes and three fixes.|
+|[GpsMaster](http://wiki.openstreetmap.org/wiki/GpsMaster)|[0.63.00](https://wiki.openstreetmap.org/wiki/GpsMaster/Changelog#0.63.00)|2017-04-06|OpenCycleMap enhanced, OpenTopoMap added and more changes.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-04-07|Route planning and search reworked.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[9.0.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2017-04-07|Improvement of performance and further small changes.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.35.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.35.0)|2017-04-07|Seven new features and 12 bugfixes.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.12](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-04-07|Changes for different cameras and a bug fixed.|
+|[QGIS](http://www.qgis.org)|[2.18.6](https://github.com/qgis/QGIS/releases/tag/final-2_18_6)|2017-04-07|No infos.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.45](https://play.google.com/store/apps/details?id=app.mapillary)|2017-04-08|Don't rotate the UX for left handed to fix the preview upside down problem.|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.19](https://docs.kurviger.de/app)|2017-04-09|Various improvements.|
+|[StreetComplete](https://fossdroid.com/a/street%C2%ADcomplete.html)|[0.7](https://github.com/westnordost/StreetComplete/releases/tag/v0.7)|2017-04-09|Fix of version 0.6 with the fixed changeset problem.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.12.1](https://github.com/osmcode/libosmium/releases/tag/v2.12.1)|2017-04-10|Many changes and bugfixes. Please read change log.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.7.3](https://github.com/MapContrib/MapContrib/releases/tag/1.7.3)|2017-04-10|Many changes since 1.6.1, please read release infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-04-10|Changes to the GUI, more hotels, beaches, parking, cameras and WLAN hotspots added.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.2.3](https://itunes.apple.com/app/id510623322)|2017-04-10|100,000 objects added. Incl. restaurants, shops and POI.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.23.0](http://www.locusmap.eu/news-version-3-23-0)|2017-10-04|Many improvements, please read releaseinfo.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-10 15:08:55+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4331,"WN352","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.1](https://github.com/osmcode/pyosmium/releases)|11/04/2017|Four extensions, two changes and three bugfixes.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.35.1](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.35.0)|12/04/2017|Five bug fixes.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.2.4](https://itunes.apple.com/app/id510623322)|12/04/2017|No info.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.23.1](http://www.locusmap.eu/news-version-3-23-1)|13/04/2017|Bugfix release.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.13](https://itunes.apple.com/us/app/mapillary/id757286802)|13/04/2017|Two bugs fixed.|
+|[OpenJUMP](http://jump-pilot.sourceforge.net/)|[1.11](http://sourceforge.net/p/jump-pilot/code/HEAD/tree/core/trunk/ChangeLog)|13/04/2017|New features and bug fixes.|
+|[osm2pgsql](https://github.com/openstreetmap/osm2pgsql)|[0.92.1](https://github.com/openstreetmap/osm2pgsql/releases/tag/0.92.1)|13/04/2017|Two important bugs fixed.|
+|[OpenLayers](http://openlayers.org/)|[4.1.0](https://github.com/openlayers/openlayers/releases/tag/v4.1.0)|14/04/2017|Many changes, please read release info.|
+|[Traccar Server](https://www.traccar.org/server/)|[3.11](https://www.traccar.org/blog/category/releases/)|14/04/2017|SMS support added.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.48](https://play.google.com/store/apps/details?id=app.mapillary)|15/04/2017|Tuning GPX processing, some bugs fixed.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.7.7](https://github.com/MapContrib/MapContrib/releases/tag/1.7.7)|17/04/2017|Some smaller changes.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|17/04/2017|100,000 objects added. Incl. restaurants, shops and POI.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-17 18:40:55+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4380,"WN353","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[3.2.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v3.1.0...v3.2.0)|2017-04-17|Many changes, please read release info.|
+|[Naviki iOS&nbsp; ](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.58](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2017-04-18|New cycling map, bug fixes.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.36](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.35.0)|2017-04-19|One new feature, five bugs fixed and three development workflow improvements.|
+|[OsMo iOS](https://osmo.mobi/)|[1.6](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1147141327)|2017-04-19|Improved application stability. View group members, points of interest, tracks on OpenStreetMap.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-04-21|No Infos.|
+|[OSRM Backend](http://project-osrm.org/)|[5.7.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.7.0)|2017-04-21|Many changes, please read release info.|
+|[QGIS](http://www.qgis.org)|[2.18.7](https://github.com/qgis/QGIS/releases/tag/final-2_18_7)|2017-04-21|No infos.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.7.9](https://github.com/MapContrib/MapContrib/releases/tag/1.7.9)|2017-04-24|Some smaller changes.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.51](https://play.google.com/store/apps/details?id=app.mapillary)|2017-04-24|Auto break sequences after 600 photos, fix timestamp and upload issues.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.58.2](https://play.google.com/store/apps/details?id=org.naviki)|2017-04-24|Added language instructions for additional languages.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-24 16:37:53+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4495,"WN355","Maps","[1] [Bruno Salerno](https://www.openstreetmap.org/user/ElBruno) published recently [Citylines.co](http://www.citylines.co), which is a collaborative platform that helps rebuild transport systems in the cities of the world as well as their evolution. Citylines is [free software](https://github.com/BrunoSalerno/citylines) and uses OSM maps and Mapbox GL technology."
+4478,"WN355","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[JOSM](http://josm.openstreetmap.de/)|[12039](http://josm.openstreetmap.de/wiki/Changelog)|2017-05-02|See release infos.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.37.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.37.0)|2017-05-02|Three new features, eight bugs fixed and two development workflow improvements.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.14](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-05-02|Three bugs fixed, updated Mapbox.|
+|[libosmium](http://osmcode.org/libosmium/)|[2.12.2](https://github.com/osmcode/libosmium/releases/tag/v2.12.2)|2017-05-03|Many changes, please read release info.|
+|[OpenLayers](http://openlayers.org/)|[4.1.1](https://github.com/openlayers/openlayers/releases/tag/v4.1.1)|2017-05-03|Patch release to fix several minor issues and two regressions in the 4.1.0 release.|
+|[Simple GIS Client&nbsp; ](https://www.simplegissoftware.com/simple-gis-client.html)|[9.0](https://www.simplegissoftware.com/news.html)|2017-05-03|Processing OpenStreetMap data.|
+|[OSMaxx](https://osmaxx.hsr.ch/)|[3.10.0](https://github.com/geometalab/osmaxx/releases/tag/v3.10.0)|2017-05-04|Please read release info.|
+|[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.4](https://github.com/osmcode/pyosmium/releases)|2017-05-04|Added Windows support, three changes and three bugfixes.|
+|[MapFactor Navigator Free&nbsp; ](http://navigatorfree.mapfactor.com)|[3.0](https://play.google.com/store/apps/details?id=com.mapfactor.navigator)|2017-05-05|Many extensions and fixes, see release info.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.55](https://play.google.com/store/apps/details?id=app.mapillary)|2017-05-05|Support different basemaps.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.58.4](https://play.google.com/store/apps/details?id=org.naviki)|2017-05-05|Bugfix version.|
+|[Naviki iOS&nbsp; ](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.58.1](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2017-05-05|Bugfix version.|
+|[StreetComplete](https://fossdroid.com/a/street%C2%ADcomplete.html)|[0.10](https://github.com/westnordost/StreetComplete/releases/tag/v0.10)|2017-05-06|Fix for opening_hours.|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.23](https://docs.kurviger.de/app)|2017-05-07|Smooth movement option, various enhancements.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-05-08|No Infos.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-08 20:24:45+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4699,"WN360","Programming","The Qt Automotive Suite (Qt 5.9) now [ships](https://www.mapbox.com/blog/qt-automotive/) with vector-based maps (provided by [Qt Location Mapbox GL plugin](https://doc.qt.io/qt-5/location-plugin-mapboxgl.html)) and APIs for navigation, customized design and the ability to layer in your own data."
+4673,"WN360","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.28](https://docs.kurviger.de/app)|2017-06-05|Some enhancements.|
+|[guide4you](https://github.com/KlausBenndorf/guide4you)|[2.0.1](https://github.com/KlausBenndorf/guide4you/releases/tag/v2.0.1)|2017-06-06|Many changes, please read release info.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.60.1](https://play.google.com/store/apps/details?id=org.naviki)|2017-06-06|Bugfix release.|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.17.23](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2017-06-07|Many changes. Please read release info.|
+|[MapContrib](https://www.mapcontrib.xyz/)|[1.8.2](https://github.com/MapContrib/MapContrib/releases/tag/1.7.10)|2017-06-07|Bugs fixed.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.7.0](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-06-08|Six new features and enhancements.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.38.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.37.0)|2017-06-09|One new feature, 11 bugs fixed and  five development workflow improvements.|
+|[iD](http://ideditor.com/)|[2.2.2](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md#213)|2017-06-12|Many changes, please read release info.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-06-12|No infos.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[9.1.2](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2017-06-12|Design of the komoot collections completely reworked, improved tour planning, reduced storage space.|
+|[OpenLayers](http://openlayers.org/)|[4.2.0](https://github.com/openlayers/openlayers/releases/tag/v4.1.1)|2017-06-12|Many changes, please read release info.|
+|[SQLite](http://www.sqlite.org/)|[3.19.3](http://www.sqlite.org/releaselog/3_19_3.html)|2017-06-18|Bugfix release.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-13 00:32:52+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4765,"WN362","Programming","[Vladimir Agafonkin](https://www.mapbox.com/about/team/vladimir-agafonkin/) is working on Mapbox GL's [heatmaps](https://www.mapbox.com/blog/heatmaps-preview/), a convenient way of exploring massive datasets."
+4945,"WN364","Community","Jinal Foflia writes a [Mapbox blog](https://blog.mapbox.com/maps-mapbox-and-state-of-the-map-7e7a6f196962) showcasing this year's State of the Map conferences around the world. This [map](https://jsfiddle.net/rasagy/dsd1wg2v/?utm_source=website&utm_medium=embed&utm_campaign=dsd1wg2v) was made using the GeoJSON that contained the location co-ordinates of all the event venues, the icons from the various SotM and their respective websites. You can refer to this [example](https://www.mapbox.com/mapbox-gl-js/example/custom-marker-icons/) for doing something similar."
+5043,"WN366","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Jungle Bus](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|[1.2.4](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|2017-07-20|No infos.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-07-18|No infos.|
+|[Magic Earth&nbsp; ](https://www.generalmagic.com/magic-earth/)|[7.1.17.29](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2017-07-19|Many changes, please read release info.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.39.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.39.0)|2017-07-21|Many changes, please read release info.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[7.4](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-07-20|Improved routing, recent map data.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.4](https://itunes.apple.com/app/id510623322)|2017-07-20|Improved routing, recent map data.|
+|[OSRM Backend](http://project-osrm.org/)|[5.9.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.9.0)|2017-07-19|Many changes, please read release info.|
+|[OSM Contributor](https://play.google.com/store/apps/details?id=io.mapsquare.osmcontributor)|[3.0.9](https://play.google.com/store/apps/details?id=io.mapsquare.osmcontributor)|2017-07-20|Bugs fixed.|
+|[QGIS](http://www.qgis.org)|[2.18.11](https://github.com/qgis/QGIS/releases/tag/final-2_18_11)|2017-07-21|No infos.|
+|[Simple GIS Client&nbsp; ](https://www.simplegissoftware.com/simple-gis-client.html)|[9.2](https://www.simplegissoftware.com/news.html)|2017-07-18|VMany changes, please read release info.|
+|[VTM](https://github.com/mapsforge/vtm)|[0.8.0](https://github.com/mapsforge/vtm/blob/master/docs/Changelog.md)|2017-07-19|Many changes, please read release info.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-07-22 21:29:55+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+5126,"WN368","Releases","| Software|Version|Release date|Changes|
+| ------ | ----------- |----|----|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|07.08.2017|More details and added x-ray vision in router and horizontal format.|
+|[Mapbox GL Native Android](https://www.mapbox.com/android-docs/map-sdk/overview/)|[5.1.2](https://github.com/mapbox/mapbox-gl-native/blob/master/platform/android/CHANGELOG.md)|03.08.2017|No infos.|
+|[Mapbox Navigation SDK Android](https://www.mapbox.com/android-docs/navigation/overview/)|[0.4.0](https://github.com/mapbox/mapbox-navigation-android/blob/master/CHANGELOG.md)|01.08.2017|No infos.|
+|[MapContrib](https://www.mapcontrib.xyz)|[1.8.3](https://github.com/MapContrib/MapContrib/releases/tag/1.8.3)|03.08.2017|Added Thunderforest API key to tiles.|
+|[Mapillary iOS&nbsp; ](https://wiki.openstreetmap.org/wiki/Osmose)|[4.7.6](https://itunes.apple.com/us/app/mapillary/id757286802)|06.08.2017|Bugs fixed and improved camera UI.|
+|[OSRM Backend](http://project-osrm.org/)|[5.10.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.10.0)|07.08.2017|Improved routing at [throughabouts](https://en.wikipedia.org/wiki/Roundabout#Hamburger_roundabout.2Fthroughabout.2Fcut-through) and with turn restrictions. Please read release info for more changes.|
+|[Simple GIS Client&nbsp; ](https://www.simplegissoftware.com/simple-gis-client.html)|[9.4](https://www.simplegissoftware.com/news.html)|01.08.2017|Many changes, please read release info.|
+|[SQLite](http://www.sqlite.org)|[3.20.0](http://www.sqlite.org/releaselog/3_20_0.html)|01.08.2017|Many changes, please read release info.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-08 15:35:26+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+5561,"WN376","Programming","Chris Whong [has written](https://github.com/nycplanning/labs-maputnik-dev-server) an express.js server that allows to quickly load Mapbox GL styles from any project into the Maputnik Style Editor."
+5619,"WN377","Releases","Mapbox shares the [release](https://blog.mapbox.com/our-react-native-gl-library-is-in-alpha-7456f2af685) about their support to [React Native Mapbox GL](https://github.com/mapbox/react-native-mapbox-gl) and started a rewrite of their current experimental React Native library and released an alpha."
+5724,"WN380","Programming","Thomas Gratier [points out](https://twitter.com/ThomasG77/status/923279991013593088) ""An [analysis](https://delftswa.gitbooks.io/desosa-2017/content/mapbox-gl-js/chapter.html) of the Mapbox GL JS library by Delft University of Technology students (master-level)""."
+5713,"WN380","Programming","Mapbox [announces](https://blog.mapbox.com/announcing-expressions-in-gl-js-a72b55d0a6af) GL expressions with the release of Mapbox GL JS v0.41.0."
+6021,"WN387","OSM in action","The [Hamburg Port Map](https://www.hafen-hamburg.de/en/hafenplan) on the port authority website shows all the facilities of the largest seaport in Germany, with live vessel positions, onto a 3D map built with OSM and MapboxGL."
+7375,"WN418","Releases","According to a [tweet](https://twitter.com/wambacher1/status/1020277600231489537) from wambacher, there are new versions for the following OSM-related software available: Komoot Android, Leaflet 1.3.3, Magic Earth iOS 4.1.0 and several Mapbox GL products.
+You can find these updates along with an almost endless list of OSM-related software and current versions in [Wambacher's software list](https://wambachers-osm.website/index.php/osm-software-watchlist)."
+8114,"WN433","Programming","[Project-insanity](https://blog.project-insanity.org/) shares a [post](https://blog.project-insanity.org/2018/10/29/host-your-own-mapbox-gl-js-vector-tiles-map/) about the steps involved in hosting one's own [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) vector tiles map."
+12175,"WN520","Programming","Mapbox took a further step out of the open source ecosystem. The release notes of the first alpha releases of [Mapbox GL Native for iOS 5.10](https://github.com/mapbox/mapbox-gl-native-ios/releases/tag/ios-v5.10.0-alpha.1) and [Mapbox GL Native for Android 9.3.0](https://github.com/mapbox/mapbox-gl-native-android/releases/tag/android-v9.3.0-alpha.1) mention that they have started depending on non-free dependencies released under Mapbox Terms of Service, not a free and open licence. Only Mapbox clients can access these binaries. (via [@RichardF](https://mobile.twitter.com/richardf/status/1280490225836277760) on Twitter)."
+13229,"WN543","Programming","Mapbox GL JS [is no longer free software](https://github.com/mapbox/mapbox-gl-js/blob/main/CHANGELOG.md#200).
+  Paul Ramsey [comments](https://blog.cleverelephant.ca/2020/12/mapbox-morrison.html) on the move in his blog.
+  Ilya Zverev [reported](http://shtosm.ru/all/gl-js-v2/) ![(ru)](https://blog.openstreetmap.de/wp-uploads/2016/12/ru.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=http://shtosm.ru/all/gl-js-v2/) on the forks and alternative libraries being developed, and comments on the development of Mapbox.
+  Paul Norman [reacted](https://lists.openstreetmap.org/pipermail/dev/2020-December/031023.html), on the OSM-Dev mailing list, by saying that he is placing the client-side rendered [OpenStreetMap Cartographic](https://github.com/pnorman/openstreetmap-cartographic/) project on hold.
+  The new [MapLibre](https://github.com/maplibre/maplibre-gl-js) project wants to maintain a free and open source fork of Mapbox GL JS 1.x, which might make Paul reconsider his decision.
+  Steve Bennett [tweets](https://twitter.com/stevage1/status/1336968746838024193) that missing attribution of Mapbox GL by Azure Maps might have been a cause for Mapbox's decision. Mapbox's own attribution of OpenStreetMap data has been controversial."
+13524,"WN549","Programming","Maptiler [provided](https://www.maptiler.com/news/2021/01/mapbox-gl-open-source-fork/) a more formal announcement of the MapLibre fork of Mapbox GL, which [we mentioned](https://weeklyosm.eu/archives/14064#wn543_23951) in passing at the time of Mapbox GL becoming proprietary software."
+13547,"WN550","OSM in the media","If you've integrated Mapbox GL JS Version 1.13 or older into your product, the [MapLibre](https://github.com/maplibre) project is a strong open source alternative to the latest proprietary Mapbox 2.0 update, opensource.com [says](https://opensource.com/article/21/1/open-source-news)."
+16453,"WN631","Programming","Stamen [blogged](https://stamen.com/visualize-a-cross-section-of-your-map-with-chartographer/) about [Chartographer](https://github.com/stamen/chartographer), which generates visualisations of a supplied Mapbox GL stylesheet to better understand how its layers are rendered per zoom level. Chartographer has special views for areas, lines, icons and labels. It is especially helpful when generating a basemap style for vector tiles."
+18812,"WN699","Maps","Darren Wiens [presented](https://nitter.net/dkwiens/status/1730754715921874988) a sea level rise [simulator](https://aws-terrain-flood.netlify.app), where he uses the AWS Terrain Tiles and the new raster functionality available in Mapbox GL JS v3."
+19343,"WN711","Did you know that …","... the MapLibre webmap Javascript tool? It [renders](https://maplibre.org/maplibre-gl-js/docs/examples/) vector maps including 3D models, animations, adding icons, style labels, etc. This open source API is a community led fork derived from mapbox-gl-js that uses WebGL to render interactive maps from vector tiles in a browser. Paul Norman used MapLibre GL for his vector map example in the article [above](https://weeklyosm.eu/archives/17097#wn711_30148)."
