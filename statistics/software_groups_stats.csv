@@ -1,0 +1,83 @@
+1,"achavi",6,3
+2,"BBBike",5,17
+3,"Carto_API",3,40
+4,"CyclOSM",11,10
+5,"EveryDoor",9,35
+6,"F4map",1,12
+7,"FacilMap",11,6
+8,"Field Papers",7,12
+9,"Geofabrik",5,69
+10,"GeoNotes",10,3
+11,"Geotools",8,4
+12,"Go Map",9,6
+13,"GraphHopper",12,61
+14,"HDX",5,8
+15,"iD",7,310
+16,"JOSM",7,431
+17,"KartaView",13,43
+18,"Komoot",12,58
+19,"Leaflet",8,116
+20,"Level0",7,10
+21,"Locus Map",12,41
+22,"Mapbox",11,502
+23,"Mapbox GL",3,53
+24,"MapComplete",9,65
+25,"Mapilio",13,7
+26,"Mapillary",13,309
+27,"MapLibre",11,47
+28,"MapRoulette",7,165
+29,"Maps.me",9,70
+30,"MapSwipe",9,32
+31,"Merkaartor",7,7
+32,"Nominatim",3,73
+33,"OGR",8,5
+34,"Open Infrastructure Map",11,11
+35,"Open Source Routing Machine",11,57
+36,"OpenAEDMap",11,6
+37,"OpenAerialMap",2,23
+38,"OpenCycleMap",11,13
+39,"OpenHistoricalMap",11,21
+40,"OpenLayers",8,49
+41,"OpenMapTiles",11,28
+42,"OpenPoiMap",11,3
+43,"OpenRailwayMap",11,23
+44,"OpenRouteService",11,94
+45,"OpenSeaMap",11,3
+46,"OpenTopoMap",11,23
+47,"Organic Maps",9,78
+48,"OSM API",3,26
+49,"OSM Buildings",1,14
+50,"OSM History Analytics",6,89
+51,"OSM History Viewer",12,3
+52,"OSM Inspector",6,8
+53,"OSM Note Viewer",10,5
+54,"osm2pgsql",4,70
+55,"OsmAnd",12,166
+56,"OSMCha",6,48
+57,"OSMGo",9,5
+58,"osmium",4,45
+59,"Osmose",6,53
+60,"osmosis",4,8
+61,"OSMstats",6,16
+62,"OSMTracker",9,5
+63,"overpass API",3,68
+64,"overpass turbo",5,71
+65,"overpass ultra",5,12
+66,"Panoramax",13,65
+67,"Pic4Review",7,6
+68,"PokemonGO",11,15
+69,"PostGIS",8,45
+70,"Potlatch",7,20
+71,"pyosmium",4,16
+72,"Rapid",7,82
+73,"SketchMap",7,9
+74,"StreetComplete",9,114
+75,"TagFinder",14,1
+76,"Taginfo",14,52
+77,"Tasking Manager",7,141
+78,"uMap",11,162
+79,"uNav",12,11
+80,"Valhalla",12,19
+81,"Vespucci",9,76
+82,"WaterwayMap",11,7
+83,"Who Did It",6,6
