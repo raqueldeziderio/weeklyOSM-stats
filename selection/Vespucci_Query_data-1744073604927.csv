@@ -1,16 +1,16 @@
-"id","blog","category","markdown"
-341,"WN276","Software","Simon Poole [forked](https://twitter.com/vespucci_editor/status/661301520663752704) the JOSM standrad template and added other often used tags, amongst other things `amenity=social_facility`. This template is also used in Vespucci."
-406,"WN278","Software","Recently, the website of Vespucci at [vespucci.io](http://vespucci.io) (the well known OSM editor for Android devices) has got an overhaul, also in documentation."
+"id","blog","category","markdown","sg_id"
+341,"WN276","Software","Simon Poole [forked](https://twitter.com/vespucci_editor/status/661301520663752704) the JOSM standrad template and added other often used tags, amongst other things `amenity=social_facility`. This template is also used in Vespucci.",9
+406,"WN278","Software","Recently, the website of Vespucci at [vespucci.io](http://vespucci.io) (the well known OSM editor for Android devices) has got an overhaul, also in documentation.",9
 609,"WN281","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.7](https://github.com/MarcusWolschon/osmeditor4android/releases)|2015-12-02||
 |[Mapillary for iOs](http://www.mapillary.com/map)|[4.0.5](https://itunes.apple.com/us/app/mapillary/id757286802?mt=8&ign-mpt=uo%3D4)|2015-12-02||
-|[Mapillaray for Android](http://www.mapillary.com/map)|[1.63](https://play.google.com/store/apps/details?id=app.mapillary)|2015-12-03||"
-635,"WN281","Software","Simon Poole has created wheelchair [presets](https://simonpoole.github.io/wheelchair-preset/) for JOSM and Vespucci."
-1014,"WN288","Mapping","[Simon Poole](http://hdyc.neis-one.org/?SimonPoole) tells about, what is in the pipeline for the [next Vespucci](https://www.openstreetmap.org/user/SimonPoole/diary/37802) release."
-1370,"WN294","Mapping","Users Warin [has made](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028782.html) a [proposal](https://wiki.openstreetmap.org/wiki/Proposed_features/Sells) to tag the product ranges of POIs on the tagging mailing list, but this has been criticised on several points. The developers of [iD](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028796.html) and [Vespucci](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028795.html) are bothered by the use of an unlimited number of keys. Frederik Ramm [speculates about](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028812.html) importing a supermarket's entire product list (and the dangers of inviting this). He points out that OSM is not a business directory and is not the right place to map [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science))."
-2414,"WN314","Software","A new version of Vespucci just [arrived](https://www.openstreetmap.org/user/SimonPoole/diary/39012). However, due to problems with Google/Android, this version is only available via Github and not via Google's play store."
+|[Mapillaray for Android](http://www.mapillary.com/map)|[1.63](https://play.google.com/store/apps/details?id=app.mapillary)|2015-12-03||",9
+635,"WN281","Software","Simon Poole has created wheelchair [presets](https://simonpoole.github.io/wheelchair-preset/) for JOSM and Vespucci.",9
+1014,"WN288","Mapping","[Simon Poole](http://hdyc.neis-one.org/?SimonPoole) tells about, what is in the pipeline for the [next Vespucci](https://www.openstreetmap.org/user/SimonPoole/diary/37802) release.",9
+1370,"WN294","Mapping","Users Warin [has made](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028782.html) a [proposal](https://wiki.openstreetmap.org/wiki/Proposed_features/Sells) to tag the product ranges of POIs on the tagging mailing list, but this has been criticised on several points. The developers of [iD](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028796.html) and [Vespucci](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028795.html) are bothered by the use of an unlimited number of keys. Frederik Ramm [speculates about](https://lists.openstreetmap.org/pipermail/tagging/2016-March/028812.html) importing a supermarket's entire product list (and the dangers of inviting this). He points out that OSM is not a business directory and is not the right place to map [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).",9
+2414,"WN314","Software","A new version of Vespucci just [arrived](https://www.openstreetmap.org/user/SimonPoole/diary/39012). However, due to problems with Google/Android, this version is only available via Github and not via Google's play store.",9
 2695,"WN319","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
@@ -26,7 +26,7 @@
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 2742,"WN320","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[BRouter](http://brouter.de/brouter/)|[1.4.4](http://brouter.de/brouter/revisions.html)|2016-08-29|Performance improvements, added mtb:scale:uphill|
@@ -41,7 +41,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 2901,"WN323","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.24.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-09-19|Eleven new features & improvements, ten bugs fixed.|
@@ -61,7 +61,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 3011,"WN324","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PostGIS](http://www.postgis.net)|[2.3.0](https://svn.osgeo.org/postgis/tags/2.3.0/ChangeLog)|2016-09-26|Support parallel processing when using PostgreSQL 9.6|
@@ -81,7 +81,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 3107,"WN326","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.49](https://play.google.com/store/apps/details?id=org.naviki)|2016-10-11|Layout revised, better bluetooth support, bugs fixed.|
@@ -96,7 +96,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 3132,"WN327","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-10-18|Bug fix release|
@@ -113,7 +113,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 3357,"WN331","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.14](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-11-15|Various improvements.|
@@ -132,7 +132,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 3385,"WN332","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.5.6](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-11-21|Minor compass tweaks.|
@@ -148,7 +148,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
 3886,"WN342","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.17.5](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2017-01-31|Speed warning preferences, night colours, public transport now available in more cities.|
@@ -160,8 +160,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4314,"WN351","Mapping","Version [0.9.9](https://github.com/MarcusWolschon/osmeditor4android/blob/master/documentation/docs/help/en/0.9.9%20Release%20notes.md) of Vespucci is now available! Simon Poole shares the news along with some [details](http://www.openstreetmap.org/user/SimonPoole/diary/40792)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
+4314,"WN351","Mapping","Version [0.9.9](https://github.com/MarcusWolschon/osmeditor4android/blob/master/documentation/docs/help/en/0.9.9%20Release%20notes.md) of Vespucci is now available! Simon Poole shares the news along with some [details](http://www.openstreetmap.org/user/SimonPoole/diary/40792).",9
 4498,"WN356","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapserver](http://mapserver.org)|[7.0.5](http://mapserver.org/development/changelog/changelog-7-0.html#changelog-7-0-5)|2017-05-09|Please read release info.|
@@ -182,35 +182,35 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-15 22:00:37+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4768,"WN362","Mapping","Simon Poole [tweets](https://twitter.com/sp8962/status/878370431408816129) about his work on a usable opening hours editor.  It will be featured in the next version of [Vespucci](http://vespucci.io/)."
-5884,"WN383","Mapping","The next version of Vespucci comes with a new [C-Mode](https://www.openstreetmap.org/user/SimonPoole/diary/42718) to help you find objects that need your attention in an ever more densely mapped world. The warnings are based on the presets Vespucci shares with JOSM and are user configurable."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",9
+4768,"WN362","Mapping","Simon Poole [tweets](https://twitter.com/sp8962/status/878370431408816129) about his work on a usable opening hours editor.  It will be featured in the next version of [Vespucci](http://vespucci.io/).",9
+5884,"WN383","Mapping","The next version of Vespucci comes with a new [C-Mode](https://www.openstreetmap.org/user/SimonPoole/diary/42718) to help you find objects that need your attention in an ever more densely mapped world. The warnings are based on the presets Vespucci shares with JOSM and are user configurable.",9
 5868,"WN383","Picture","![vespucci](http://blog.openstreetmap.de/wp-uploads//2017/11/vespucci.png =660x576)
 
-C mode in Vespucci for locating old objects in densely mapped areas  [^1^](#wn383_16458) | © Screenshot CC0   ©  Luftbild [Open Data, Kanton Zürich](https://are.zh.ch/internet/baudirektion/are/de/geoinformation/geodaten_uebersicht/Open_Data_Kanton_Zuerich.html#datenbezug)"
+C mode in Vespucci for locating old objects in densely mapped areas  [^1^](#wn383_16458) | © Screenshot CC0   ©  Luftbild [Open Data, Kanton Zürich](https://are.zh.ch/internet/baudirektion/are/de/geoinformation/geodaten_uebersicht/Open_Data_Kanton_Zuerich.html#datenbezug)",9
 6071,"WN388","Releases","[Vespucci](http://vespucci.io) the editor for use on mobile devices has a major release and leaps from v0.9.9 to [version 10](http://vespucci.io/help/en/10.0.0%20Release%20notes/).
   internal validator re-factored
   C-Mode presets
-  Support for custom tasks"
-6257,"WN393","Mapping","Vespucci will [support](https://github.com/MarcusWolschon/osmeditor4android/issues/484) imagery from OpenAerialMap soon."
-6594,"WN400","Releases","Simon Poole explains what the Vespucci version 10.2 will bring, in this [blog post](https://www.openstreetmap.org/user/SimonPoole/diary/43522)."
-6820,"WN405","Mapping","In the near future the Vespucci editor [will feature](https://twitter.com/vespucci_editor/status/987231372594081792) convenient layer management."
-7082,"WN412","Software","Simon Poole [reports](https://lists.openstreetmap.org/pipermail/talk/2018-June/080819.html) on the Talk mailing list that the upcoming version 11 of the Android editor Vespucci will allow the integration of GeoJSON as a layer. The beta of the version can be installed via Google Play and from [GitHub](https://github.com/MarcusWolschon/osmeditor4android/releases)."
+  Support for custom tasks",9
+6257,"WN393","Mapping","Vespucci will [support](https://github.com/MarcusWolschon/osmeditor4android/issues/484) imagery from OpenAerialMap soon.",9
+6594,"WN400","Releases","Simon Poole explains what the Vespucci version 10.2 will bring, in this [blog post](https://www.openstreetmap.org/user/SimonPoole/diary/43522).",9
+6820,"WN405","Mapping","In the near future the Vespucci editor [will feature](https://twitter.com/vespucci_editor/status/987231372594081792) convenient layer management.",9
+7082,"WN412","Software","Simon Poole [reports](https://lists.openstreetmap.org/pipermail/talk/2018-June/080819.html) on the Talk mailing list that the upcoming version 11 of the Android editor Vespucci will allow the integration of GeoJSON as a layer. The beta of the version can be installed via Google Play and from [GitHub](https://github.com/MarcusWolschon/osmeditor4android/releases).",9
 7681,"WN424","Releases","Simon Poole [announced](https://www.openstreetmap.org/user/SimonPoole/diary/44879) the release of Vespucci 11.1 BETA. The newly implemented features include:
   improved preset handling
   lookup in taginfo now happens manually for the recently introduced ""auto-presets""
   improved copy and paste of tags
-  more minor changes."
-7765,"WN425","Releases","Wambacher's OSM related software list [has been updated](https://wambachers-osm.website/index.php/osm-software-watchlist). Most recent version changes were Komoot Android, Mapbox Nav SDK , Mapillary Android, Naviki Android, QMapShack and Vespucci."
-8113,"WN433","Software","Simon Poole [writes](https://www.openstreetmap.org/user/SimonPoole/diary/45797) about the discontinuation of Google Play for Android 2.3 and 3.x in his user diary and what this means for Vespucci, which still supports these Android versions. He also describes how to compile Vespucci for devices with very low built-in RAM."
-8196,"WN435","Releases","Wambacher has [updated](https://wambachers-osm.website/index.php/osm-software-watchlist) his comprehensive listing of OSM related software. Most recent updates include Naviki Android 3.1810.1, OpenStreetCam Android , Traccar Server 4.2 and Vespucci 11.2.0."
+  more minor changes.",9
+7765,"WN425","Releases","Wambacher's OSM related software list [has been updated](https://wambachers-osm.website/index.php/osm-software-watchlist). Most recent version changes were Komoot Android, Mapbox Nav SDK , Mapillary Android, Naviki Android, QMapShack and Vespucci.",9
+8113,"WN433","Software","Simon Poole [writes](https://www.openstreetmap.org/user/SimonPoole/diary/45797) about the discontinuation of Google Play for Android 2.3 and 3.x in his user diary and what this means for Vespucci, which still supports these Android versions. He also describes how to compile Vespucci for devices with very low built-in RAM.",9
+8196,"WN435","Releases","Wambacher has [updated](https://wambachers-osm.website/index.php/osm-software-watchlist) his comprehensive listing of OSM related software. Most recent updates include Naviki Android 3.1810.1, OpenStreetCam Android , Traccar Server 4.2 and Vespucci 11.2.0.",9
 8331,"WN438","Releases","Simon Poole released [the first beta for version 12](https://www.openstreetmap.org/user/SimonPoole/diary/47174) of the Vespucci editor.
   It features a new _simple action mode_, which adds a big green button to add new features, instead of the somewhat difficult to explain _long click_.
   Support for Maproulette.
-  It adds an _intent_, which means any geo: urls can be opened directly using your an OSM app of your choosing."
-8454,"WN440","Software","Simon Poole provides some hints as to new features in forthcoming versions of Vespucci. Firstly, in [a diary post](https://www.openstreetmap.org/user/SimonPoole/diary/47275), he explains how he has tiled OSM data for offline use in the editor. Secondly, he [demos](https://twitter.com/vespucci_editor/status/1076842644775555073) some work-in-progress on adding functionality to enable editing of turn restrictions."
-8996,"WN451","Software","In his OSM diary Simon Poole [celebrates](https://www.openstreetmap.org/user/SimonPoole/diary/47852) the 10th anniversary of Vespucci and thanks all of the contributing developers. He also gives a preview of upcoming features such as multi-polygon support, turn-restrictions rendering, and a revamped style configuration."
-9142,"WN454","Releases","User Wambacher is constantly updating his [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist), which includes almost all OSM-related software along with the date of their latest release. Most recently Basecamp, Mapillary,  Vespucci and many others received an update. Wambacher is highlighting one new addition: [OSHDB](https://wiki.openstreetmap.org/wiki/OSHDB), a high-performance data analysis platform for OSM's full-history data."
+  It adds an _intent_, which means any geo: urls can be opened directly using your an OSM app of your choosing.",9
+8454,"WN440","Software","Simon Poole provides some hints as to new features in forthcoming versions of Vespucci. Firstly, in [a diary post](https://www.openstreetmap.org/user/SimonPoole/diary/47275), he explains how he has tiled OSM data for offline use in the editor. Secondly, he [demos](https://twitter.com/vespucci_editor/status/1076842644775555073) some work-in-progress on adding functionality to enable editing of turn restrictions.",9
+8996,"WN451","Software","In his OSM diary Simon Poole [celebrates](https://www.openstreetmap.org/user/SimonPoole/diary/47852) the 10th anniversary of Vespucci and thanks all of the contributing developers. He also gives a preview of upcoming features such as multi-polygon support, turn-restrictions rendering, and a revamped style configuration.",9
+9142,"WN454","Releases","User Wambacher is constantly updating his [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist), which includes almost all OSM-related software along with the date of their latest release. Most recently Basecamp, Mapillary,  Vespucci and many others received an update. Wambacher is highlighting one new addition: [OSHDB](https://wiki.openstreetmap.org/wiki/OSHDB), a high-performance data analysis platform for OSM's full-history data.",9
 9187,"WN455","Releases","[OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist) reports
 - Cruiser Android & Desktop 1.6
 - Magic Earth iOS 5.05
@@ -218,29 +218,29 @@ C mode in Vespucci for locating old objects in densely mapped areas  [^1^](#wn38
 - OsmAnd+ Android 3.3.7
 - StreetComplete 11.0
 - Umap 1.1 
-- Vespucci 13.0"
-9349,"WN458","Did you know that…","...that you can quickly add turn restriction relations with [Vespucci](https://commons.wikimedia.org/wiki/File:Turn_restriction_mapping_in_Vespucci_(animated_gif).gif) or [iD](https://commons.wikimedia.org/wiki/File:Turn_restriction_mapping_in_iD_(animated_gif).gif) editors?"
-9383,"WN459","Releases","Simon Poole [gives](https://www.openstreetmap.org/user/SimonPoole/diary/193235) some background info on MapSplit and its format, which is used for the [improved offline support](https://www.openstreetmap.org/user/SimonPoole/diary/47275) by Vespucci 13.0."
-9669,"WN465","Releases","In his user diary Simon Poole [details](https://www.openstreetmap.org/user/SimonPoole/diary/368821) the changes made in the minor release of the mobile editor [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci), which consists of mainly UI improvements."
-10100,"WN475","Mapping","Vespucci now allows the creation of custom presets on-the-fly. Simon Poole [tweets](https://twitter.com/sp8962/status/1163356603208351745) a short demonstration showing how it can be done."
-10205,"WN477","Software","Simon Poole has published a [feature preview](https://www.openstreetmap.org/user/SimonPoole/diary/390661) of the upcoming versions of the Vespucci editor for Android devices. The first beta of Vespucci 14 is expected to be released in September."
-10630,"WN486","Software","Simon Poole, maintainer of Vespucci, [informed](https://lists.openstreetmap.org/pipermail/talk/2019-November/083513.html) the community about potential crashes of the mobile editor following a change in the data format provided by the Osmose API. This was resolved at the Osmose end (they undid their breaking change)."
-11241,"WN500","Mapping","It was [recommended](https://twitter.com/vespucci_editor/status/1227626119207231489) not to use Vespucci from Google Play but instead use the one from open source store F-Droid, as the Google Play version is lagging three months behind the current version. Fortunately, this issue has now [been resolved](https://twitter.com/vespucci_editor/status/1230188281322708992)"
-11513,"WN505","Releases","Simon Poole [released](https://github.com/MarcusWolschon/osmeditor4android/releases) version 14.1.0 of the mobile OSM editor Vespucci. The improvements made in this minor version are detailed in the [release notes](https://github.com/MarcusWolschon/osmeditor4android/blob/master/documentation/docs/help/en/14.1.0%20Release%20notes.md) with the complete list of changes maintained in the [changelog](https://github.com/MarcusWolschon/osmeditor4android/blob/master/CHANGELOG.txt) on GitHub."
-12437,"WN525","Mapping","The OSM API no longer supports TLS 1.0 and 1.1. Users of old Android devices (up to Android 4.4) should have a look at Simon Poole's [user blog](https://www.openstreetmap.org/user/SimonPoole/diary/393865) to find out how to continue mapping with Vespucci on these devices."
-13047,"WN538","Releases","Marcus Wolschon [announced](https://github.com/MarcusWolschon/osmeditor4android/blob/master/documentation/docs/help/en/15.1.0%20Release%20notes.md) the highlights of the Vespucci 15.1 Beta, released on 28 October."
-13293,"WN544","Software","Simon Poole [provided](https://www.openstreetmap.org/user/SimonPoole/diary/395145) an update of the changes made to Vespucci in the latest version, 15.1."
-13802,"WN555","Software","Simon Poole [announced](https://www.openstreetmap.org/user/SimonPoole/diary/396057) that the first beta release of Vespucci 15.2 is now available in the Google Play Store or from the [Vespucci repository](https://github.com/MarcusWolschon/osmeditor4android/releases). Simon is looking for users to help rapidly test this release."
+- Vespucci 13.0",9
+9349,"WN458","Did you know that…","...that you can quickly add turn restriction relations with [Vespucci](https://commons.wikimedia.org/wiki/File:Turn_restriction_mapping_in_Vespucci_(animated_gif).gif) or [iD](https://commons.wikimedia.org/wiki/File:Turn_restriction_mapping_in_iD_(animated_gif).gif) editors?",9
+9383,"WN459","Releases","Simon Poole [gives](https://www.openstreetmap.org/user/SimonPoole/diary/193235) some background info on MapSplit and its format, which is used for the [improved offline support](https://www.openstreetmap.org/user/SimonPoole/diary/47275) by Vespucci 13.0.",9
+9669,"WN465","Releases","In his user diary Simon Poole [details](https://www.openstreetmap.org/user/SimonPoole/diary/368821) the changes made in the minor release of the mobile editor [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci), which consists of mainly UI improvements.",9
+10100,"WN475","Mapping","Vespucci now allows the creation of custom presets on-the-fly. Simon Poole [tweets](https://twitter.com/sp8962/status/1163356603208351745) a short demonstration showing how it can be done.",9
+10205,"WN477","Software","Simon Poole has published a [feature preview](https://www.openstreetmap.org/user/SimonPoole/diary/390661) of the upcoming versions of the Vespucci editor for Android devices. The first beta of Vespucci 14 is expected to be released in September.",9
+10630,"WN486","Software","Simon Poole, maintainer of Vespucci, [informed](https://lists.openstreetmap.org/pipermail/talk/2019-November/083513.html) the community about potential crashes of the mobile editor following a change in the data format provided by the Osmose API. This was resolved at the Osmose end (they undid their breaking change).",9
+11241,"WN500","Mapping","It was [recommended](https://twitter.com/vespucci_editor/status/1227626119207231489) not to use Vespucci from Google Play but instead use the one from open source store F-Droid, as the Google Play version is lagging three months behind the current version. Fortunately, this issue has now [been resolved](https://twitter.com/vespucci_editor/status/1230188281322708992)",9
+11513,"WN505","Releases","Simon Poole [released](https://github.com/MarcusWolschon/osmeditor4android/releases) version 14.1.0 of the mobile OSM editor Vespucci. The improvements made in this minor version are detailed in the [release notes](https://github.com/MarcusWolschon/osmeditor4android/blob/master/documentation/docs/help/en/14.1.0%20Release%20notes.md) with the complete list of changes maintained in the [changelog](https://github.com/MarcusWolschon/osmeditor4android/blob/master/CHANGELOG.txt) on GitHub.",9
+12437,"WN525","Mapping","The OSM API no longer supports TLS 1.0 and 1.1. Users of old Android devices (up to Android 4.4) should have a look at Simon Poole's [user blog](https://www.openstreetmap.org/user/SimonPoole/diary/393865) to find out how to continue mapping with Vespucci on these devices.",9
+13047,"WN538","Releases","Marcus Wolschon [announced](https://github.com/MarcusWolschon/osmeditor4android/blob/master/documentation/docs/help/en/15.1.0%20Release%20notes.md) the highlights of the Vespucci 15.1 Beta, released on 28 October.",9
+13293,"WN544","Software","Simon Poole [provided](https://www.openstreetmap.org/user/SimonPoole/diary/395145) an update of the changes made to Vespucci in the latest version, 15.1.",9
+13802,"WN555","Software","Simon Poole [announced](https://www.openstreetmap.org/user/SimonPoole/diary/396057) that the first beta release of Vespucci 15.2 is now available in the Google Play Store or from the [Vespucci repository](https://github.com/MarcusWolschon/osmeditor4android/releases). Simon is looking for users to help rapidly test this release.",9
 14250,"WN567","Breaking news","Suddenly [StreetComplete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) is back again in the PlayStore, but earlier ...
 
-Google [removed](https://github.com/streetcomplete/StreetComplete/issues/2909) StreetComplete from the Play Store last week. Google claimed that the app was not compliant with its policy for the background location permission, a permission it apparently does not even request! Tobias Zwick contacted Google support about the mistake immediately, but after more than a week, he was still waiting for a reply. Vespucci developer Simon Poole commented [on Reddit](https://www.reddit.com/r/openstreetmap/comments/nl7x5m/is_street_complete_gone_from_the_playstore/) that he had also experienced a similar Kafkaesque situation with Google Play in November. With some sage advice from Simon the StreetComplete developers have managed to create a [version](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) that Google Play deems acceptable. If the issue reoccurs the app can always be downloaded from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) and directly from [GitHub](https://github.com/streetcomplete/StreetComplete/releases)."
-15539,"WN603","Mapping","After [complaints](https://en.osm.town/@vespucci_editor/107727249130164981), Vespucci  is [removing](https://en.osm.town/@vespucci_editor/107727308140308787) Bing aerial imagery for  third-party builds, e.g. F-Droid."
-15631,"WN606","Releases","The February 2022 maintenance version (17.0.3) of Vespucci [has](https://twitter.com/vespucci_editor/status/1496190024290910209) been released."
-15717,"WN608","Releases","Vespucci's March 2022 maintenance release 17.04 [is](https://twitter.com/vespucci_editor/status/1502720168149069834) now available in the Play Store."
-15762,"WN609","Releases","Last week we [reported](http://www.weeklyosm.eu/en/archives/15443/#wn608_26491) on release 17.0.4 of Vespucci. In it there [was](https://twitter.com/vespucci_editor/status/1504011790849654786) a problem with the default templates that can be solved by manually updating the templates."
-16001,"WN616","Software","Vespucci is [planning](https://github.com/MarcusWolschon/osmeditor4android/issues/1634) to remove support for Android 4.0.1 to 4.0.4 (released in 2011) devices in version 18 (fall 2022). People still using such devices, with a private instance of the OpenStreetMap API, are asked to contact the Vespucci team."
-16109,"WN619","Releases","The [Vespucci](http://vespucci.io/) editor has an [updated](https://en.osm.town/@vespucci_editor/108390410715280135) privacy statement."
-16193,"WN622","Releases","Version 17.1 of the Android OSM editor Vespucci has been [released](http://vespucci.io/help/en/17.1.0%20Release%20notes/)."
+Google [removed](https://github.com/streetcomplete/StreetComplete/issues/2909) StreetComplete from the Play Store last week. Google claimed that the app was not compliant with its policy for the background location permission, a permission it apparently does not even request! Tobias Zwick contacted Google support about the mistake immediately, but after more than a week, he was still waiting for a reply. Vespucci developer Simon Poole commented [on Reddit](https://www.reddit.com/r/openstreetmap/comments/nl7x5m/is_street_complete_gone_from_the_playstore/) that he had also experienced a similar Kafkaesque situation with Google Play in November. With some sage advice from Simon the StreetComplete developers have managed to create a [version](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) that Google Play deems acceptable. If the issue reoccurs the app can always be downloaded from [F-Droid](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) and directly from [GitHub](https://github.com/streetcomplete/StreetComplete/releases).",9
+15539,"WN603","Mapping","After [complaints](https://en.osm.town/@vespucci_editor/107727249130164981), Vespucci  is [removing](https://en.osm.town/@vespucci_editor/107727308140308787) Bing aerial imagery for  third-party builds, e.g. F-Droid.",9
+15631,"WN606","Releases","The February 2022 maintenance version (17.0.3) of Vespucci [has](https://twitter.com/vespucci_editor/status/1496190024290910209) been released.",9
+15717,"WN608","Releases","Vespucci's March 2022 maintenance release 17.04 [is](https://twitter.com/vespucci_editor/status/1502720168149069834) now available in the Play Store.",9
+15762,"WN609","Releases","Last week we [reported](http://www.weeklyosm.eu/en/archives/15443/#wn608_26491) on release 17.0.4 of Vespucci. In it there [was](https://twitter.com/vespucci_editor/status/1504011790849654786) a problem with the default templates that can be solved by manually updating the templates.",9
+16001,"WN616","Software","Vespucci is [planning](https://github.com/MarcusWolschon/osmeditor4android/issues/1634) to remove support for Android 4.0.1 to 4.0.4 (released in 2011) devices in version 18 (fall 2022). People still using such devices, with a private instance of the OpenStreetMap API, are asked to contact the Vespucci team.",9
+16109,"WN619","Releases","The [Vespucci](http://vespucci.io/) editor has an [updated](https://en.osm.town/@vespucci_editor/108390410715280135) privacy statement.",9
+16193,"WN622","Releases","Version 17.1 of the Android OSM editor Vespucci has been [released](http://vespucci.io/help/en/17.1.0%20Release%20notes/).",9
 16340,"WN627","Did you know that…","... there are many ways to contribute regularly to OSM?
 
 Desktop:
@@ -261,24 +261,24 @@ Smartphone:
     [OSM Go!](https://wiki.openstreetmap.org/wiki/Osm_Go!)
     [Jungle Bus](https://junglebus.io/en/mobility-open-data-proudly-crafted-by-the-openstreetmap-community-2/)
 
-We are sure we have forgotten some. Please write to us and let us know, we will add them next week."
-16468,"WN631","Releases","The August maintenance release of Vespucci (17.1.6) and the first beta release of 18.0 are available from [Google Play](https://play.google.com/store/apps/details?id=de.blau.android), [F-Droid](https://f-droid.org/en/packages/de.blau.android/), or their [GitHub](https://github.com/MarcusWolschon/osmeditor4android/releases) repository now."
-16569,"WN635","Releases","[Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci), 'the editor for Android that allows any kind of editing directly on mobile devices', [released](https://en.osm.town/@vespucci_editor/109021497996582586) version 18.0.0. The highlights are [described](https://vespucci.io/help/en/18.0.0%20Release%20notes/) in a blog post."
-16765,"WN640","Releases","Vespucci version 18.0.3 has been [released](https://en.osm.town/@vespucci_editor/109179615648539386). This release contains a 'custom style file importing' bug fix in Android 12 and higher."
-17127,"WN651","Mapping","Quite Frankly is [embarking](https://www.openstreetmap.org/user/Quite%20Frankly/diary/400700) on a project to 'document and update cycle lanes on every street in Melbourne and eventually Victoria in as much detail as possible' using tagging schemes that he says were developed specifically for the detailed documentation of [cycling infrastructure](https://wiki.openstreetmap.org/wiki/Berlin/Verkehrswende/Radwege) :DE-s:>>>[:EN-t:](https://wiki-openstreetmap-org.translate.goog/wiki/Berlin/Verkehrswende/Radwege?_x_tr_sl=auto&_x_tr_tl=EN). Other tools being used: [StreetComplete](https://github.com/streetcomplete/StreetComplete), iD, [JOSM](https://josm.openstreetmap.de/), [Vespucci](https://vespucci.io/) and Hauke Stieler's [Simple Task Manager](https://github.com/hauke96/simple-task-manager)."
-17194,"WN652","Community","In the Geomob Podcast #164 Ed Freyfogle [chatted](https://thegeomob.com/podcast/episode-164) with Simon Poole, OSM mapper since 2010, former chair of the OSMF, and maintainer of Vespucci, about his perspective on OpenStreetMap."
-17262,"WN654","Open Data","Adrion [explained](https://www.openstreetmap.org/user/Adrion/diary/400829) how to download, convert and import the National Heritage List for England into Vespucci or Orux Maps to use for mapping."
-17802,"WN671","Releases","Vespucci 19.0 has been [released](http://vespucci.io/help/en/19.0.0%20Release%20notes/) and the privacy statement has been [updated](http://vespucci.io/help/en/Privacy/)."
-18021,"WN677","Releases","Vespucci version 19.1 beta has been [released](https://vespucci.io/help/en/19.1.0%20Release%20notes/) and is available from the Google Play Store or Vespucci repository. It now [features](https://en.osm.town/@vespucci_editor/110663944917844252) tile layer diagnostics that display technical information about the currently displayed map tile."
-18243,"WN684","Software","Sarabjeet Sodhi [blogged](https://www.openstreetmap.org/user/Sarabjeet%20Sodhi/diary/402268) about supporting Vespucci preset extensions in JOSM. Vespucci utilises the JOSM preset format but has extended the configuration to work better outside of the narrow realm of JOSM. These extensions include deprecated, regions, exclude_regions, value_type, and alternative."
-18794,"WN699","Software","Episode 211 of _Geomob_ [featured](https://thegeomob.com/podcast/episode-211) an interview with Simon Poole, the creator of [Vespucci Editor](http://vespucci.io/), the first and only full-featured OpenStreetMap editor for Android devices. He talked about his background, the history and development of Vespucci, the challenges and benefits of editing OSM on mobile, and the future plans for the app. The episode is about 40 minutes long and can be listened to on the Geomob [website](https://thegeomob.com/podcast/episode-211) or various podcast platforms."
-19111,"WN704","Software","Vespucci [tooted](https://en.osm.town/@vespucci_editor/111740472340290731) that support for OAuth2 is available in version 20, which is planned to enter the first beta stage at the end of March 2024."
-19526,"WN715","Releases","The Vespucci 20.0.0 release [includes](https://vespucci.io/help/en/20.0.0%20Release%20notes/) significant updates such as OAuth 2 support for authorisation, a delayed end of support for Android 4.1 to 4.4, new geometric features such as creating and aligning circles, improved wayfinding, improved conflict resolution, and support for localised values in presets. It also introduces a better onboarding experience for new users."
-19770,"WN721","Community","Nikita Ushakov [explained](https://vas3k.club/post/24051) :RU-s:>>>[:EN-t:](https://vas3k-club.translate.goog/post/24051?_x_tr_sl=auto&_x_tr_tl=EN) the basics of OpenStreetMap editing using MapComplete, EveryDoor, and Vespucci."
-20120,"WN729","Software","The 20.1.0.1 beta release of Vespucci [included](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/20.1.0.1) numerous updates, such as the removal of pre-Android 5 code, improvements to error handling and memory management, enhancements to the property editor, and new features such as GeoJSON label support and layer dragging."
-20396,"WN734","Releases","Vespucci 20.1 has been [released](https://en.osm.town/@vespucci_editor/112940129121306207) on Google Play and f-droid."
-20858,"WN746","Releases","The Vespucci 20.2.0.1 beta release has [introduced](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/20.2.0.1) enhancements including support for HEIC/HEIF images on Android 10+, multi-select in tag-only editing mode, conflict resolution for partial uploads, and auto-selection of Overpass query results, along with various UI, rendering, and code improvements."
-21018,"WN750","Releases","Vespucci has [released](https://vespucci.io/help/en/20.2.0%20Release%20notes/) version 20.2, highlighting the 'automatically generated summary of changes' in the comment field."
-21334,"WN757","Releases","Vespucci [hinted](https://en.osm.town/@vespucci_editor/113821962898455509) at the addition of Panoramax support as a new feature in their upcoming version 21.0 release."
-21554,"WN763","Releases","The Vespucci 21.0.0 release notes [highlight](https://vespucci.io/help/en/21.0.0%20Release%20notes/) many improvements in the support for uploading photos and general behaviour."
-21539,"WN763","Software","Simon Poole [explained](https://www.openstreetmap.org/user/SimonPoole/diary/406218) the intricate complexity of the changeset upload process in the OpenStreetMap API, while confirming that this issue will be addressed in Vespucci's forthcoming version 21."
+We are sure we have forgotten some. Please write to us and let us know, we will add them next week.",9
+16468,"WN631","Releases","The August maintenance release of Vespucci (17.1.6) and the first beta release of 18.0 are available from [Google Play](https://play.google.com/store/apps/details?id=de.blau.android), [F-Droid](https://f-droid.org/en/packages/de.blau.android/), or their [GitHub](https://github.com/MarcusWolschon/osmeditor4android/releases) repository now.",9
+16569,"WN635","Releases","[Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci), 'the editor for Android that allows any kind of editing directly on mobile devices', [released](https://en.osm.town/@vespucci_editor/109021497996582586) version 18.0.0. The highlights are [described](https://vespucci.io/help/en/18.0.0%20Release%20notes/) in a blog post.",9
+16765,"WN640","Releases","Vespucci version 18.0.3 has been [released](https://en.osm.town/@vespucci_editor/109179615648539386). This release contains a 'custom style file importing' bug fix in Android 12 and higher.",9
+17127,"WN651","Mapping","Quite Frankly is [embarking](https://www.openstreetmap.org/user/Quite%20Frankly/diary/400700) on a project to 'document and update cycle lanes on every street in Melbourne and eventually Victoria in as much detail as possible' using tagging schemes that he says were developed specifically for the detailed documentation of [cycling infrastructure](https://wiki.openstreetmap.org/wiki/Berlin/Verkehrswende/Radwege) :DE-s:>>>[:EN-t:](https://wiki-openstreetmap-org.translate.goog/wiki/Berlin/Verkehrswende/Radwege?_x_tr_sl=auto&_x_tr_tl=EN). Other tools being used: [StreetComplete](https://github.com/streetcomplete/StreetComplete), iD, [JOSM](https://josm.openstreetmap.de/), [Vespucci](https://vespucci.io/) and Hauke Stieler's [Simple Task Manager](https://github.com/hauke96/simple-task-manager).",9
+17194,"WN652","Community","In the Geomob Podcast #164 Ed Freyfogle [chatted](https://thegeomob.com/podcast/episode-164) with Simon Poole, OSM mapper since 2010, former chair of the OSMF, and maintainer of Vespucci, about his perspective on OpenStreetMap.",9
+17262,"WN654","Open Data","Adrion [explained](https://www.openstreetmap.org/user/Adrion/diary/400829) how to download, convert and import the National Heritage List for England into Vespucci or Orux Maps to use for mapping.",9
+17802,"WN671","Releases","Vespucci 19.0 has been [released](http://vespucci.io/help/en/19.0.0%20Release%20notes/) and the privacy statement has been [updated](http://vespucci.io/help/en/Privacy/).",9
+18021,"WN677","Releases","Vespucci version 19.1 beta has been [released](https://vespucci.io/help/en/19.1.0%20Release%20notes/) and is available from the Google Play Store or Vespucci repository. It now [features](https://en.osm.town/@vespucci_editor/110663944917844252) tile layer diagnostics that display technical information about the currently displayed map tile.",9
+18243,"WN684","Software","Sarabjeet Sodhi [blogged](https://www.openstreetmap.org/user/Sarabjeet%20Sodhi/diary/402268) about supporting Vespucci preset extensions in JOSM. Vespucci utilises the JOSM preset format but has extended the configuration to work better outside of the narrow realm of JOSM. These extensions include deprecated, regions, exclude_regions, value_type, and alternative.",9
+18794,"WN699","Software","Episode 211 of _Geomob_ [featured](https://thegeomob.com/podcast/episode-211) an interview with Simon Poole, the creator of [Vespucci Editor](http://vespucci.io/), the first and only full-featured OpenStreetMap editor for Android devices. He talked about his background, the history and development of Vespucci, the challenges and benefits of editing OSM on mobile, and the future plans for the app. The episode is about 40 minutes long and can be listened to on the Geomob [website](https://thegeomob.com/podcast/episode-211) or various podcast platforms.",9
+19111,"WN704","Software","Vespucci [tooted](https://en.osm.town/@vespucci_editor/111740472340290731) that support for OAuth2 is available in version 20, which is planned to enter the first beta stage at the end of March 2024.",9
+19526,"WN715","Releases","The Vespucci 20.0.0 release [includes](https://vespucci.io/help/en/20.0.0%20Release%20notes/) significant updates such as OAuth 2 support for authorisation, a delayed end of support for Android 4.1 to 4.4, new geometric features such as creating and aligning circles, improved wayfinding, improved conflict resolution, and support for localised values in presets. It also introduces a better onboarding experience for new users.",9
+19770,"WN721","Community","Nikita Ushakov [explained](https://vas3k.club/post/24051) :RU-s:>>>[:EN-t:](https://vas3k-club.translate.goog/post/24051?_x_tr_sl=auto&_x_tr_tl=EN) the basics of OpenStreetMap editing using MapComplete, EveryDoor, and Vespucci.",9
+20120,"WN729","Software","The 20.1.0.1 beta release of Vespucci [included](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/20.1.0.1) numerous updates, such as the removal of pre-Android 5 code, improvements to error handling and memory management, enhancements to the property editor, and new features such as GeoJSON label support and layer dragging.",9
+20396,"WN734","Releases","Vespucci 20.1 has been [released](https://en.osm.town/@vespucci_editor/112940129121306207) on Google Play and f-droid.",9
+20858,"WN746","Releases","The Vespucci 20.2.0.1 beta release has [introduced](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/20.2.0.1) enhancements including support for HEIC/HEIF images on Android 10+, multi-select in tag-only editing mode, conflict resolution for partial uploads, and auto-selection of Overpass query results, along with various UI, rendering, and code improvements.",9
+21018,"WN750","Releases","Vespucci has [released](https://vespucci.io/help/en/20.2.0%20Release%20notes/) version 20.2, highlighting the 'automatically generated summary of changes' in the comment field.",9
+21334,"WN757","Releases","Vespucci [hinted](https://en.osm.town/@vespucci_editor/113821962898455509) at the addition of Panoramax support as a new feature in their upcoming version 21.0 release.",9
+21554,"WN763","Releases","The Vespucci 21.0.0 release notes [highlight](https://vespucci.io/help/en/21.0.0%20Release%20notes/) many improvements in the support for uploading photos and general behaviour.",9
+21539,"WN763","Software","Simon Poole [explained](https://www.openstreetmap.org/user/SimonPoole/diary/406218) the intricate complexity of the changeset upload process in the OpenStreetMap API, while confirming that this issue will be addressed in Vespucci's forthcoming version 21.",9
