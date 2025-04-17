@@ -1,7 +1,7 @@
-"id","blog","category","markdown"
-814,"WN285","Programming","About the OSM editor [Merkaartor](http://merkaartor.be/), core developer Krakanos [is looking for support](https://lists.openstreetmap.org/pipermail/merkaartor/2016-January/003347.html) to publish this program also on Apple OSX. Besides he reports about recent status and aims for a planned version 0.19."
-1027,"WN288","Mapping","Ladislav Laska [is looking for volunteers](https://lists.openstreetmap.org/pipermail/merkaartor/2016-January/003348.html) for testing the new development version of Merkaator (a desktop OSM editor like JOSM) at least for the Windows systems. Further on, he also needs support to publish an Apple OSX-Version."
-2035,"WN306","Software","Ladislav Laska [announces](https://lists.openstreetmap.org/pipermail/merkaartor/2016-May/003361.html) the availability of nightly build versions for the OSM editor [Merkaartor](http://merkaartor.be/) (may be unstable), both for Windows and OSX platforms. Bug reports are welcome e.g. on Merkaartor's [github repository](https://github.com/openstreetmap/merkaartor)."
+"id","blog","category","markdown","sg_id"
+814,"WN285","Programming","About the OSM editor [Merkaartor](http://merkaartor.be/), core developer Krakanos [is looking for support](https://lists.openstreetmap.org/pipermail/merkaartor/2016-January/003347.html) to publish this program also on Apple OSX. Besides he reports about recent status and aims for a planned version 0.19.",7
+1027,"WN288","Mapping","Ladislav Laska [is looking for volunteers](https://lists.openstreetmap.org/pipermail/merkaartor/2016-January/003348.html) for testing the new development version of Merkaator (a desktop OSM editor like JOSM) at least for the Windows systems. Further on, he also needs support to publish an Apple OSX-Version.",7
+2035,"WN306","Software","Ladislav Laska [announces](https://lists.openstreetmap.org/pipermail/merkaartor/2016-May/003361.html) the availability of nightly build versions for the OSM editor [Merkaartor](http://merkaartor.be/) (may be unstable), both for Windows and OSX platforms. Bug reports are welcome e.g. on Merkaartor's [github repository](https://github.com/openstreetmap/merkaartor).",7
 2820,"WN321","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-09-05|No info|
@@ -19,7 +19,7 @@
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-10670,"WN487","Releases","After more than three years (9 June 2016) a [new version](https://github.com/openstreetmap/merkaartor/releases/tag/0.18.4) of Merkaartor has been released. This is ""only"" a bugfix-release with some adjustments but at least they are still working on it. Thanks to [Krakanos](https://github.com/Krakonos)."
-14286,"WN568","Releases","Merkaartor 0.19.0-rc1has been [released](https://github.com/openstreetmap/merkaartor/releases/tag/0.19.0-rc1)."
-20546,"WN738","Releases","The Merkaartor 0.20.0 [release](https://github.com/openstreetmap/merkaartor/releases/tag/0.20.0) introduced OAuth2 authentication, AppImage builds, and various bug fixes, including improvements to CI builds, external library handling, and Windows localisation. It also removes obsolete code and the qmake build configurations."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",7
+10670,"WN487","Releases","After more than three years (9 June 2016) a [new version](https://github.com/openstreetmap/merkaartor/releases/tag/0.18.4) of Merkaartor has been released. This is ""only"" a bugfix-release with some adjustments but at least they are still working on it. Thanks to [Krakanos](https://github.com/Krakonos).",7
+14286,"WN568","Releases","Merkaartor 0.19.0-rc1has been [released](https://github.com/openstreetmap/merkaartor/releases/tag/0.19.0-rc1).",7
+20546,"WN738","Releases","The Merkaartor 0.20.0 [release](https://github.com/openstreetmap/merkaartor/releases/tag/0.20.0) introduced OAuth2 authentication, AppImage builds, and various bug fixes, including improvements to CI builds, external library handling, and Windows localisation. It also removes obsolete code and the qmake build configurations.",7

@@ -1,6 +1,6 @@
-"id","blog","category","markdown"
-171,"WN274","Software","On October 8th, 2015 [Locus](http://www.locusmap.eu/) Bugfix version [3.12.2](http://www.locusmap.eu/news-version-3-12-0/) was released."
-353,"WN277","Software","On October 8th, 2015, shortly after version 3.13.0, [Locus](http://www.locusmap.eu/)  version [3.13.1](http://www.locusmap.eu/news-version-3-13.0/) has been released. May be a bug fix release."
+"id","blog","category","markdown","sg_id"
+171,"WN274","Software","On October 8th, 2015 [Locus](http://www.locusmap.eu/) Bugfix version [3.12.2](http://www.locusmap.eu/news-version-3-12-0/) was released.",12
+353,"WN277","Software","On October 8th, 2015, shortly after version 3.13.0, [Locus](http://www.locusmap.eu/)  version [3.13.1](http://www.locusmap.eu/news-version-3-13.0/) has been released. May be a bug fix release.",12
 721,"WN283","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
@@ -8,14 +8,14 @@
 |[OpenLayers](http://openlayers.org/)|[3.12.1](https://github.com/openlayers/ol3/releases/tag/v3.12.1)|2015-12-17|Fix of 3.12.0|
 |[Mapillary for Android](http://www.mapillary.com/map)|[1.69](https://play.google.com/store/apps/details?id=app.mapillary)|2015-12-18|Map-in-Camera fixes|
 |[QGIS](http://www.qgis.org)|[2.12.2](http://www.qgis.org/de/site/forusers/visualchangelog212/index.html)|2015-12-18|-|
-|[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.1](https://itunes.apple.com/us/app/mapillary/id757286802?mt=8&ign-mpt=uo%3D4)|2015-12-21|Map-in-Camera fixes|"
+|[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.1](https://itunes.apple.com/us/app/mapillary/id757286802?mt=8&ign-mpt=uo%3D4)|2015-12-21|Map-in-Camera fixes|",12
 788,"WN284","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me](http://maps.me)|[5.3](https://github.com/mapsme/omim/releases/tag/android-release-53)|2015-12-21|Fixed zoom buttons bug|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.14.1](http://www.locusmap.eu/news-version-3-14.1/)|2015-12-22|Bug fixes|
 |[OSRM Backend](http://project-osrm.org/)|[4.9.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v4.9.0)|2015-12-24|API changes, bug fixes, maintenance, new features|
-|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2015-12-27](https://github.com/osm-fr/osmose-backend/releases)|2015-12-27||"
+|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2015-12-27](https://github.com/osm-fr/osmose-backend/releases)|2015-12-27||",12
 882,"WN286","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
@@ -26,14 +26,14 @@
 |[SQLite](http://www.sqlite.org/)|[3.10.0](http://www.sqlite.org/releaselog/3_10_0.html)|2016-01-06|Enhancements and performance optimizations|
 |[JOSM](http://josm.openstreetmap.de/)|[9329](http://josm.openstreetmap.de/wiki/Changelog)|2016-01-07|Improvements to partial fill areas, corrections in presets and others|
 |[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.2](https://itunes.apple.com/us/app/mapillary/id757286802?mt=8&ign-mpt=uo%3D4)|2016-01-07|Bug fixes|
-|[PostgreSQL](http://www.postgresql.org/)|[9.5.0](http://www.postgresql.org/about/news/1636/)|2016-01-07|UPSERT, Row Level Security, Big Data Features|"
+|[PostgreSQL](http://www.postgresql.org/)|[9.5.0](http://www.postgresql.org/about/news/1636/)|2016-01-07|UPSERT, Row Level Security, Big Data Features|",12
 1074,"WN289","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me](http://maps.me)|[5.6](https://github.com/mapsme/omim/releases/tag/android-release-55)|2016-01-12|Bug fixed|
 |[GeoServer](http://geoserver.org/)|[2.8.2](https://osgeo-org.atlassian.net/jira/secure/ReleaseNote.jspa?projectId=10000&version=11901)|2016-01-26|4 Extensions in Geofence UIFixed 24 bugs|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.15.0](http://www.locusmap.eu/news-version-3-15-0)|2016-01-27|Charged biking maps, better downloads, estimated time of travel |
 |[Grass Gis](http://grass.osgeo.org/)|[7.0.3](https://grass.osgeo.org/news/54/15/GRASS-GIS-7-0-3-released/)|2016-01-28|64-bit support and 210 stability fixes|
-|[Atlas](http://wiki.openstreetmap.org/wiki/Atlas_(navigation_application))|[1.2.0](http://groups.google.com/group/atlas-app)|2016-01-30|POT search and info, better map and routing engines|"
+|[Atlas](http://wiki.openstreetmap.org/wiki/Atlas_(navigation_application))|[1.2.0](http://groups.google.com/group/atlas-app)|2016-01-30|POT search and info, better map and routing engines|",12
 1233,"WN291","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me iOS](http://maps.me)|[5.6](https://github.com/mapsme/omim/releases/tag/ios-release-56)|2016-02-08|-|
@@ -42,14 +42,14 @@
 |[Locus Map Free](http://www.locusmap.eu/)|[3.15.3](https://play.google.com/store/apps/details?id=menion.android.locus)|2016-02-11|Bugs fixed|
 |[PostgreSQL](http://www.postgresql.org/)|[9.5.1 ff](http://www.postgresql.org/about/news/1644/)|2016-02-11|Security update release|
 |[Basecamp Windows](http://www.garmin.com/en-US/shop/downloads/basecamp)|[4.6.2](http://www8.garmin.com/support/download_details.jsp?id=4435)|2016-02-12|Please read info|
-|[Mapillary for Android](http://www.mapillary.com/map)|[1.7.5](https://play.google.com/store/apps/details?id=app.mapillary)|2016-02-12|fix bugs in camera map and Facebook auto sign|"
+|[Mapillary for Android](http://www.mapillary.com/map)|[1.7.5](https://play.google.com/store/apps/details?id=app.mapillary)|2016-02-12|fix bugs in camera map and Facebook auto sign|",12
 1482,"WN296","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.16.0](http://www.locusmap.eu/news-version-3-16-0)|2016-03-14|""Stop tracking"" button and some more eehancements|
 |[iD](http://ideditor.com/)|[1.9.2](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-03-18|-|
 |[OSRM Backend](http://project-osrm.org/)|[5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.0.0-newapi.6)|2016-03-18|Cleanup, fixes and enhancements|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 1537,"WN297","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GeoServer](http://geoserver.org/)|[2.8.3](https://osgeo-org.atlassian.net/jira/secure/ReleaseNote.jspa?projectId=10000&version=11901)|2016-01-26|Fixed 25 bugs,  4 enhancements|
@@ -60,7 +60,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[QMapShack Mac](https://bitbucket.org/maproom/qmapshack/wiki/Home)|1.6.1|2016-03-25|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.16.1](https://play.google.com/store/apps/details?id=menion.android.locus)|2016-03-27|Bugfix version|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 1651,"WN299","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Mapillary for iOS](http://www.mapillary.com/map)|[4.2.1](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-04-05|Changes for GoPro|
@@ -68,14 +68,14 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[SQLite](http://www.sqlite.org/)|[3.12.1](http://www.sqlite.org/releaselog/3_12_1.html)|2016-04-08|3 bugs fixed|
 |[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2016-04-09](https://github.com/osm-fr/osmose-backend/releases)|2016-04-09|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 1905,"WN304","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[PostgreSQL](http://www.postgresql.org/)|[9.5.3 ff](http://www.postgresql.org/about/news/1669/)|2016-05-12|Update releases fixing a number of issues|
 |[Mapillary for iOS](http://www.mapillary.com/map)|[4.3.1](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-05-15|Added Portuguese and Estonian, added descriptions for new users|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.17.0](http://www.locusmap.eu/news-version-3-17-0)|2016-05-16|Offline search of addresses and more|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 1993,"WN305","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[BRouter](http://brouter.de/brouter/)|[1.4.2](http://brouter.de/brouter/revisions.html)|2016-05-16|Turning instructions changed|
@@ -85,7 +85,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[QGIS](http://www.qgis.org)|[2.14.3](https://raw.githubusercontent.com/qgis/QGIS/final-2_14_3/ChangeLog)|2016-05-20|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.17.2](http://www.locusmap.eu/news-version-3-17-0)|2016-05-22|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2227,"WN310","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GraphHopper Routing Engine](https://graphhopper.com/)|[0.7](https://graphhopper.com/blog/2016/06/15/graphhopper-routing-e+ngine-0-7-released/)|2016-06-15|Java 7 support, new translations and many more
@@ -98,7 +98,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.7|2016-06-25|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.18.0](http://www.locusmap.eu/news-version-3-18-0)|2016-06-27|New function added|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2311,"WN311","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me Android](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-06-27|Book hotels with booking.com, test bike navigation|
@@ -108,7 +108,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[OpenLayers](http://openlayers.org/)|[3.17.1](https://github.com/openlayers/ol3/releases/tag/v3.17.1)|2016-07-04|Patch the recently published 3.17.0|
 |[Mapbox Android SDK](https://www.mapbox.com/blog/android-4.1.0/)|4.1.0|2016-06-29|Customizable marker views and new ways to customize the user location layer|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2372,"WN313","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|2.16.0|2016-07-08|No infos|
@@ -125,7 +125,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary iOS](http://www.mapillary.com/map)|[4.4.3](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-07-17|Some fixes|
 |[Naviki Android](https://www.naviki.org/naviki/)|[3.45](https://play.google.com/store/apps/details?id=org.naviki)|2016-07-18|Some improvements|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2469,"WN315","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free](http://www.locusmap.eu/)|3.18.5|2016-07-16|No more MapQuest maps, some improvements and many bug fixes|
@@ -133,7 +133,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary Android](http://www.mapillary.com/map)|[2.37](https://play.google.com/store/apps/details?id=app.mapillary)|2016-07-28|Many extensions and some bug fixes|
 |[Mapillary iOS](http://www.mapillary.com/map)|[4.4.8](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-07-30|Crash using facebook, GPS bug fixed|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2533,"WN316","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|2.16.1|2016-07-29|No infos|
@@ -149,7 +149,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.8](https://github.com/osmcode/pyosmium/releases)|2016-08-08|Adjustments to libosmium|
 |[SQLite](http://www.sqlite.org/)|[3.14.0](http://www.sqlite.org/releaselog/3_14_0.html)|2016-08-08|19 Improvements and enhancements, 3 bugs fixed|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2695,"WN319","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
@@ -165,7 +165,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 2742,"WN320","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[BRouter](http://brouter.de/brouter/)|[1.4.4](http://brouter.de/brouter/revisions.html)|2016-08-29|Performance improvements, added mtb:scale:uphill|
@@ -180,7 +180,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3107,"WN326","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.49](https://play.google.com/store/apps/details?id=org.naviki)|2016-10-11|Layout revised, better bluetooth support, bugs fixed.|
@@ -195,7 +195,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3228,"WN328","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Graphhopper](https://graphhopper.com/)|[0.8](https://graphhopper.com/blog/2016/10/18/graphhopper-routing-engine-0-8-released/)|2016-10-18|Many changes, please read release info.|
@@ -213,7 +213,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3259,"WN329","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.20.1](http://www.locusmap.eu/news-version-3-20-1/)|2016-11-01|Bugfix release.|
@@ -230,7 +230,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3570,"WN336","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.16](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-20|Various improvements.|
@@ -250,7 +250,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3731,"WN339","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.21.1](https://play.google.com/store/apps/details?id=menion.android.locus)|2017-01-10|Bugfix release.|
@@ -266,7 +266,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4118,"WN347","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.6.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.6.3)|2017-03-03|Some bugfixes.|
@@ -281,7 +281,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4166,"WN348","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.33](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-14|Fix bug in distance mode, upgrade map box map for more stability.|
@@ -300,7 +300,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4307,"WN351","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Osmium Tool](http://osmcode.org/osmium/)|[1.6.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Two changes and three fixes.|
@@ -321,7 +321,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-10 15:08:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4331,"WN352","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.1](https://github.com/osmcode/pyosmium/releases)|11/04/2017|Four extensions, two changes and three bugfixes.|
@@ -339,7 +339,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-17 18:40:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4421,"WN354","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[iOsMo](https://osmo.mobi/)|[1.7](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1147141327)|2017-04-24|Fixed issue with unhided screen keyboard on registration view, waypoints from group tracks now visible on map.|
@@ -351,7 +351,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-01 13:17:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4650,"WN359","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Naviki iOS&nbsp; ](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.60](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2017-05-16|Stability in recording increased, reports revised and bug fixes.|
@@ -365,7 +365,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-05 17:28:17+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4810,"WN362","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.61](https://play.google.com/store/apps/details?id=app.mapillary)|2017-06-14|Next fix of stray images upload problems.|
@@ -383,7 +383,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-26 18:14:22+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 5181,"WN369","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[guide4you](https://github.com/KlausBenndorf/guide4you)|[2.2.3](https://github.com/KlausBenndorf/guide4you/releases)|2017-08-08|No infos.|
@@ -404,13 +404,13 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-15 12:58:09+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-7863,"WN427","Other Geo Things","Locusmap [tweeted](https://twitter.com/locusmap/status/1041963053296824320?s"
-12025,"WN517","Software","Now [there](https://twitter.com/locusmap/status/1267823803784036355?s=19) is an [extension](https://play.google.com/store/apps/details?id=com.vastuf.lopoi) to [Locus](https://wiki.openstreetmap.org/wiki/Locus), the mobile navigator, which allows you to add and edit POI in OSM via this app."
-13947,"WN559","Software","Michel, from the Locus team, [presented](https://www.locusmap.app/locus-map-4-is-here-enjoy-its-first-release/) 'Locus Map 4' as a brand new app that offers all the basic map functions for free."
-14355,"WN570","Maps","[AnyGIS](https://anygis.ru/index_en) (as we reported [earlier](https://weeklyosm.eu/archives/14021#wn541_23903)) provides links to bulk download raster tiles from online maps for various apps. Not only is bulk downloading prohibited by some map providers, the maps packages provided by AnyGIS allow [Locus](https://www.locusmap.eu/) to do so by faking user-agent and referrer headers in the requests Locus sends to map providers."
-18816,"WN699","Maps","[OpenHiking](https://www.openhiking.eu) offers optimised vector maps for hikers based on OpenStreetMap data. These maps highlight hiking routes and symbols, water sources, points of interest, and natural features. They include contour lines and shading and are compatible with Garmin devices as well as Android through apps including [OruxMaps](https://oruxmaps.com/) and [LocusMaps](https://www.locusmap.app/). The maps cover areas such as the Carpathians and the Alps and offer features such as routing and searching for geographical names (Garmin only) and regular updates."
-20228,"WN731","Releases","Locus Map [highlighted](https://www.locusmap.app/de/spezialitaeten-aus-dem-locus-map-menue/) their app's hidden features such as automatic zoom, terrain shading, dynamic elevation display and audio coaching, demonstrating its versatility for activities such as walking, cycling and geocaching, and emphasising its usefulness for professionals and hobbyists alike."
-20706,"WN742","Releases","Michal [announced](https://www.locusmap.app/new-locus-map-4-26-dynamic-offline-lomap-rotation-and-other-features-not-only-for-cyclists/) the release of Locus Map 4.26, which includes several enhancements, such as improvements to the rotating map feature, offline routing engine, remaining elevation estimation, and the Garmin smartwatch add-on."
-21199,"WN754","Community","Jiří Eischmann [emphasised](https://social.vivaldi.net/@sesivany/113724617513228762) the function of #LocusMap that he really likes: ‘you can take a photo of a map, calibrate it with the standard map and then display it as an overlay’."
-21192,"WN754","Software","Sesivany has [evaluated](https://blog.eischmann.cz/2025/01/01/mapy-cz-maji-predplatne-ale-seznam-uz-me-naucil-pouzivat-neco-jineho/) :CZ-s:>>>[:EN-t:](https://blog-eischmann-cz.translate.goog/2025/01/01/mapy-cz-maji-predplatne-ale-seznam-uz-me-naucil-pouzivat-neco-jineho/?_x_tr_sl=auto&_x_tr_tl=EN) the various OSM-based map applications for mobile phones: Mapy\.cz, OsmAnd, LocusMap, Organic Maps, and Freemap\.sk."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
+7863,"WN427","Other Geo Things","Locusmap [tweeted](https://twitter.com/locusmap/status/1041963053296824320?s",12
+12025,"WN517","Software","Now [there](https://twitter.com/locusmap/status/1267823803784036355?s=19) is an [extension](https://play.google.com/store/apps/details?id=com.vastuf.lopoi) to [Locus](https://wiki.openstreetmap.org/wiki/Locus), the mobile navigator, which allows you to add and edit POI in OSM via this app.",12
+13947,"WN559","Software","Michel, from the Locus team, [presented](https://www.locusmap.app/locus-map-4-is-here-enjoy-its-first-release/) 'Locus Map 4' as a brand new app that offers all the basic map functions for free.",12
+14355,"WN570","Maps","[AnyGIS](https://anygis.ru/index_en) (as we reported [earlier](https://weeklyosm.eu/archives/14021#wn541_23903)) provides links to bulk download raster tiles from online maps for various apps. Not only is bulk downloading prohibited by some map providers, the maps packages provided by AnyGIS allow [Locus](https://www.locusmap.eu/) to do so by faking user-agent and referrer headers in the requests Locus sends to map providers.",12
+18816,"WN699","Maps","[OpenHiking](https://www.openhiking.eu) offers optimised vector maps for hikers based on OpenStreetMap data. These maps highlight hiking routes and symbols, water sources, points of interest, and natural features. They include contour lines and shading and are compatible with Garmin devices as well as Android through apps including [OruxMaps](https://oruxmaps.com/) and [LocusMaps](https://www.locusmap.app/). The maps cover areas such as the Carpathians and the Alps and offer features such as routing and searching for geographical names (Garmin only) and regular updates.",12
+20228,"WN731","Releases","Locus Map [highlighted](https://www.locusmap.app/de/spezialitaeten-aus-dem-locus-map-menue/) their app's hidden features such as automatic zoom, terrain shading, dynamic elevation display and audio coaching, demonstrating its versatility for activities such as walking, cycling and geocaching, and emphasising its usefulness for professionals and hobbyists alike.",12
+20706,"WN742","Releases","Michal [announced](https://www.locusmap.app/new-locus-map-4-26-dynamic-offline-lomap-rotation-and-other-features-not-only-for-cyclists/) the release of Locus Map 4.26, which includes several enhancements, such as improvements to the rotating map feature, offline routing engine, remaining elevation estimation, and the Garmin smartwatch add-on.",12
+21199,"WN754","Community","Jiří Eischmann [emphasised](https://social.vivaldi.net/@sesivany/113724617513228762) the function of #LocusMap that he really likes: ‘you can take a photo of a map, calibrate it with the standard map and then display it as an overlay’.",12
+21192,"WN754","Software","Sesivany has [evaluated](https://blog.eischmann.cz/2025/01/01/mapy-cz-maji-predplatne-ale-seznam-uz-me-naucil-pouzivat-neco-jineho/) :CZ-s:>>>[:EN-t:](https://blog-eischmann-cz.translate.goog/2025/01/01/mapy-cz-maji-predplatne-ale-seznam-uz-me-naucil-pouzivat-neco-jineho/?_x_tr_sl=auto&_x_tr_tl=EN) the various OSM-based map applications for mobile phones: Mapy\.cz, OsmAnd, LocusMap, Organic Maps, and Freemap\.sk.",12

@@ -1,7 +1,7 @@
-"id","blog","category","markdown"
-137,"WN273","Programming","Jerome Cukier reports that the sourcecode of [React-map-gl](https://github.com/uber/react-map-gl) was published. This project provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library."
-205,"WN274","Programming","Richard Fairhurst publishes [Glug](https://github.com/systemed/glug), a text-based and compact markup language that compiles to Mapbox GL JSON styles. (via [@richardf](https://twitter.com/richardf/status/652187491441750016))"
-1548,"WN297","Maps","Christopher Möller of webkid [explains](http://blog.webkid.io/mapbox-gl-data-visualization/) how they used Mapbox GL to generate a vector based and interactive map of cycleways in Berlin."
+"id","blog","category","markdown","sg_id"
+137,"WN273","Programming","Jerome Cukier reports that the sourcecode of [React-map-gl](https://github.com/uber/react-map-gl) was published. This project provides a React friendly API wrapper around Mapbox GL JS. A webGL based vector tile mapping library.",3
+205,"WN274","Programming","Richard Fairhurst publishes [Glug](https://github.com/systemed/glug), a text-based and compact markup language that compiles to Mapbox GL JSON styles. (via [@richardf](https://twitter.com/richardf/status/652187491441750016))",3
+1548,"WN297","Maps","Christopher Möller of webkid [explains](http://blog.webkid.io/mapbox-gl-data-visualization/) how they used Mapbox GL to generate a vector based and interactive map of cycleways in Berlin.",3
 2227,"WN310","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GraphHopper Routing Engine](https://graphhopper.com/)|[0.7](https://graphhopper.com/blog/2016/06/15/graphhopper-routing-e+ngine-0-7-released/)|2016-06-15|Java 7 support, new translations and many more
@@ -14,7 +14,7 @@
 |[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.7|2016-06-25|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.18.0](http://www.locusmap.eu/news-version-3-18-0)|2016-06-27|New function added|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",3
 2372,"WN313","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|2.16.0|2016-07-08|No infos|
@@ -31,9 +31,9 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary iOS](http://www.mapillary.com/map)|[4.4.3](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-07-17|Some fixes|
 |[Naviki Android](https://www.naviki.org/naviki/)|[3.45](https://play.google.com/store/apps/details?id=org.naviki)|2016-07-18|Some improvements|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-2510,"WN316","Licenses","Due to the [discussion](https://github.com/osm2vectortiles/osm2vectortiles/issues/387) about the replicas of the map style Mapbox Streets (in JSON format of Mapbox GL) between Mapbox and the OSM2Vectortiles project. Steve Gifford [writes about](http://mousebirdconsulting.blogspot.de/2016/08/deprecating-mapbox-gl-style-sheet.html) Mapbox GL Style Sheets of the WhirlyGlobe toolkit for version 2.5. Styled Layer Descriptor format support is coming soon. As Steve says: ""Not as cool, but a nice safe OGC standard."""
-2588,"WN317","Maps","A free Mapbox GL basemap, [OSM liberty](https://github.com/lukasmartinelli/osm-liberty) from OpenStreetMap, with complete liberty to use and self host. It is a fork of OSM Bright based on free data sources with a mission for a clear good looking design for the everyday user."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",3
+2510,"WN316","Licenses","Due to the [discussion](https://github.com/osm2vectortiles/osm2vectortiles/issues/387) about the replicas of the map style Mapbox Streets (in JSON format of Mapbox GL) between Mapbox and the OSM2Vectortiles project. Steve Gifford [writes about](http://mousebirdconsulting.blogspot.de/2016/08/deprecating-mapbox-gl-style-sheet.html) Mapbox GL Style Sheets of the WhirlyGlobe toolkit for version 2.5. Styled Layer Descriptor format support is coming soon. As Steve says: ""Not as cool, but a nice safe OGC standard.""",3
+2588,"WN317","Maps","A free Mapbox GL basemap, [OSM liberty](https://github.com/lukasmartinelli/osm-liberty) from OpenStreetMap, with complete liberty to use and self host. It is a fork of OSM Bright based on free data sources with a mission for a clear good looking design for the everyday user.",3
 2555,"WN317","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.3.2](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.3.1)|2016-08-09|One bug fixed|
@@ -47,7 +47,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[PostgreSQL](http://www.postgresql.org/)|[9.5.4 ff](https://www.postgresql.org/docs/9.5/static/release-9-5-4.html)|2016-08-12|Update releases fixing a number of issues of 9.5.3|
 |[Maps.me Android](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-08-15|POI for Olympia, updated map data|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",3
 2652,"WN318","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[OsmAnd for Android  ](http://osmand.net/)|[2.4](http://osmand.net/blog)|2016-08-08|New search interface and many fixes|
@@ -60,7 +60,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 2695,"WN319","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
@@ -76,8 +76,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-2756,"WN320","Programming","Petr Pridall of [Klokan Technologies](https://www.klokantech.com/), the project [Tileserver GL](https://github.com/klokantech/tileserver-gl). This is a tile server written in Node.js  that uses Mapbox GL Native (C and OpenGL)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+2756,"WN320","Programming","Petr Pridall of [Klokan Technologies](https://www.klokantech.com/), the project [Tileserver GL](https://github.com/klokantech/tileserver-gl). This is a tile server written in Node.js  that uses Mapbox GL Native (C and OpenGL).",3
 2901,"WN323","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.24.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-09-19|Eleven new features & improvements, ten bugs fixed.|
@@ -97,8 +97,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-2935,"WN323","Programming","Lukas Martinelli [searches](https://www.kickstarter.com/projects/174808720/maputnik-visual-map-editor-for-mapbox-gl) for supporters on Kickstarter.com  to develop a free style editor for JSON Styles for MapboxGL. The funding target was 4000 CHF and was reached during the SotM weekend."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+2935,"WN323","Programming","Lukas Martinelli [searches](https://www.kickstarter.com/projects/174808720/maputnik-visual-map-editor-for-mapbox-gl) for supporters on Kickstarter.com  to develop a free style editor for JSON Styles for MapboxGL. The funding target was 4000 CHF and was reached during the SotM weekend.",3
 3011,"WN324","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PostGIS](http://www.postgis.net)|[2.3.0](https://svn.osgeo.org/postgis/tags/2.3.0/ChangeLog)|2016-09-26|Support parallel processing when using PostgreSQL 9.6|
@@ -118,8 +118,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3089,"WN326","Mapping","AJ Ashton [explains](https://www.mapbox.com/blog/mapping-3d-buildings/) how to tag complicated buildings and add 3D information to them. This information can now also be viewed on Mapbox Streets and Mapbox GL JS."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+3089,"WN326","Mapping","AJ Ashton [explains](https://www.mapbox.com/blog/mapping-3d-buildings/) how to tag complicated buildings and add 3D information to them. This information can now also be viewed on Mapbox Streets and Mapbox GL JS.",3
 3107,"WN326","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.49](https://play.google.com/store/apps/details?id=org.naviki)|2016-10-11|Layout revised, better bluetooth support, bugs fixed.|
@@ -134,8 +134,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3208,"WN328","Licenses","Mapbox [clarifies](https://twitter.com/lukmartinelli/status/791658275922206720) who has which rights on a map style for Mapbox GL JS when created with Mapbox Studio. It does not make any demands on styles self-written by its users."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+3208,"WN328","Licenses","Mapbox [clarifies](https://twitter.com/lukmartinelli/status/791658275922206720) who has which rights on a map style for Mapbox GL JS when created with Mapbox Studio. It does not make any demands on styles self-written by its users.",3
 3287,"WN330","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.4.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.4.3)|2016-11-08|Bugfix release.|
@@ -148,7 +148,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 3357,"WN331","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.14](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-11-15|Various improvements.|
@@ -167,9 +167,9 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3397,"WN332","Imports","Brandon Liu [announces](https://lists.openstreetmap.org/pipermail/imports/2016-November/004672.html) a planned import of building heights in San Francisco. The initiative [seems](http://www.openstreetmap.org/user/Chetan_Gowda/diary/39958) to be motivated by Mapbox GL JS.  A discussion [ensues](https://lists.openstreetmap.org/pipermail/imports/2016-November/004707.html) about how involved the local the mappers are, and the initiator of the project [explains](https://lists.openstreetmap.org/pipermail/imports/2016-November/004708.html) his motivation."
-3564,"WN335","Programming","Thomas Park releases its open source editor of vector styles for interactive maps. The [MVT Styler](https://sputnik-maps.github.io/mvt-styler/) uses the Mapbox GL Style specification."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+3397,"WN332","Imports","Brandon Liu [announces](https://lists.openstreetmap.org/pipermail/imports/2016-November/004672.html) a planned import of building heights in San Francisco. The initiative [seems](http://www.openstreetmap.org/user/Chetan_Gowda/diary/39958) to be motivated by Mapbox GL JS.  A discussion [ensues](https://lists.openstreetmap.org/pipermail/imports/2016-November/004707.html) about how involved the local the mappers are, and the initiator of the project [explains](https://lists.openstreetmap.org/pipermail/imports/2016-November/004708.html) his motivation.",3
+3564,"WN335","Programming","Thomas Park releases its open source editor of vector styles for interactive maps. The [MVT Styler](https://sputnik-maps.github.io/mvt-styler/) uses the Mapbox GL Style specification.",3
 3570,"WN336","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.16](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-20|Various improvements.|
@@ -189,7 +189,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 3649,"WN338","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM](http://josm.openstreetmap.de/)|[5.5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0)|2016-12-16|Navigation, tag interpretation and the API infrastructure have been improved.|
@@ -202,7 +202,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 3731,"WN339","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.21.1](https://play.google.com/store/apps/details?id=menion.android.locus)|2017-01-10|Bugfix release.|
@@ -218,7 +218,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 3801,"WN341","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Traccar Client iOS](https://itunes.apple.com/us/app/traccar-client/id843156974)|[4.0](https://itunes.apple.com/us/app/traccar-client/id843156974)|2017-01-16|Fix battery level reading.|
@@ -234,8 +234,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3829,"WN341","Programming","Mapbox [writes](https://www.mapbox.com/blog/construction-project-atlas/) about   Project Atlas   that turns blueprints into maps – ingesting thousands of drawings and work orders per project, converting them from building information modeling (BIM) and computer-aided design (CAD) formats to Mapbox vector tiles, and making them interactive with Mapbox GL JS."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+3829,"WN341","Programming","Mapbox [writes](https://www.mapbox.com/blog/construction-project-atlas/) about   Project Atlas   that turns blueprints into maps – ingesting thousands of drawings and work orders per project, converting them from building information modeling (BIM) and computer-aided design (CAD) formats to Mapbox vector tiles, and making them interactive with Mapbox GL JS.",3
 4118,"WN347","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.6.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.6.3)|2017-03-03|Some bugfixes.|
@@ -250,7 +250,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 4166,"WN348","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.33](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-14|Fix bug in distance mode, upgrade map box map for more stability.|
@@ -269,7 +269,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 4307,"WN351","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Osmium Tool](http://osmcode.org/osmium/)|[1.6.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Two changes and three fixes.|
@@ -290,7 +290,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-10 15:08:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 4331,"WN352","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.1](https://github.com/osmcode/pyosmium/releases)|11/04/2017|Four extensions, two changes and three bugfixes.|
@@ -308,7 +308,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-17 18:40:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 4380,"WN353","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[3.2.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v3.1.0...v3.2.0)|2017-04-17|Many changes, please read release info.|
@@ -324,8 +324,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-24 16:37:53+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4495,"WN355","Maps","[1] [Bruno Salerno](https://www.openstreetmap.org/user/ElBruno) published recently [Citylines.co](http://www.citylines.co), which is a collaborative platform that helps rebuild transport systems in the cities of the world as well as their evolution. Citylines is [free software](https://github.com/BrunoSalerno/citylines) and uses OSM maps and Mapbox GL technology."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+4495,"WN355","Maps","[1] [Bruno Salerno](https://www.openstreetmap.org/user/ElBruno) published recently [Citylines.co](http://www.citylines.co), which is a collaborative platform that helps rebuild transport systems in the cities of the world as well as their evolution. Citylines is [free software](https://github.com/BrunoSalerno/citylines) and uses OSM maps and Mapbox GL technology.",3
 4478,"WN355","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[JOSM](http://josm.openstreetmap.de/)|[12039](http://josm.openstreetmap.de/wiki/Changelog)|2017-05-02|See release infos.|
@@ -346,8 +346,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-08 20:24:45+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4699,"WN360","Programming","The Qt Automotive Suite (Qt 5.9) now [ships](https://www.mapbox.com/blog/qt-automotive/) with vector-based maps (provided by [Qt Location Mapbox GL plugin](https://doc.qt.io/qt-5/location-plugin-mapboxgl.html)) and APIs for navigation, customized design and the ability to layer in your own data."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+4699,"WN360","Programming","The Qt Automotive Suite (Qt 5.9) now [ships](https://www.mapbox.com/blog/qt-automotive/) with vector-based maps (provided by [Qt Location Mapbox GL plugin](https://doc.qt.io/qt-5/location-plugin-mapboxgl.html)) and APIs for navigation, customized design and the ability to layer in your own data.",3
 4673,"WN360","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.28](https://docs.kurviger.de/app)|2017-06-05|Some enhancements.|
@@ -365,9 +365,9 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-13 00:32:52+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4765,"WN362","Programming","[Vladimir Agafonkin](https://www.mapbox.com/about/team/vladimir-agafonkin/) is working on Mapbox GL's [heatmaps](https://www.mapbox.com/blog/heatmaps-preview/), a convenient way of exploring massive datasets."
-4945,"WN364","Community","Jinal Foflia writes a [Mapbox blog](https://blog.mapbox.com/maps-mapbox-and-state-of-the-map-7e7a6f196962) showcasing this year's State of the Map conferences around the world. This [map](https://jsfiddle.net/rasagy/dsd1wg2v/?utm_source=website&utm_medium=embed&utm_campaign=dsd1wg2v) was made using the GeoJSON that contained the location co-ordinates of all the event venues, the icons from the various SotM and their respective websites. You can refer to this [example](https://www.mapbox.com/mapbox-gl-js/example/custom-marker-icons/) for doing something similar."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+4765,"WN362","Programming","[Vladimir Agafonkin](https://www.mapbox.com/about/team/vladimir-agafonkin/) is working on Mapbox GL's [heatmaps](https://www.mapbox.com/blog/heatmaps-preview/), a convenient way of exploring massive datasets.",3
+4945,"WN364","Community","Jinal Foflia writes a [Mapbox blog](https://blog.mapbox.com/maps-mapbox-and-state-of-the-map-7e7a6f196962) showcasing this year's State of the Map conferences around the world. This [map](https://jsfiddle.net/rasagy/dsd1wg2v/?utm_source=website&utm_medium=embed&utm_campaign=dsd1wg2v) was made using the GeoJSON that contained the location co-ordinates of all the event venues, the icons from the various SotM and their respective websites. You can refer to this [example](https://www.mapbox.com/mapbox-gl-js/example/custom-marker-icons/) for doing something similar.",3
 5043,"WN366","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Jungle Bus](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|[1.2.4](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|2017-07-20|No infos.|
@@ -384,7 +384,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-07-22 21:29:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
 5126,"WN368","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|07.08.2017|More details and added x-ray vision in router and horizontal format.|
@@ -398,24 +398,24 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-08 15:35:26+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-5561,"WN376","Programming","Chris Whong [has written](https://github.com/nycplanning/labs-maputnik-dev-server) an express.js server that allows to quickly load Mapbox GL styles from any project into the Maputnik Style Editor."
-5619,"WN377","Releases","Mapbox shares the [release](https://blog.mapbox.com/our-react-native-gl-library-is-in-alpha-7456f2af685) about their support to [React Native Mapbox GL](https://github.com/mapbox/react-native-mapbox-gl) and started a rewrite of their current experimental React Native library and released an alpha."
-5724,"WN380","Programming","Thomas Gratier [points out](https://twitter.com/ThomasG77/status/923279991013593088) ""An [analysis](https://delftswa.gitbooks.io/desosa-2017/content/mapbox-gl-js/chapter.html) of the Mapbox GL JS library by Delft University of Technology students (master-level)""."
-5713,"WN380","Programming","Mapbox [announces](https://blog.mapbox.com/announcing-expressions-in-gl-js-a72b55d0a6af) GL expressions with the release of Mapbox GL JS v0.41.0."
-6021,"WN387","OSM in action","The [Hamburg Port Map](https://www.hafen-hamburg.de/en/hafenplan) on the port authority website shows all the facilities of the largest seaport in Germany, with live vessel positions, onto a 3D map built with OSM and MapboxGL."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",3
+5561,"WN376","Programming","Chris Whong [has written](https://github.com/nycplanning/labs-maputnik-dev-server) an express.js server that allows to quickly load Mapbox GL styles from any project into the Maputnik Style Editor.",3
+5619,"WN377","Releases","Mapbox shares the [release](https://blog.mapbox.com/our-react-native-gl-library-is-in-alpha-7456f2af685) about their support to [React Native Mapbox GL](https://github.com/mapbox/react-native-mapbox-gl) and started a rewrite of their current experimental React Native library and released an alpha.",3
+5724,"WN380","Programming","Thomas Gratier [points out](https://twitter.com/ThomasG77/status/923279991013593088) ""An [analysis](https://delftswa.gitbooks.io/desosa-2017/content/mapbox-gl-js/chapter.html) of the Mapbox GL JS library by Delft University of Technology students (master-level)"".",3
+5713,"WN380","Programming","Mapbox [announces](https://blog.mapbox.com/announcing-expressions-in-gl-js-a72b55d0a6af) GL expressions with the release of Mapbox GL JS v0.41.0.",3
+6021,"WN387","OSM in action","The [Hamburg Port Map](https://www.hafen-hamburg.de/en/hafenplan) on the port authority website shows all the facilities of the largest seaport in Germany, with live vessel positions, onto a 3D map built with OSM and MapboxGL.",3
 7375,"WN418","Releases","According to a [tweet](https://twitter.com/wambacher1/status/1020277600231489537) from wambacher, there are new versions for the following OSM-related software available: Komoot Android, Leaflet 1.3.3, Magic Earth iOS 4.1.0 and several Mapbox GL products.
-You can find these updates along with an almost endless list of OSM-related software and current versions in [Wambacher's software list](https://wambachers-osm.website/index.php/osm-software-watchlist)."
-8114,"WN433","Programming","[Project-insanity](https://blog.project-insanity.org/) shares a [post](https://blog.project-insanity.org/2018/10/29/host-your-own-mapbox-gl-js-vector-tiles-map/) about the steps involved in hosting one's own [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) vector tiles map."
-12175,"WN520","Programming","Mapbox took a further step out of the open source ecosystem. The release notes of the first alpha releases of [Mapbox GL Native for iOS 5.10](https://github.com/mapbox/mapbox-gl-native-ios/releases/tag/ios-v5.10.0-alpha.1) and [Mapbox GL Native for Android 9.3.0](https://github.com/mapbox/mapbox-gl-native-android/releases/tag/android-v9.3.0-alpha.1) mention that they have started depending on non-free dependencies released under Mapbox Terms of Service, not a free and open licence. Only Mapbox clients can access these binaries. (via [@RichardF](https://mobile.twitter.com/richardf/status/1280490225836277760) on Twitter)."
+You can find these updates along with an almost endless list of OSM-related software and current versions in [Wambacher's software list](https://wambachers-osm.website/index.php/osm-software-watchlist).",3
+8114,"WN433","Programming","[Project-insanity](https://blog.project-insanity.org/) shares a [post](https://blog.project-insanity.org/2018/10/29/host-your-own-mapbox-gl-js-vector-tiles-map/) about the steps involved in hosting one's own [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) vector tiles map.",3
+12175,"WN520","Programming","Mapbox took a further step out of the open source ecosystem. The release notes of the first alpha releases of [Mapbox GL Native for iOS 5.10](https://github.com/mapbox/mapbox-gl-native-ios/releases/tag/ios-v5.10.0-alpha.1) and [Mapbox GL Native for Android 9.3.0](https://github.com/mapbox/mapbox-gl-native-android/releases/tag/android-v9.3.0-alpha.1) mention that they have started depending on non-free dependencies released under Mapbox Terms of Service, not a free and open licence. Only Mapbox clients can access these binaries. (via [@RichardF](https://mobile.twitter.com/richardf/status/1280490225836277760) on Twitter).",3
 13229,"WN543","Programming","Mapbox GL JS [is no longer free software](https://github.com/mapbox/mapbox-gl-js/blob/main/CHANGELOG.md#200).
   Paul Ramsey [comments](https://blog.cleverelephant.ca/2020/12/mapbox-morrison.html) on the move in his blog.
   Ilya Zverev [reported](http://shtosm.ru/all/gl-js-v2/) ![(ru)](https://blog.openstreetmap.de/wp-uploads/2016/12/ru.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=http://shtosm.ru/all/gl-js-v2/) on the forks and alternative libraries being developed, and comments on the development of Mapbox.
   Paul Norman [reacted](https://lists.openstreetmap.org/pipermail/dev/2020-December/031023.html), on the OSM-Dev mailing list, by saying that he is placing the client-side rendered [OpenStreetMap Cartographic](https://github.com/pnorman/openstreetmap-cartographic/) project on hold.
   The new [MapLibre](https://github.com/maplibre/maplibre-gl-js) project wants to maintain a free and open source fork of Mapbox GL JS 1.x, which might make Paul reconsider his decision.
-  Steve Bennett [tweets](https://twitter.com/stevage1/status/1336968746838024193) that missing attribution of Mapbox GL by Azure Maps might have been a cause for Mapbox's decision. Mapbox's own attribution of OpenStreetMap data has been controversial."
-13524,"WN549","Programming","Maptiler [provided](https://www.maptiler.com/news/2021/01/mapbox-gl-open-source-fork/) a more formal announcement of the MapLibre fork of Mapbox GL, which [we mentioned](https://weeklyosm.eu/archives/14064#wn543_23951) in passing at the time of Mapbox GL becoming proprietary software."
-13547,"WN550","OSM in the media","If you've integrated Mapbox GL JS Version 1.13 or older into your product, the [MapLibre](https://github.com/maplibre) project is a strong open source alternative to the latest proprietary Mapbox 2.0 update, opensource.com [says](https://opensource.com/article/21/1/open-source-news)."
-16453,"WN631","Programming","Stamen [blogged](https://stamen.com/visualize-a-cross-section-of-your-map-with-chartographer/) about [Chartographer](https://github.com/stamen/chartographer), which generates visualisations of a supplied Mapbox GL stylesheet to better understand how its layers are rendered per zoom level. Chartographer has special views for areas, lines, icons and labels. It is especially helpful when generating a basemap style for vector tiles."
-18812,"WN699","Maps","Darren Wiens [presented](https://nitter.net/dkwiens/status/1730754715921874988) a sea level rise [simulator](https://aws-terrain-flood.netlify.app), where he uses the AWS Terrain Tiles and the new raster functionality available in Mapbox GL JS v3."
-19343,"WN711","Did you know that …","... the MapLibre webmap Javascript tool? It [renders](https://maplibre.org/maplibre-gl-js/docs/examples/) vector maps including 3D models, animations, adding icons, style labels, etc. This open source API is a community led fork derived from mapbox-gl-js that uses WebGL to render interactive maps from vector tiles in a browser. Paul Norman used MapLibre GL for his vector map example in the article [above](https://weeklyosm.eu/archives/17097#wn711_30148)."
+  Steve Bennett [tweets](https://twitter.com/stevage1/status/1336968746838024193) that missing attribution of Mapbox GL by Azure Maps might have been a cause for Mapbox's decision. Mapbox's own attribution of OpenStreetMap data has been controversial.",3
+13524,"WN549","Programming","Maptiler [provided](https://www.maptiler.com/news/2021/01/mapbox-gl-open-source-fork/) a more formal announcement of the MapLibre fork of Mapbox GL, which [we mentioned](https://weeklyosm.eu/archives/14064#wn543_23951) in passing at the time of Mapbox GL becoming proprietary software.",3
+13547,"WN550","OSM in the media","If you've integrated Mapbox GL JS Version 1.13 or older into your product, the [MapLibre](https://github.com/maplibre) project is a strong open source alternative to the latest proprietary Mapbox 2.0 update, opensource.com [says](https://opensource.com/article/21/1/open-source-news).",3
+16453,"WN631","Programming","Stamen [blogged](https://stamen.com/visualize-a-cross-section-of-your-map-with-chartographer/) about [Chartographer](https://github.com/stamen/chartographer), which generates visualisations of a supplied Mapbox GL stylesheet to better understand how its layers are rendered per zoom level. Chartographer has special views for areas, lines, icons and labels. It is especially helpful when generating a basemap style for vector tiles.",3
+18812,"WN699","Maps","Darren Wiens [presented](https://nitter.net/dkwiens/status/1730754715921874988) a sea level rise [simulator](https://aws-terrain-flood.netlify.app), where he uses the AWS Terrain Tiles and the new raster functionality available in Mapbox GL JS v3.",3
+19343,"WN711","Did you know that …","... the MapLibre webmap Javascript tool? It [renders](https://maplibre.org/maplibre-gl-js/docs/examples/) vector maps including 3D models, animations, adding icons, style labels, etc. This open source API is a community led fork derived from mapbox-gl-js that uses WebGL to render interactive maps from vector tiles in a browser. Paul Norman used MapLibre GL for his vector map example in the article [above](https://weeklyosm.eu/archives/17097#wn711_30148).",3

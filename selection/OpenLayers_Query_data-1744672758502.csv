@@ -1,10 +1,10 @@
-"id","blog","category","markdown"
-93,"WN273","Programming","On September 10th, 2015 [OpenLayers](http://openlayers.org/) version [3.10.1](https://github.com/openlayers/ol3/releases/tag/v3.10.1) was released."
+"id","blog","category","markdown","sg_id"
+93,"WN273","Programming","On September 10th, 2015 [OpenLayers](http://openlayers.org/) version [3.10.1](https://github.com/openlayers/ol3/releases/tag/v3.10.1) was released.",8
 444,"WN278","Programming","On November 12th, 2015 [OpenLayers](http://openlayers.org/) version [3.11.1](https://github.com/openlayers/ol3/releases/tag/v3.11.1) was released as bugfix release to version 3.11.
 Highlight of version 3.11 is [support of Mapbox vector tiles.](http://openlayers.org/en/v3.11.0/examples/mapbox-vector-tiles.html)
-"
-448,"WN278","Programming","Bjørn Sandvik [writes](http://blog.thematicmapping.org/2015/11/mapping-grid-based-statistics-with.html) about mapping grid-based statistics, with the help from openlayers and other javascript tools."
-487,"WN279","Programming","On November 19th, 2015 [OpenLayers](http://openlayers.org/) version [3.11.2](https://github.com/openlayers/ol3/releases/tag/v3.11.2) was released."
+",8
+448,"WN278","Programming","Bjørn Sandvik [writes](http://blog.thematicmapping.org/2015/11/mapping-grid-based-statistics-with.html) about mapping grid-based statistics, with the help from openlayers and other javascript tools.",8
+487,"WN279","Programming","On November 19th, 2015 [OpenLayers](http://openlayers.org/) version [3.11.2](https://github.com/openlayers/ol3/releases/tag/v3.11.2) was released.",8
 721,"WN283","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
@@ -12,14 +12,14 @@ Highlight of version 3.11 is [support of Mapbox vector tiles.](http://openlayers
 |[OpenLayers](http://openlayers.org/)|[3.12.1](https://github.com/openlayers/ol3/releases/tag/v3.12.1)|2015-12-17|Fix of 3.12.0|
 |[Mapillary for Android](http://www.mapillary.com/map)|[1.69](https://play.google.com/store/apps/details?id=app.mapillary)|2015-12-18|Map-in-Camera fixes|
 |[QGIS](http://www.qgis.org)|[2.12.2](http://www.qgis.org/de/site/forusers/visualchangelog212/index.html)|2015-12-18|-|
-|[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.1](https://itunes.apple.com/us/app/mapillary/id757286802?mt=8&ign-mpt=uo%3D4)|2015-12-21|Map-in-Camera fixes|"
+|[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.1](https://itunes.apple.com/us/app/mapillary/id757286802?mt=8&ign-mpt=uo%3D4)|2015-12-21|Map-in-Camera fixes|",8
 986,"WN288","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OpenJUMP](http://jump-pilot.sourceforge.net/)|[1.9.0](http://sourceforge.net/p/jump-pilot/code/HEAD/tree/core/trunk/ChangeLog)|2016-01-18|First new release since december 2014|
 |[OpenLayers](http://openlayers.org/)|[3.13.0](https://github.com/openlayers/ol3/releases/tag/v3.13.0)|2016-01-20|68 changes and fixes|
 |[OSRM Backend](http://project-osrm.org/)|[4.9.1](https://github.com/Project-OSRM/osrm-backend/releases/tag/v4.9.1)|2016-01-20|4 bugs fixed|
-|[SQLite](http://www.sqlite.org/)|[3.10.2](http://www.sqlite.org/releaselog/3_10_2.html)|2016-01-20|Bug fixes|"
+|[SQLite](http://www.sqlite.org/)|[3.10.2](http://www.sqlite.org/releaselog/3_10_2.html)|2016-01-20|Bug fixes|",8
 1142,"WN290","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[libosmium](http://osmcode.org/libosmium/)|[2.6.0](https://github.com/osmcode/libosmium/blob/master/CHANGELOG.md)|2016-02-03|Extensions, enhances and fixes|
@@ -29,7 +29,7 @@ Highlight of version 3.11 is [support of Mapbox vector tiles.](http://openlayers
 |[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.3](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-02-05|French support, 3 new cameras,++, fixes|
 |[Maps.me](http://maps.me)|[5.6.1](https://github.com/mapsme/omim/releases/tag/android-release-561)|2016-02-05|Bug fixed|
 |[Atlas](http://wiki.openstreetmap.org/wiki/Atlas_(navigation_application))|[1.2.1](http://groups.google.com/group/atlas-app)|2016-02-07|Night mode, update map and routing engine, various improvements|
-|[Graphhopper](https://graphhopper.com/)|[0.6](https://graphhopper.com/blog/2016/02/08/releasing-graphhopper-0-6/)|2016-02-08|Many smaller changes, new alternate route calculation|"
+|[Graphhopper](https://graphhopper.com/)|[0.6](https://graphhopper.com/blog/2016/02/08/releasing-graphhopper-0-6/)|2016-02-08|Many smaller changes, new alternate route calculation|",8
 1361,"WN294","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OpenLayers](http://openlayers.org/)|[3.14.2](https://github.com/openlayers/ol3/releases/tag/v3.14.2)|2016-02-03|Some patches of 3.14.1|
@@ -42,9 +42,9 @@ Highlight of version 3.11 is [support of Mapbox vector tiles.](http://openlayers
 |[iD](http://ideditor.com/)|[1.9.1](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-03-03|Bug fixes of version 1.9.0 from 2016-03-01|
 |[SQLite](http://www.sqlite.org/)|[3.11.1](http://www.sqlite.org/releaselog/3_11_1.html)|2016-03-03|Some improvements and bug fixes|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-1515,"WN296","Community","Creating applications with [QGIS web mapping](http://mappinggis.com/2016/03/crea-aplicaciones-webmapping-con-qgis/). ""qgis2web"" is a tool that can export QGIS projects to web maps such as OpenLayers 3 or Leaflet (it automatically creates HTML, Javascript and CSS files). ([automatic translation](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fmappinggis.com%2F2016%2F03%2Fcrea-aplicaciones-webmapping-con-qgis%2F&edit-text=))"
-1508,"WN296","Programming","[mapfig](https://www.mapfig.com/) have created a new project [OpenTileServer](http://opentileserver.org/), which provides an installation script to set up an OSM tile server on an Ubuntu Linux system in a very easy way - think ""switch2osm"" but without the editing.  Users choose what data to load, and whether they want OSM's ""standard"" map style or ""OSM bright"".  Example OpenLayers and Leaflet pages are also included."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",8
+1515,"WN296","Community","Creating applications with [QGIS web mapping](http://mappinggis.com/2016/03/crea-aplicaciones-webmapping-con-qgis/). ""qgis2web"" is a tool that can export QGIS projects to web maps such as OpenLayers 3 or Leaflet (it automatically creates HTML, Javascript and CSS files). ([automatic translation](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fmappinggis.com%2F2016%2F03%2Fcrea-aplicaciones-webmapping-con-qgis%2F&edit-text=))",8
+1508,"WN296","Programming","[mapfig](https://www.mapfig.com/) have created a new project [OpenTileServer](http://opentileserver.org/), which provides an installation script to set up an OSM tile server on an Ubuntu Linux system in a very easy way - think ""switch2osm"" but without the editing.  Users choose what data to load, and whether they want OSM's ""standard"" map style or ""OSM bright"".  Example OpenLayers and Leaflet pages are also included.",8
 1602,"WN298","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Basecamp Mac](http://www.garmin.com/en-US/shop/downloads/basecamp)|[4.6.3](http://www.garmin.com/support/download_details.jsp?id=4449)|2016-03-28|2 bugs fixed|
@@ -56,13 +56,13 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Maps.me Android](http://maps.me)|[6.0.3](https://github.com/mapsme/omim/releases/tag/android-release-603)|2016-04-01|-|
 |[OpenLayers](http://openlayers.org/)|[3.15.0](https://github.com/openlayers/ol3/releases/tag/v3.15.0)|2016-04-04|Features and fixes from 136 pull requests since the v3.14.2 release.|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",8
 1714,"WN300","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Traccar Server](https://www.traccar.org/server/)|[3.5](https://www.traccar.org/blog/category/releases/)|2016-03-17|-|
 |[OpenLayers](http://openlayers.org/)|[3.15.1](https://github.com/openlayers/ol3/releases/tag/v3.15.1)|2016-04-07|Patch release that addresses a regression in the v3.15.0 release.|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",8
 2007,"WN306","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OpenLayers](http://openlayers.org/)|[3.16.0](https://github.com/openlayers/ol3/releases/tag/v3.16.0)|2016-05-23|Features and fixes from 95 pull requests since release v3.15.1|
@@ -70,8 +70,8 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Maps.me iOS](http://maps.me)|[6.1.7](https://itunes.apple.com/app/id510623322)|2016-05-25|ZIP codes available|
 |[osmosis](http://wiki.openstreetmap.org/wiki/Osmosis)|[0.45](https://lists.openstreetmap.org/pipermail/osmosis-dev/2016-May/001780.html)|2016-05-27|Many, see release info|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-2120,"WN308","Programming","[Meteopool.org](https://www.meteopool.org/en/) who make maps for storm chasing and weather watching, [wrote about](http://forum.openstreetmap.org/viewtopic.php?pid=595844#p595844) ![(German)](http://blog.openstreetmap.de/wp-uploads//2016/05/de.svg)  (automatic [translation](https://translate.google.com/translate?sl=auto&tl=EN&u=http://forum.openstreetmap.org/viewtopic.php?pid=595844#p595844)) their switch to OpenLayers 3 and forthcoming relaunch. They are also looking for a student developer or keen storm chaser to help them in creating three smartphone apps."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",8
+2120,"WN308","Programming","[Meteopool.org](https://www.meteopool.org/en/) who make maps for storm chasing and weather watching, [wrote about](http://forum.openstreetmap.org/viewtopic.php?pid=595844#p595844) ![(German)](http://blog.openstreetmap.de/wp-uploads//2016/05/de.svg)  (automatic [translation](https://translate.google.com/translate?sl=auto&tl=EN&u=http://forum.openstreetmap.org/viewtopic.php?pid=595844#p595844)) their switch to OpenLayers 3 and forthcoming relaunch. They are also looking for a student developer or keen storm chaser to help them in creating three smartphone apps.",8
 2311,"WN311","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me Android](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-06-27|Book hotels with booking.com, test bike navigation|
@@ -81,7 +81,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[OpenLayers](http://openlayers.org/)|[3.17.1](https://github.com/openlayers/ol3/releases/tag/v3.17.1)|2016-07-04|Patch the recently published 3.17.0|
 |[Mapbox Android SDK](https://www.mapbox.com/blog/android-4.1.0/)|4.1.0|2016-06-29|Customizable marker views and new ways to customize the user location layer|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",8
 2695,"WN319","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
@@ -97,8 +97,8 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-2701,"WN319","Programming","Hartmut Holzgraefe [summarizes](http://blog.osm-baustelle.de/index.php/2016/08/27/openlayers-leaflet-and-other-improvements/) his latest work on improving his [Maposmatic](http://maposmatic.org/) instance."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
+2701,"WN319","Programming","Hartmut Holzgraefe [summarizes](http://blog.osm-baustelle.de/index.php/2016/08/27/openlayers-leaflet-and-other-improvements/) his latest work on improving his [Maposmatic](http://maposmatic.org/) instance.",8
 2742,"WN320","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[BRouter](http://brouter.de/brouter/)|[1.4.4](http://brouter.de/brouter/revisions.html)|2016-08-29|Performance improvements, added mtb:scale:uphill|
@@ -113,7 +113,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 3132,"WN327","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-10-18|Bug fix release|
@@ -130,7 +130,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 3228,"WN328","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Graphhopper](https://graphhopper.com/)|[0.8](https://graphhopper.com/blog/2016/10/18/graphhopper-routing-engine-0-8-released/)|2016-10-18|Many changes, please read release info.|
@@ -148,8 +148,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3475,"WN333","Software","Chris Hill [writes](http://chris-osm.blogspot.de/2016/12/replacing-openlayers.html?m"
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
+3475,"WN333","Software","Chris Hill [writes](http://chris-osm.blogspot.de/2016/12/replacing-openlayers.html?m",8
 3494,"WN334","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.10](https://play.google.com/store/apps/details?id=app.mapillary)|2016-12-06|Upload stability features.|
@@ -163,7 +163,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 3570,"WN336","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.16](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-20|Various improvements.|
@@ -183,7 +183,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 3949,"WN343","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PostGIS](http://www.postgis.net)|[2.3.2](https://svn.osgeo.org/postgis/tags/2.3.2/ChangeLog)|2017-01-31|Bugfix release.|
@@ -196,7 +196,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 4004,"WN344","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[SQLite](http://www.sqlite.org/)|[3.17.0](http://www.sqlite.org/releaselog/3_17_0.html)|2017-02-13|15 enhancements and three bugfixes.|
@@ -208,7 +208,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 4331,"WN352","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.1](https://github.com/osmcode/pyosmium/releases)|11/04/2017|Four extensions, two changes and three bugfixes.|
@@ -226,7 +226,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-17 18:40:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 4478,"WN355","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[JOSM](http://josm.openstreetmap.de/)|[12039](http://josm.openstreetmap.de/wiki/Changelog)|2017-05-02|See release infos.|
@@ -247,8 +247,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-08 20:24:45+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4669,"WN360","Events","The second edition of ""l'université d'été développement de logiciel libre et open source [(UDOS)](http://www.udos.fr/)"" is [taking place](https://lists.openstreetmap.org/pipermail/talk-fr/2017-June/084481.html) from June 28th to 30th in [Digne-les-Bains, France](http://www.openstreetmap.org/node/1736670592).  Among others, there are workshops on [OpenLayers3](http://openlayers.org/), [LeafletJS](http://leafletjs.com/) and [OpenStreetMap with Overpass API](http://www.udos.fr/session-cartographie.html). ![(fr)](http://blog.openstreetmap.de/wp-uploads//2016/12/fr.svg)"
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
+4669,"WN360","Events","The second edition of ""l'université d'été développement de logiciel libre et open source [(UDOS)](http://www.udos.fr/)"" is [taking place](https://lists.openstreetmap.org/pipermail/talk-fr/2017-June/084481.html) from June 28th to 30th in [Digne-les-Bains, France](http://www.openstreetmap.org/node/1736670592).  Among others, there are workshops on [OpenLayers3](http://openlayers.org/), [LeafletJS](http://leafletjs.com/) and [OpenStreetMap with Overpass API](http://www.udos.fr/session-cartographie.html). ![(fr)](http://blog.openstreetmap.de/wp-uploads//2016/12/fr.svg)",8
 4673,"WN360","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.28](https://docs.kurviger.de/app)|2017-06-05|Some enhancements.|
@@ -266,7 +266,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-13 00:32:52+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
 5181,"WN369","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[guide4you](https://github.com/KlausBenndorf/guide4you)|[2.2.3](https://github.com/KlausBenndorf/guide4you/releases)|2017-08-08|No infos.|
@@ -287,27 +287,27 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-15 12:58:09+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-5721,"WN380","Other Geo Things","[Shareloc](https://github.com/meggsimum/shareloc), the free map API for creating and sharing OpenLayers maps, now offers the TopPlus-Web-Open map service of the BKG as a layer in the official [demo](https://apps.meggsimum.de/shareloc/#map=6/51.39920565355382/12.36511230468743&layers=bkg.topplus-web-open).  [TopPlus-Web-Open](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=41&gdz_user_id=0) is based on multiple free data sources, including OSM."
-7462,"WN420","Software","Terrestris, a German GIS company, [points out](https://www.terrestris.de/2018/08/06/das-projekt-geostyler/) on their blog that they developed [GeoStyler](https://github.com/terrestris/geostyler), an online editor for OpenLayers and [OGC SLD](http://www.opengeospatial.org/standards/sld/) rendering styles together with [Meggsimum](https://meggsimum.de/)."
-7477,"WN420","Programming","Tom Chadwin [made](https://github.com/tomchadwin/qgis2web/) a QGIS plugin available on GitHub that exports your QGIS map to an OpenLayers/Leaflet webmap."
-8189,"WN435","Did you know that …","... the service [Shareloc](https://apps.meggsimum.de/shareloc/) that allows you to create and share OpenLayers maps?"
-8959,"WN450","Programming","The OpenLayers project has [asked](https://github.com/openlayers/openlayers/wiki/Openlayers-6:-call-for-funding) for donations for work on version 6. Of the USD 300,000 collected so far, USD 150,000 have come from [Swisstopo](https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online.html)."
-9448,"WN460","OpenStreetMap Foundation","The German local chapter FOSSGIS received funding requests for an [OpenLayers code sprint](https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/OpenLayers_6_Codesprint) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) (automatic [translation](https://translate.google.com/translate?sl=de&tl=EN&u=https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/OpenLayers_6_Codesprint)) and a replacement for the [Overpass development server](https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/Dev-Overpass-2019) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) (automatic [translation](https://translate.google.com/translate?sl=de&tl=EN&u=https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/Dev-Overpass-2019)). The OpenLayers developers want to spend five days to make the open source Javascript library faster, easier to use and more error-free. The requested Overpass server will replace the existing, five year old development machine."
-10395,"WN481","Software","MapTiler reports that Vector tiles from #OpenStreetMap in Rijksdriehoekstelsel coordinate system using the latest @OpenLayers v6 are ready to [use](https://maptiler.nl/kaarten/rijksdriehoekstelsel/)."
-10627,"WN486","Releases","We have overlooked recent developments of [OpenLayers](https://openlayers.org). Recent releases contain some interesting features such as the ability to compose layers with different renderer types, a number of vector tile rendering improvements, a lower memory footprint overall and many more. We encourage users of versions below the recently released [OpenLayers v6.1.1](https://github.com/openlayers/openlayers/releases/tag/v6.1.1) to check the [release history](https://github.com/openlayers/openlayers/releases/)."
-10711,"WN488","Maps","Terence Eden [has posted](https://shkspr.mobi/blog/2019/11/creating-an-organization-of-cartographers-for-social-equality-map-with-openstreetmap/) a guide, in his blog, on how to create a map using OpenLayers, with emphasis on the South with the [Peters projection](https://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection)."
-10838,"WN491","Programming","Leaflet is probably the most widely used library for displaying maps, but a [recent thread](https://news.ycombinator.com/item?id=21754642) on Hacker News is a useful reminder of all the features which have been added to OpenLayers in the recent past. Noteworthy is mourner, Leaflet's developer, explaining differences between Leaflet and OpenLayers."
-11266,"WN500","Releases","The webmap framework OpenLayers [has reached](https://twitter.com/openlayers/status/1227256337203187717)  version 6.2.0. The new version improves mousewheel zooming, optimises text rendering, introduces the 'displacement' option for a more flexible positioning of point symbolisers, and [many, many, more](https://github.com/openlayers/openlayers/releases/tag/v6.2.0) improvements."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",8
+5721,"WN380","Other Geo Things","[Shareloc](https://github.com/meggsimum/shareloc), the free map API for creating and sharing OpenLayers maps, now offers the TopPlus-Web-Open map service of the BKG as a layer in the official [demo](https://apps.meggsimum.de/shareloc/#map=6/51.39920565355382/12.36511230468743&layers=bkg.topplus-web-open).  [TopPlus-Web-Open](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=41&gdz_user_id=0) is based on multiple free data sources, including OSM.",8
+7462,"WN420","Software","Terrestris, a German GIS company, [points out](https://www.terrestris.de/2018/08/06/das-projekt-geostyler/) on their blog that they developed [GeoStyler](https://github.com/terrestris/geostyler), an online editor for OpenLayers and [OGC SLD](http://www.opengeospatial.org/standards/sld/) rendering styles together with [Meggsimum](https://meggsimum.de/).",8
+7477,"WN420","Programming","Tom Chadwin [made](https://github.com/tomchadwin/qgis2web/) a QGIS plugin available on GitHub that exports your QGIS map to an OpenLayers/Leaflet webmap.",8
+8189,"WN435","Did you know that …","... the service [Shareloc](https://apps.meggsimum.de/shareloc/) that allows you to create and share OpenLayers maps?",8
+8959,"WN450","Programming","The OpenLayers project has [asked](https://github.com/openlayers/openlayers/wiki/Openlayers-6:-call-for-funding) for donations for work on version 6. Of the USD 300,000 collected so far, USD 150,000 have come from [Swisstopo](https://www.swisstopo.admin.ch/de/karten-daten-online/karten-geodaten-online.html).",8
+9448,"WN460","OpenStreetMap Foundation","The German local chapter FOSSGIS received funding requests for an [OpenLayers code sprint](https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/OpenLayers_6_Codesprint) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) (automatic [translation](https://translate.google.com/translate?sl=de&tl=EN&u=https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/OpenLayers_6_Codesprint)) and a replacement for the [Overpass development server](https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/Dev-Overpass-2019) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) (automatic [translation](https://translate.google.com/translate?sl=de&tl=EN&u=https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/Dev-Overpass-2019)). The OpenLayers developers want to spend five days to make the open source Javascript library faster, easier to use and more error-free. The requested Overpass server will replace the existing, five year old development machine.",8
+10395,"WN481","Software","MapTiler reports that Vector tiles from #OpenStreetMap in Rijksdriehoekstelsel coordinate system using the latest @OpenLayers v6 are ready to [use](https://maptiler.nl/kaarten/rijksdriehoekstelsel/).",8
+10627,"WN486","Releases","We have overlooked recent developments of [OpenLayers](https://openlayers.org). Recent releases contain some interesting features such as the ability to compose layers with different renderer types, a number of vector tile rendering improvements, a lower memory footprint overall and many more. We encourage users of versions below the recently released [OpenLayers v6.1.1](https://github.com/openlayers/openlayers/releases/tag/v6.1.1) to check the [release history](https://github.com/openlayers/openlayers/releases/).",8
+10711,"WN488","Maps","Terence Eden [has posted](https://shkspr.mobi/blog/2019/11/creating-an-organization-of-cartographers-for-social-equality-map-with-openstreetmap/) a guide, in his blog, on how to create a map using OpenLayers, with emphasis on the South with the [Peters projection](https://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection).",8
+10838,"WN491","Programming","Leaflet is probably the most widely used library for displaying maps, but a [recent thread](https://news.ycombinator.com/item?id=21754642) on Hacker News is a useful reminder of all the features which have been added to OpenLayers in the recent past. Noteworthy is mourner, Leaflet's developer, explaining differences between Leaflet and OpenLayers.",8
+11266,"WN500","Releases","The webmap framework OpenLayers [has reached](https://twitter.com/openlayers/status/1227256337203187717)  version 6.2.0. The new version improves mousewheel zooming, optimises text rendering, introduces the 'displacement' option for a more flexible positioning of point symbolisers, and [many, many, more](https://github.com/openlayers/openlayers/releases/tag/v6.2.0) improvements.",8
 11842,"WN513","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/05/513_T_EN.png =1305x)
 
-Tracking changes on magOSM [^1^](#wn513_22530) |  © Magellium, OpenLayers | map data © OpenStreetMap contributors"
+Tracking changes on magOSM [^1^](#wn513_22530) |  © Magellium, OpenLayers | map data © OpenStreetMap contributors",8
 13725,"WN554","Programming","You can read a  dialogue-like [tutorial](https://twitter.com/pierzen/status/1364639520671596550) ![(fr)](https://blog.openstreetmap.de/wp-uploads/2016/12/fr.svg) between Pierre Béland and Jean-Marc Viglino, the author of the [ol-ext OpenLayers Extension tools](http://viglino.github.io/ol-ext/), about the dynamic addition of layers to an OpenLayers Map using WMS Servers catalogue queries.  
 
-You can test yourself  with the [WMS Capabilities example](http://viglino.github.io/ol-ext/examples/layer/map.wmscapabilities.html?lon=9.319413&lat=19.439643&z=5.4) providing your own GetCapabilities request like this for OSM-France [https://wms.openstreetmap.fr/wms?service=wms&version=1.3.0&request=GetCapabilities](https://wms.openstreetmap.fr/wms?service=wms&version=1.3.0&request=GetCapabilities) (For security reasons, OpenLayers accepts cross-origin requests only if authorised by the WMS Server with the header [Access-Control-Allow-Origin,  ].)"
-14764,"WN581","Maps","The Ordnance Survey, Britain's national mapping agency, [withdrew](https://www.ordnancesurvey.co.uk/business-government/tools-support/openspace-support) support for OS Open Space on 31 August. OpenSpace was launched in [2008](https://blog.openstreetmap.org/2011/07/) using OpenLayers. OSM's founder, Steve Coast, [worked](https://www.itpro.co.uk/148887/ordnance-survey-releases-code-for-web-20-mash-ups) as a consultant to the OS on the initial project. Replacement services continue to be available via the new hub, but a number of existing applications and websites no longer work."
-16086,"WN619","Maps","Tracestrack has initiated an open source project aiming to create a language vector overlay style for Openlayers. The vector layer overlays on top of a raster base map. This hybrid approach combines the power of mapnik and Openlayers, to support more sophisticated multi-language, region-specific rendering. Currently, the vector tiles are published from [pnorman/openstreetmap-cartographic](https://github.com/pnorman/openstreetmap-cartographic). Tracestrack has [published](https://tracestrack.github.io/OpenLayers-Cartographic-Label-Style) an OpenLayers-Cartographic-Label-Style demo on Github."
-16909,"WN644","Did you know that …","... [OpenLayers](https://openlayers.org/), a JavaScript library for interactive maps, [had](https://mapstodon.space/@openlayers/109326141465041523) their Twitter account locked? Searching for it on Twitter returned 'This account doesn’t exist'. Twitter requires users to be at least 13 years old and the team has put the date of their first release, which was in 2006, as their birthday. We can confirm the rebirth of [@openlayers](https://twitter.com/openlayers/status/1592531766216114178) on Twitter but not their age!"
-19294,"WN710","Releases","OpenLayers version 9.0.0 has been [released](https://github.com/openlayers/openlayers/releases/tag/v9.0.0)."
-20022,"WN727","Programming","Mohit Sindhwani [explains](https://notepad.onghu.com/2024/open-layers-greyscale-maps-more-with-css-filters/) how to use CSS filters to style OpenLayers maps, [demonstrating](https://ruby.social/@onghu/112621137702874899) techniques for creating different map views. These filters, including greyscale, brightness, and hue-rotate, can be applied to OpenStreetMap data to enhance visual presentations without requiring advanced design skills."
-21523,"WN762","Open Data","As we [reported](https://weeklyosm.eu/archives/16974#wn702_29743) earlier, the OpenLandMap is [provided](https://openlandmap.org) by [OpenGeoHub](https://opengeohub.org/about-openlandmap), displays a lot of thematic layers, and uses OpenStreetMap as one of the available base layers. This project works with open data and is based on open-source software including Geoserver, React, plumber R and OpenLayers. What's new is that it now includes Bing aerial images."
+You can test yourself  with the [WMS Capabilities example](http://viglino.github.io/ol-ext/examples/layer/map.wmscapabilities.html?lon=9.319413&lat=19.439643&z=5.4) providing your own GetCapabilities request like this for OSM-France [https://wms.openstreetmap.fr/wms?service=wms&version=1.3.0&request=GetCapabilities](https://wms.openstreetmap.fr/wms?service=wms&version=1.3.0&request=GetCapabilities) (For security reasons, OpenLayers accepts cross-origin requests only if authorised by the WMS Server with the header [Access-Control-Allow-Origin,  ].)",8
+14764,"WN581","Maps","The Ordnance Survey, Britain's national mapping agency, [withdrew](https://www.ordnancesurvey.co.uk/business-government/tools-support/openspace-support) support for OS Open Space on 31 August. OpenSpace was launched in [2008](https://blog.openstreetmap.org/2011/07/) using OpenLayers. OSM's founder, Steve Coast, [worked](https://www.itpro.co.uk/148887/ordnance-survey-releases-code-for-web-20-mash-ups) as a consultant to the OS on the initial project. Replacement services continue to be available via the new hub, but a number of existing applications and websites no longer work.",8
+16086,"WN619","Maps","Tracestrack has initiated an open source project aiming to create a language vector overlay style for Openlayers. The vector layer overlays on top of a raster base map. This hybrid approach combines the power of mapnik and Openlayers, to support more sophisticated multi-language, region-specific rendering. Currently, the vector tiles are published from [pnorman/openstreetmap-cartographic](https://github.com/pnorman/openstreetmap-cartographic). Tracestrack has [published](https://tracestrack.github.io/OpenLayers-Cartographic-Label-Style) an OpenLayers-Cartographic-Label-Style demo on Github.",8
+16909,"WN644","Did you know that …","... [OpenLayers](https://openlayers.org/), a JavaScript library for interactive maps, [had](https://mapstodon.space/@openlayers/109326141465041523) their Twitter account locked? Searching for it on Twitter returned 'This account doesn’t exist'. Twitter requires users to be at least 13 years old and the team has put the date of their first release, which was in 2006, as their birthday. We can confirm the rebirth of [@openlayers](https://twitter.com/openlayers/status/1592531766216114178) on Twitter but not their age!",8
+19294,"WN710","Releases","OpenLayers version 9.0.0 has been [released](https://github.com/openlayers/openlayers/releases/tag/v9.0.0).",8
+20022,"WN727","Programming","Mohit Sindhwani [explains](https://notepad.onghu.com/2024/open-layers-greyscale-maps-more-with-css-filters/) how to use CSS filters to style OpenLayers maps, [demonstrating](https://ruby.social/@onghu/112621137702874899) techniques for creating different map views. These filters, including greyscale, brightness, and hue-rotate, can be applied to OpenStreetMap data to enhance visual presentations without requiring advanced design skills.",8
+21523,"WN762","Open Data","As we [reported](https://weeklyosm.eu/archives/16974#wn702_29743) earlier, the OpenLandMap is [provided](https://openlandmap.org) by [OpenGeoHub](https://opengeohub.org/about-openlandmap), displays a lot of thematic layers, and uses OpenStreetMap as one of the available base layers. This project works with open data and is based on open-source software including Geoserver, React, plumber R and OpenLayers. What's new is that it now includes Bing aerial images.",8
