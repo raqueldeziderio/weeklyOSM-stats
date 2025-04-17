@@ -1,4 +1,4 @@
-"sg_stats_id","name","id_sg","ndoc"
+"sg_stats_id","name","sg_id","ndoc"
 1,"achavi",6,3
 2,"BBBike",5,17
 3,"Carto_API",3,40
@@ -69,7 +69,7 @@
 68,"PokemonGO",11,15
 69,"PostGIS",8,45
 70,"Potlatch",7,20
-71,"pyosmium",4,16
+71,"PyOsmium",4,16
 72,"Rapid",7,82
 73,"SketchMap",7,9
 74,"StreetComplete",9,114
