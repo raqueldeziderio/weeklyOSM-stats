@@ -1,26 +1,26 @@
-"id","blog","category","markdown"
+"id","blog","category","markdown","sg_id"
 788,"WN284","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me](http://maps.me)|[5.3](https://github.com/mapsme/omim/releases/tag/android-release-53)|2015-12-21|Fixed zoom buttons bug|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.14.1](http://www.locusmap.eu/news-version-3-14.1/)|2015-12-22|Bug fixes|
 |[OSRM Backend](http://project-osrm.org/)|[4.9.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v4.9.0)|2015-12-24|API changes, bug fixes, maintenance, new features|
-|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2015-12-27](https://github.com/osm-fr/osmose-backend/releases)|2015-12-27||"
+|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2015-12-27](https://github.com/osm-fr/osmose-backend/releases)|2015-12-27||",11
 986,"WN288","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OpenJUMP](http://jump-pilot.sourceforge.net/)|[1.9.0](http://sourceforge.net/p/jump-pilot/code/HEAD/tree/core/trunk/ChangeLog)|2016-01-18|First new release since december 2014|
 |[OpenLayers](http://openlayers.org/)|[3.13.0](https://github.com/openlayers/ol3/releases/tag/v3.13.0)|2016-01-20|68 changes and fixes|
 |[OSRM Backend](http://project-osrm.org/)|[4.9.1](https://github.com/Project-OSRM/osrm-backend/releases/tag/v4.9.1)|2016-01-20|4 bugs fixed|
-|[SQLite](http://www.sqlite.org/)|[3.10.2](http://www.sqlite.org/releaselog/3_10_2.html)|2016-01-20|Bug fixes|"
-1512,"WN296","Mapping","From the OSRM (""OpenSourceRoutingMachine"") project there is [now](https://lists.openstreetmap.org/pipermail/osrm-talk/2016-March/001150.html) a map service for [debugging purposes](http://map.project-osrm.org/debug/#15.41/53.2831/10.4933) that displays the internal routing graph of OSRM and the computed average speed that is needed for travel time calculation."
+|[SQLite](http://www.sqlite.org/)|[3.10.2](http://www.sqlite.org/releaselog/3_10_2.html)|2016-01-20|Bug fixes|",11
+1512,"WN296","Mapping","From the OSRM (""OpenSourceRoutingMachine"") project there is [now](https://lists.openstreetmap.org/pipermail/osrm-talk/2016-March/001150.html) a map service for [debugging purposes](http://map.project-osrm.org/debug/#15.41/53.2831/10.4933) that displays the internal routing graph of OSRM and the computed average speed that is needed for travel time calculation.",11
 1482,"WN296","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.16.0](http://www.locusmap.eu/news-version-3-16-0)|2016-03-14|""Stop tracking"" button and some more eehancements|
 |[iD](http://ideditor.com/)|[1.9.2](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-03-18|-|
 |[OSRM Backend](http://project-osrm.org/)|[5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.0.0-newapi.6)|2016-03-18|Cleanup, fixes and enhancements|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 1783,"WN301","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[MapFactor Navigator Free](http://navigatorfree.mapfactor.com)|[2.1.97](https://play.google.com/store/apps/details?id=com.mapfactor.navigator)|2016-04-13|Bugs fixed, better alternate route calculation and more|
@@ -31,7 +31,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[OSRM Backend](http://project-osrm.org/)|[5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.0.0)|2016-04-22|Many API changes and some fixes|
 |[iD](http://ideditor.com/)|[1.9.3](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-04-25|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 1836,"WN302","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OsmAnd for iOS](http://osmand.net)|[1.2.4](http://osmand.net/blog?id=osmand-ios-1.2.3-released)|2016-04-27|Bugs fixed|
@@ -44,7 +44,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Grass Gis](http://grass.osgeo.org/)|[7.0.4](https://grass.osgeo.org/news/56/15/GRASS-GIS-7-0-4-released/)|2016-05-01|150 stability fixes and manual improvements|
 |[GpsMaster](http://wiki.openstreetmap.org/wiki/GpsMaster)|[0.62.97](https://wiki.openstreetmap.org/wiki/GpsMaster/Changelog#0.62.97)|2016-05-02|Many improvements|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 1849,"WN303","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[iD](http://ideditor.com/)|[1.9.4](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-05-03|-|
@@ -52,7 +52,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[BRouter](http://brouter.de/brouter/)|[1.4.1](http://brouter.de/brouter/revisions.html)|2016-05-09|Turning Instructions|
 |[OSRM Backend](http://project-osrm.org/)|[5.1.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.1.0)|2016-05-09|Bug fix release|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2146,"WN308","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Overpass-Turbo](http://overpass-turbo.eu/)|[2016-06-06](https://github.com/tyrasd/overpass-turbo/blob/master/CHANGELOG.md)|6.6.2016|-|
@@ -65,7 +65,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary Android](http://www.mapillary.com/map)|[2.22](https://play.google.com/store/apps/details?id=app.mapillary)|13.6.2016|bug fixes and extended features|
 |[OSRM Backend](http://project-osrm.org/)|[5.2.1](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.2.0)|13.6.2016| bug fix version to 5.2.0|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2212,"WN309","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android](http://www.mapillary.com/map)|[2.24](https://play.google.com/store/apps/details?id=app.mapillary)|2016-06-15|Some extensions and some bug fixes|
@@ -75,7 +75,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Komoot iOS](https://www.komoot.de/)|[8.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-06-18|-|
 |[Komoot Android](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-06-19|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2227,"WN310","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GraphHopper Routing Engine](https://graphhopper.com/)|[0.7](https://graphhopper.com/blog/2016/06/15/graphhopper-routing-e+ngine-0-7-released/)|2016-06-15|Java 7 support, new translations and many more
@@ -88,7 +88,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.7|2016-06-25|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.18.0](http://www.locusmap.eu/news-version-3-18-0)|2016-06-27|New function added|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2410,"WN314","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Naviki Android](https://www.naviki.org/naviki/)|[3.45.2](https://play.google.com/store/apps/details?id=org.naviki)|2016-07-20|Fixed: Google Cloud Messaging|
@@ -97,7 +97,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[OSRM Backend](http://project-osrm.org/)|[5.3.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.3.0)|2016-07-22|Many improvements and some fixes|
 |[Maps.me Android](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-07-25|Minor bug fixes, updated map data|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2533,"WN316","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|2.16.1|2016-07-29|No infos|
@@ -113,7 +113,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.8](https://github.com/osmcode/pyosmium/releases)|2016-08-08|Adjustments to libosmium|
 |[SQLite](http://www.sqlite.org/)|[3.14.0](http://www.sqlite.org/releaselog/3_14_0.html)|2016-08-08|19 Improvements and enhancements, 3 bugs fixed|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2555,"WN317","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.3.2](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.3.1)|2016-08-09|One bug fixed|
@@ -127,7 +127,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[PostgreSQL](http://www.postgresql.org/)|[9.5.4 ff](https://www.postgresql.org/docs/9.5/static/release-9-5-4.html)|2016-08-12|Update releases fixing a number of issues of 9.5.3|
 |[Maps.me Android](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-08-15|POI for Olympia, updated map data|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",11
 2742,"WN320","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[BRouter](http://brouter.de/brouter/)|[1.4.4](http://brouter.de/brouter/revisions.html)|2016-08-29|Performance improvements, added mtb:scale:uphill|
@@ -142,7 +142,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 3026,"WN325","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Grass Gis](http://grass.osgeo.org/)|[7.0.5](https://grass.osgeo.org/news/63/15/GRASS-GIS-7-0-5-released/)|2016-10-02|150 stability fixes and manual improvements|
@@ -152,7 +152,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-10-10|No info|
 |[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.17](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-10-08|Two bugs fixed while transfering Images.|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)."
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).",11
 3259,"WN329","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.20.1](http://www.locusmap.eu/news-version-3-20-1/)|2016-11-01|Bugfix release.|
@@ -169,8 +169,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3319,"WN330","Mapping","[1] OSRM's debug map (we [reported earlier](http://www.weeklyosm.eu/archives/7155/#wn296_osrm_maxspeed_debugging_map)) now also [shows](http://map.project-osrm.org/debug/#13.7/52.5326/13.3313) penalties given for turns."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+3319,"WN330","Mapping","[1] OSRM's debug map (we [reported earlier](http://www.weeklyosm.eu/archives/7155/#wn296_osrm_maxspeed_debugging_map)) now also [shows](http://map.project-osrm.org/debug/#13.7/52.5326/13.3313) penalties given for turns.",11
 3287,"WN330","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.4.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.4.3)|2016-11-08|Bugfix release.|
@@ -183,8 +183,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3296,"WN330","Software","OSRM release candidate for [version 5.5](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0-rc.1) features a bunch of interesting [changes](https://github.com/Project-OSRM/osrm-backend/blob/5.5/CHANGELOG.md#550). It now supports `oneway=reversible` vs. [`oneway=alternating`](http://wiki.openstreetmap.org/wiki/Tag:oneway%3Dalternating) tagging, directions for the `destination` tag and implements new heuristics for turn angles."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+3296,"WN330","Software","OSRM release candidate for [version 5.5](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0-rc.1) features a bunch of interesting [changes](https://github.com/Project-OSRM/osrm-backend/blob/5.5/CHANGELOG.md#550). It now supports `oneway=reversible` vs. [`oneway=alternating`](http://wiki.openstreetmap.org/wiki/Tag:oneway%3Dalternating) tagging, directions for the `destination` tag and implements new heuristics for turn angles.",11
 3554,"WN335","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PostGIS](http://www.postgis.net)|[2.3.1](https://svn.osgeo.org/postgis/tags/2.3.1/ChangeLog)|2016-11-26|Many changes. Please read release infos.|
@@ -201,7 +201,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 3570,"WN336","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.16](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-20|Various improvements.|
@@ -221,7 +221,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 3649,"WN338","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM](http://josm.openstreetmap.de/)|[5.5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0)|2016-12-16|Navigation, tag interpretation and the API infrastructure have been improved.|
@@ -234,9 +234,9 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3661,"WN338","Releases","OpenStreetMap Routing Machine released [version 5.5](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0) which comes with some huge enhancements in guidance, tags, API and infrastructure."
-3648,"WN338","Software","User Daniel writes a [diary](https://www.openstreetmap.org/user/daniel-j-h/diary/40179) on how the latest release of Open Source Routing Machine ([version 5.5](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0)) has made it easier to set up our own routing machine and shares some documentation related to it."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+3661,"WN338","Releases","OpenStreetMap Routing Machine released [version 5.5](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0) which comes with some huge enhancements in guidance, tags, API and infrastructure.",11
+3648,"WN338","Software","User Daniel writes a [diary](https://www.openstreetmap.org/user/daniel-j-h/diary/40179) on how the latest release of Open Source Routing Machine ([version 5.5](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.0)) has made it easier to set up our own routing machine and shares some documentation related to it.",11
 3731,"WN339","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.21.1](https://play.google.com/store/apps/details?id=menion.android.locus)|2017-01-10|Bugfix release.|
@@ -252,7 +252,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 3792,"WN340","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.21](https://play.google.com/store/apps/details?id=app.mapillary)|2017-01-15|Minor fixes.|
@@ -264,7 +264,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Sorry, still offline :(
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 4020,"WN345","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[GeoWebCache](http://geowebcache.org/)|[10.1.2](http://geowebcache.org/docs/current/)|2017-02-20|No Infos.|
@@ -285,8 +285,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4046,"WN345","Software","With the release of Open Source Routing Machine (OSRM) version 5.6, Karen Shea [highlights](http://www.openstreetmap.org/user/happygo/diary/40564) its main feature: making travel time and edge weights Independent."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+4046,"WN345","Software","With the release of Open Source Routing Machine (OSRM) version 5.6, Karen Shea [highlights](http://www.openstreetmap.org/user/happygo/diary/40564) its main feature: making travel time and edge weights Independent.",11
 4077,"WN346","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2.2.0](https://github.com/mapzen/lost/releases/tag/lost-2.2.0)|2016-12-08|Many changes, please read release info.|
@@ -301,7 +301,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 4118,"WN347","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.6.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.6.3)|2017-03-03|Some bugfixes.|
@@ -316,7 +316,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 4228,"WN349","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|[2.18.5](https://github.com/qgis/QGIS/releases/tag/final-2_18_5)|2017-02-24|No infos.|
@@ -334,7 +334,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-03-27 18:15:39+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 4276,"WN350","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.17.12](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2017-03-28|Enhanced audio control, better search, performance improvements and bug fixes.|
@@ -354,8 +354,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-03 16:21:53+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4326,"WN351","Programming","User daniel-j-h [writes](http://www.openstreetmap.org/user/daniel-j-h/diary/40795) about Open Source Routing Machine (OSRM) supporting bearing constraints and highlights their use-cases and effects on routing."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+4326,"WN351","Programming","User daniel-j-h [writes](http://www.openstreetmap.org/user/daniel-j-h/diary/40795) about Open Source Routing Machine (OSRM) supporting bearing constraints and highlights their use-cases and effects on routing.",11
 4380,"WN353","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[3.2.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v3.1.0...v3.2.0)|2017-04-17|Many changes, please read release info.|
@@ -371,7 +371,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-24 16:37:53+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 4580,"WN358","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.26](https://docs.kurviger.de/app)|2017-05-17|Various improvements.|
@@ -389,8 +389,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-29 22:52:18+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4593,"WN358","Software","OSRM (see also release table) has [added](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.7.0) the multi-level Dijkstra (MLD) routing algorithm in addition to contraction hierarchies (CH). This allows e.g. a fast and flexible change of edge weights or multiple parallel profiles."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+4593,"WN358","Software","OSRM (see also release table) has [added](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.7.0) the multi-level Dijkstra (MLD) routing algorithm in addition to contraction hierarchies (CH). This allows e.g. a fast and flexible change of edge weights or multiple parallel profiles.",11
 4726,"WN361","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-06-14|No infos.|
@@ -403,7 +403,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-19 14:20:12+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 4810,"WN362","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.61](https://play.google.com/store/apps/details?id=app.mapillary)|2017-06-14|Next fix of stray images upload problems.|
@@ -421,7 +421,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-26 18:14:22+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 5043,"WN366","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Jungle Bus](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|[1.2.4](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|2017-07-20|No infos.|
@@ -438,7 +438,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-07-22 21:29:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
 5126,"WN368","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|07.08.2017|More details and added x-ray vision in router and horizontal format.|
@@ -452,22 +452,22 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-08 15:35:26+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-5127,"WN368","Releases","The [OSRM v5.10 release](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.10.0) comes with a major feature: via-way turn restrictions. These turn restrictions occur in OpenStreetMap in the form of a restriction relation: (fromWayId, viaWayId, toWayId) and prevent multiple specific turns depending on the way the driver is coming from and going to."
-5552,"WN376","OpenStreetMap Foundation","Tom Hughes [confirms](https://lists.openstreetmap.org/pipermail/dev/2017-October/030002.html) on OSM-dev that the OSRM routing service is not available anymore. The demo server on [osm.org](<http://osm.org>) was provided by Mapbox and has been [put down](https://github.com/Project-OSRM/osrm-backend/wiki/Demo-server) without any prior notice. There is an ongoing discussion in [this pull request](https://github.com/openstreetmap/openstreetmap-website/pull/1637) about commercial services and various possibilities around using them."
-5733,"WN380","Software","Daniel Patterson from Mapbox [announces](https://lists.openstreetmap.org/pipermail/osrm-talk/2017-October/001545.html) an update to the OSRM demo server and explains the benefits of the changes."
-7032,"WN410","Programming","daniel-j-h from Mapbox [writes](https://www.openstreetmap.org/user/daniel-j-h/diary/44020) about implementing reasonable alternative routes in the Open Source Routing Machine's Multi-Level Dijkstra mode."
-8361,"WN438","Community","After Mapbox hired the Valhalla team from Mapzen, most if not all core OSRM developers seem to [have quit](https://github.com/orgs/Project-OSRM/people) their job. However, there is [no official statement](https://github.com/Project-OSRM/osrm-backend/issues/5209) from Mapbox as to whether they plan to maintain both projects in the future."
-8697,"WN446","Software","OSMF's local chapter in Germany, FOSSGIS, [is now operating](https://www.fossgis.de/node/326) (automatic [translation](https://translate.google.com/translate?sl=de&tl=EN&u=https://www.fossgis.de/node/326)) the Open Source Routing Machine (OSRM) based routing backend for OSM's main website. The BSD licensed routing engine, hosted on two servers, calculates the routing graphs and provide the requested route directions. Like the Graphhopper service, which is provided by the company Graphhopper, OSRM gives directions for cars, bicycles and pedestrians."
-9420,"WN459","Programming","Ilya Zverev [writes](http://shtosm.ru/all/osrm-vsyo/) ![(ru)](https://blog.openstreetmap.de/wp-uploads/2016/12/ru.svg) (automatic [translation](https://translate.google.com/translate?sl=auto&tl=EN&u=http://shtosm.ru/all/osrm-vsyo/)) on his blog about the rise and fall of the Open Source Routing Machine, OSRM for short, which Mapbox stopped contributing to after taking over the Valhalla development team a year ago."
-10891,"WN491","Other Geo Things","Almost one million Romanian citizens from outside of Romania voted during the second round of the Romanian presidential elections in November 2019.  Giorgio Comai used [OSRM](http://project-osrm.org/) to [work out](https://www.balcanicaucaso.org/eng/Areas/Romania/Datajournalism-my-wife-and-the-Romanian-presidential-elections-198164) how best Romanian voters in Italy could reach a polling station."
-11085,"WN497","Programming","Daniel Patterson [announced](https://lists.openstreetmap.org/pipermail/osrm-talk/2020-January/001834.html) Mapbox's decision to shut down the hosting of router.project-osrm.org and asked on the OSRM-talk mailing list if someone would volunteer to take over the task."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",11
+5127,"WN368","Releases","The [OSRM v5.10 release](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.10.0) comes with a major feature: via-way turn restrictions. These turn restrictions occur in OpenStreetMap in the form of a restriction relation: (fromWayId, viaWayId, toWayId) and prevent multiple specific turns depending on the way the driver is coming from and going to.",11
+5552,"WN376","OpenStreetMap Foundation","Tom Hughes [confirms](https://lists.openstreetmap.org/pipermail/dev/2017-October/030002.html) on OSM-dev that the OSRM routing service is not available anymore. The demo server on [osm.org](<http://osm.org>) was provided by Mapbox and has been [put down](https://github.com/Project-OSRM/osrm-backend/wiki/Demo-server) without any prior notice. There is an ongoing discussion in [this pull request](https://github.com/openstreetmap/openstreetmap-website/pull/1637) about commercial services and various possibilities around using them.",11
+5733,"WN380","Software","Daniel Patterson from Mapbox [announces](https://lists.openstreetmap.org/pipermail/osrm-talk/2017-October/001545.html) an update to the OSRM demo server and explains the benefits of the changes.",11
+7032,"WN410","Programming","daniel-j-h from Mapbox [writes](https://www.openstreetmap.org/user/daniel-j-h/diary/44020) about implementing reasonable alternative routes in the Open Source Routing Machine's Multi-Level Dijkstra mode.",11
+8361,"WN438","Community","After Mapbox hired the Valhalla team from Mapzen, most if not all core OSRM developers seem to [have quit](https://github.com/orgs/Project-OSRM/people) their job. However, there is [no official statement](https://github.com/Project-OSRM/osrm-backend/issues/5209) from Mapbox as to whether they plan to maintain both projects in the future.",11
+8697,"WN446","Software","OSMF's local chapter in Germany, FOSSGIS, [is now operating](https://www.fossgis.de/node/326) (automatic [translation](https://translate.google.com/translate?sl=de&tl=EN&u=https://www.fossgis.de/node/326)) the Open Source Routing Machine (OSRM) based routing backend for OSM's main website. The BSD licensed routing engine, hosted on two servers, calculates the routing graphs and provide the requested route directions. Like the Graphhopper service, which is provided by the company Graphhopper, OSRM gives directions for cars, bicycles and pedestrians.",11
+9420,"WN459","Programming","Ilya Zverev [writes](http://shtosm.ru/all/osrm-vsyo/) ![(ru)](https://blog.openstreetmap.de/wp-uploads/2016/12/ru.svg) (automatic [translation](https://translate.google.com/translate?sl=auto&tl=EN&u=http://shtosm.ru/all/osrm-vsyo/)) on his blog about the rise and fall of the Open Source Routing Machine, OSRM for short, which Mapbox stopped contributing to after taking over the Valhalla development team a year ago.",11
+10891,"WN491","Other Geo Things","Almost one million Romanian citizens from outside of Romania voted during the second round of the Romanian presidential elections in November 2019.  Giorgio Comai used [OSRM](http://project-osrm.org/) to [work out](https://www.balcanicaucaso.org/eng/Areas/Romania/Datajournalism-my-wife-and-the-Romanian-presidential-elections-198164) how best Romanian voters in Italy could reach a polling station.",11
+11085,"WN497","Programming","Daniel Patterson [announced](https://lists.openstreetmap.org/pipermail/osrm-talk/2020-January/001834.html) Mapbox's decision to shut down the hosting of router.project-osrm.org and asked on the OSRM-talk mailing list if someone would volunteer to take over the task.",11
 13554,"WN550","Releases","The [new release](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.24.0) of 
-OSRM, the super-fast OpenStreetMap routing engine, now supports multiple via-way restrictions, Node.js release 14 compatibility, and Lua profile debug script; and comes with lots of fixes!"
-15576,"WN604","Did you know that…","... the routing analysis views in [OSRM](http://project-osrm.org/) for [bike](https://routing.openstreetmap.de/debug/bike.html#17.59/53.58086/10.04953) and [car](https://routing.openstreetmap.de/debug/#17.59/53.58086/10.04953)?"
-16840,"WN642","Programming","Timothée Giraud has [released](https://rcarto.github.io/posts/osrm_v4.0.0/) version 4.0 of the osrm R package. This major release [resulted](https://joss.theoj.org/papers/10.21105/joss.04574) from improvements to the Open Source Routing Machine API."
-17903,"WN673","Community","DW Chung will soon be [participating](https://www.openstreetmap.org/user/dwc_/diary/401687) in this year's Google Summer of Code. Their project, 'OSRM Python Bindings', aims to create a route-finding Python library based on the Open Source Routing Machine (OSRM)."
-18348,"WN687","Programming","An Australian family refused to sell their farmland, even though the entire neighbourhood was being converted into a new housing estate. The location of the property was unclear. This challenge was [taken](https://www.deanmarchiori.com/posts/2023-09-17-geolocating/) up by Dean Marchiori to locate, as he describes, Sydney's strangest property using [osrm](https://cran.r-project.org/web/packages/osrm/) and the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). There is a nice 'movie' at the end of the article."
-21121,"WN752","Software","Thibault Molleman  [learnt](https://en.osm.town/@thibaultmol/113670524127862727)  that the OpenStreetMap Router Project has a [debug](https://map.project-osrm.org/debug) layer and it can be viewed by mode, for [example](https://map.project-osrm.org/debug/car.html#18.08/51.06609/3.69978) a car."
-21210,"WN754","Open Data","Ronan Ysebaert, Marianne Guérois, and Louis Laurian  [published](https://zenodo.org/records/14160729) an open data archive using a 1 km grid at an EU scale. It shows the accessibility indicators of services related to cities and towns. It follows a reproducible, transparent, and updatable framework and uses only [OSRM](https://project-osrm.org/) data, based on OpenStreetMap."
-21671,"WN766","Releases","[OSRM v6.0-rc1](https://en.osm.town/@osrm/114196358911850773), an open-source routing engine built in C++ for use with OpenStreetMap data, has been [released](https://github.com/Project-OSRM/osrm-backend/releases/tag/v6.0.0-rc.1). The latest version includes performance improvements, enhanced algorithm efficiency, and several new features."
+OSRM, the super-fast OpenStreetMap routing engine, now supports multiple via-way restrictions, Node.js release 14 compatibility, and Lua profile debug script; and comes with lots of fixes!",11
+15576,"WN604","Did you know that…","... the routing analysis views in [OSRM](http://project-osrm.org/) for [bike](https://routing.openstreetmap.de/debug/bike.html#17.59/53.58086/10.04953) and [car](https://routing.openstreetmap.de/debug/#17.59/53.58086/10.04953)?",11
+16840,"WN642","Programming","Timothée Giraud has [released](https://rcarto.github.io/posts/osrm_v4.0.0/) version 4.0 of the osrm R package. This major release [resulted](https://joss.theoj.org/papers/10.21105/joss.04574) from improvements to the Open Source Routing Machine API.",11
+17903,"WN673","Community","DW Chung will soon be [participating](https://www.openstreetmap.org/user/dwc_/diary/401687) in this year's Google Summer of Code. Their project, 'OSRM Python Bindings', aims to create a route-finding Python library based on the Open Source Routing Machine (OSRM).",11
+18348,"WN687","Programming","An Australian family refused to sell their farmland, even though the entire neighbourhood was being converted into a new housing estate. The location of the property was unclear. This challenge was [taken](https://www.deanmarchiori.com/posts/2023-09-17-geolocating/) up by Dean Marchiori to locate, as he describes, Sydney's strangest property using [osrm](https://cran.r-project.org/web/packages/osrm/) and the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API). There is a nice 'movie' at the end of the article.",11
+21121,"WN752","Software","Thibault Molleman  [learnt](https://en.osm.town/@thibaultmol/113670524127862727)  that the OpenStreetMap Router Project has a [debug](https://map.project-osrm.org/debug) layer and it can be viewed by mode, for [example](https://map.project-osrm.org/debug/car.html#18.08/51.06609/3.69978) a car.",11
+21210,"WN754","Open Data","Ronan Ysebaert, Marianne Guérois, and Louis Laurian  [published](https://zenodo.org/records/14160729) an open data archive using a 1 km grid at an EU scale. It shows the accessibility indicators of services related to cities and towns. It follows a reproducible, transparent, and updatable framework and uses only [OSRM](https://project-osrm.org/) data, based on OpenStreetMap.",11
+21671,"WN766","Releases","[OSRM v6.0-rc1](https://en.osm.town/@osrm/114196358911850773), an open-source routing engine built in C++ for use with OpenStreetMap data, has been [released](https://github.com/Project-OSRM/osrm-backend/releases/tag/v6.0.0-rc.1). The latest version includes performance improvements, enhanced algorithm efficiency, and several new features.",11

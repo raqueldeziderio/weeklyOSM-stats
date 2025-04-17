@@ -1,0 +1,28 @@
+"id","blog","category","markdown","sg_id"
+13311,"WN545","Mapping","Carlos Brys has [written](https://carlosbrys.gitlab.io/osmgo/) ![(es)](https://blog.openstreetmap.de/wp-uploads/2016/12/es.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl",9
+16216,"WN622","Programming","The new OSM app OSM Go! is [looking](https://www.openstreetmap.org/user/Binnette/diary/399389) for translators and developers.",9
+16340,"WN627","Did you know that…","... there are many ways to contribute regularly to OSM?
+
+Desktop:
+    [OSM Streak](http://streak.osmz.ru/)
+    [MapRoulette](https://maproulette.org/)
+    [Pic4Review](https://pic4review.pavie.info/#/)
+    [Unmapped Places](https://resultmaps.neis-one.org/unmapped#5/47.100/9.800)
+    [Find Suspicious OpenStreetMap Changesets](https://resultmaps.neis-one.org/osm-suspicious#2/10.1/14.4)
+    [OSMCha](https://osmcha.org/)
+    [NotesReview](https://ent8r.github.io/NotesReview/)
+    [Many Tasking Managers](https://wiki.openstreetmap.org/wiki/Tasking_Manager)
+
+Smartphone:
+    [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)
+    [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door)
+    [Vespucci](https://wiki.openstreetmap.org/wiki/Vespucci)
+    [OSMfocus Reborn](https://pfiers.net/projects/osmfocus-reborn/)
+    [OSM Go!](https://wiki.openstreetmap.org/wiki/Osm_Go!)
+    [Jungle Bus](https://junglebus.io/en/mobility-open-data-proudly-crafted-by-the-openstreetmap-community-2/)
+
+We are sure we have forgotten some. Please write to us and let us know, we will add them next week.",9
+21448,"WN760","Maps","^\[1\]^ -karlos- (aka DerKarlos) has [revived](https://www.openstreetmap.org/user/-karlos-/diary/406090) his old 3D-rendered OpenStreetMap project 'OSM go' by integrating Panoramax images after Mapillary's API shutdown, and is now exploring other improvements, including better 3D rendering techniques and possibly rewriting the project in Rust or Zig. You can [view](https://osmgo.org/go.html?km=1&lat=52.516275&lon=13.377232&ele=18.15&dir=-100&view=-19) the [Brandenburg Gate](https://www.openstreetmap.org/way/518071791), one of Germany's most famous [landmarks](https://en.wikipedia.org/wiki/Brandenburg_Gate). There is an 'OSM go' project page on the OSM [wiki](https://wiki.openstreetmap.org/wiki/OSM_go) and at [GitLab](https://gitlab.com/DerKarlos/osmgo).",9
+21460,"WN760","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/2025/02/osmgo.png =1359x633)
+
+[[^1^](#wn760_32270)\] _The Brandenburger Tor_. © [OSM go](https://wiki.openstreetmap.org/wiki/OSM_go) | Map data © [OpenStreetMap Contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ).",9

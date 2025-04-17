@@ -1,7 +1,7 @@
-"id","blog","category","markdown"
-12,"WN272","Community","Open Cage Data, the blog of [Open Cage Geocoder](http://geocoder.opencagedata.com/) published [an interview](http://blog.opencagedata.com/post/130473733143/open-geo-interview-osm- buildings) with [Jan Marsch](https://twitter.com/kekscom), the mind and developer of OSM Buildings [OSM Buildings](http://osmbuildings.org/?lat=52.52111&lon=13.40988&zoom=16)."
-88,"WN273","Maps","It [looks like](http://www.openstreetmap.org/user/stk_ulm/history#map=18/48.42282/9.95528&layers=D), as if the face lift at [OSM Buildings](http://osmbuildings.org/?lat=48.42252&lon=9.95543&zoom=18.0&tilt=30) inspires to [3D mapping](https: //twitter.com/UlmAPI/status/653643644784787456) . ;-)"
-584,"WN280","Software","[OSMBuildings](http://osmbuildings.org/)  includes a new option to print on a region of a map via 3YOURMIND directly in 3D. (via [@OSMBuildings](https://twitter.com/OSMBuildings/status/669205396461068289))"
+"id","blog","category","markdown","sg_id"
+12,"WN272","Community","Open Cage Data, the blog of [Open Cage Geocoder](http://geocoder.opencagedata.com/) published [an interview](http://blog.opencagedata.com/post/130473733143/open-geo-interview-osm- buildings) with [Jan Marsch](https://twitter.com/kekscom), the mind and developer of OSM Buildings [OSM Buildings](http://osmbuildings.org/?lat=52.52111&lon=13.40988&zoom=16).",1
+88,"WN273","Maps","It [looks like](http://www.openstreetmap.org/user/stk_ulm/history#map=18/48.42282/9.95528&layers=D), as if the face lift at [OSM Buildings](http://osmbuildings.org/?lat=48.42252&lon=9.95543&zoom=18.0&tilt=30) inspires to [3D mapping](https: //twitter.com/UlmAPI/status/653643644784787456) . ;-)",1
+584,"WN280","Software","[OSMBuildings](http://osmbuildings.org/)  includes a new option to print on a region of a map via 3YOURMIND directly in 3D. (via [@OSMBuildings](https://twitter.com/OSMBuildings/status/669205396461068289))",1
 1361,"WN294","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OpenLayers](http://openlayers.org/)|[3.14.2](https://github.com/openlayers/ol3/releases/tag/v3.14.2)|2016-02-03|Some patches of 3.14.1|
@@ -14,8 +14,8 @@
 |[iD](http://ideditor.com/)|[1.9.1](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-03-03|Bug fixes of version 1.9.0 from 2016-03-01|
 |[SQLite](http://www.sqlite.org/)|[3.11.1](http://www.sqlite.org/releaselog/3_11_1.html)|2016-03-03|Some improvements and bug fixes|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-1524,"WN297","Maps","Moritz [explains](http://blog.webkid.io/3d-maps-with-osmbuildings) how he creates great interactive maps with OSMBuildings, e.g. the one of [Berlin](http://interaktiv.morgenpost.de/berlins-neue-skyline)."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",1
+1524,"WN297","Maps","Moritz [explains](http://blog.webkid.io/3d-maps-with-osmbuildings) how he creates great interactive maps with OSMBuildings, e.g. the one of [Berlin](http://interaktiv.morgenpost.de/berlins-neue-skyline).",1
 1783,"WN301","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[MapFactor Navigator Free](http://navigatorfree.mapfactor.com)|[2.1.97](https://play.google.com/store/apps/details?id=com.mapfactor.navigator)|2016-04-13|Bugs fixed, better alternate route calculation and more|
@@ -26,7 +26,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[OSRM Backend](http://project-osrm.org/)|[5.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.0.0)|2016-04-22|Many API changes and some fixes|
 |[iD](http://ideditor.com/)|[1.9.3](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-04-25|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",1
 2227,"WN310","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GraphHopper Routing Engine](https://graphhopper.com/)|[0.7](https://graphhopper.com/blog/2016/06/15/graphhopper-routing-e+ngine-0-7-released/)|2016-06-15|Java 7 support, new translations and many more
@@ -39,7 +39,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.7|2016-06-25|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.18.0](http://www.locusmap.eu/news-version-3-18-0)|2016-06-27|New function added|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",1
 2469,"WN315","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free](http://www.locusmap.eu/)|3.18.5|2016-07-16|No more MapQuest maps, some improvements and many bug fixes|
@@ -47,12 +47,12 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary Android](http://www.mapillary.com/map)|[2.37](https://play.google.com/store/apps/details?id=app.mapillary)|2016-07-28|Many extensions and some bug fixes|
 |[Mapillary iOS](http://www.mapillary.com/map)|[4.4.8](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-07-30|Crash using facebook, GPS bug fixed|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-7087,"WN412","Programming","OSM Buildings [published](https://osmbuildings.org/blog/2018-06-06_about_privacy/) their privacy policy and a few updates on how to use their services."
-9604,"WN464","Did you know that …","... a few lines of code with the 3-D Tool [3D OSM Buildings](https://codepen.io/osmbuildings/pen/oVVXEm) lets us rotate a panoramic view."
-11995,"WN516","OpenStreetMap Foundation","Michael Reichert [thinks](https://lists.openstreetmap.org/pipermail/osmf-talk/2020-June/006864.html) that the OSMF shouldn't grant rights for using its name in a particular manner, here 'OSM Buildings', as he wants to protect the business of [3DBuildings](https://3dbuildings.com/), which has existed since 2013, following the application of Cesium to use the name 'Cesium OSM Buildings'. The difference between 3DBuildings, which already runs a website called [osmbuildings.org](http://osmbuildings.org), and Cesium is that [the latter asked](https://lists.openstreetmap.org/pipermail/osmf-talk/2020-June/006889.html) the OSMF to use the name and that the viewer of 3DBuildings is available on [GitHub](https://github.com/OSMBuildings/OSMBuildings/) ."
-12486,"WN526","OpenStreetMap Foundation","[OSM Buildings](https://osmbuildings.org/).org [tweeted](https://twitter.com/OSMBuildings/status/1295393233766428672) that the number of its users confused by '[Cesium OSM Buildings](https://cesium.com/blog/2020/06/01/cesium-osm-buildings/)' is rising and complains that the OSMF has not responded to their concerns."
-12534,"WN527","OpenStreetMap Foundation","[OSM Buildings](https://osmbuildings.org/) has existed since 2012. [Cesium](https://cesium.com/index.html) has applied for the right to use the name 'Cesium OSM Buildings' and [has been](https://wiki.osmfoundation.org/wiki/Board/Minutes/2020-06#2020.2FRes29_Grant_Cesium_permission_to_use_our_trademark_in_their_product_.E2.80.9CCesium_OSM_Buildings.E2.80.9C) approved by the OSMF Board. According to the project OSM Buildings had expressed concerns and asked for the opportunity to clarify the situation. OSMF and Cesium [published](https://blog.openstreetmap.org/2020/08/17/osmf-and-cesium-joint-press-release-openstreetmap-a-map-of-buildings/) on the product 'Cesium OSM Buildings' (we [covered](https://weeklyosm.eu/archives/13572#wn526_23183) earlier). It was also announced that Cesium is now a silver sponsor of OSMF. OSM Buildings now [fears](https://osmbuildings.org/blog/2020-08-24_cesium_osm_buildings/) that the use of the project name by Cesium will affect the continued existence of the project."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",1
+7087,"WN412","Programming","OSM Buildings [published](https://osmbuildings.org/blog/2018-06-06_about_privacy/) their privacy policy and a few updates on how to use their services.",1
+9604,"WN464","Did you know that …","... a few lines of code with the 3-D Tool [3D OSM Buildings](https://codepen.io/osmbuildings/pen/oVVXEm) lets us rotate a panoramic view.",1
+11995,"WN516","OpenStreetMap Foundation","Michael Reichert [thinks](https://lists.openstreetmap.org/pipermail/osmf-talk/2020-June/006864.html) that the OSMF shouldn't grant rights for using its name in a particular manner, here 'OSM Buildings', as he wants to protect the business of [3DBuildings](https://3dbuildings.com/), which has existed since 2013, following the application of Cesium to use the name 'Cesium OSM Buildings'. The difference between 3DBuildings, which already runs a website called [osmbuildings.org](http://osmbuildings.org), and Cesium is that [the latter asked](https://lists.openstreetmap.org/pipermail/osmf-talk/2020-June/006889.html) the OSMF to use the name and that the viewer of 3DBuildings is available on [GitHub](https://github.com/OSMBuildings/OSMBuildings/) .",1
+12486,"WN526","OpenStreetMap Foundation","[OSM Buildings](https://osmbuildings.org/).org [tweeted](https://twitter.com/OSMBuildings/status/1295393233766428672) that the number of its users confused by '[Cesium OSM Buildings](https://cesium.com/blog/2020/06/01/cesium-osm-buildings/)' is rising and complains that the OSMF has not responded to their concerns.",1
+12534,"WN527","OpenStreetMap Foundation","[OSM Buildings](https://osmbuildings.org/) has existed since 2012. [Cesium](https://cesium.com/index.html) has applied for the right to use the name 'Cesium OSM Buildings' and [has been](https://wiki.osmfoundation.org/wiki/Board/Minutes/2020-06#2020.2FRes29_Grant_Cesium_permission_to_use_our_trademark_in_their_product_.E2.80.9CCesium_OSM_Buildings.E2.80.9C) approved by the OSMF Board. According to the project OSM Buildings had expressed concerns and asked for the opportunity to clarify the situation. OSMF and Cesium [published](https://blog.openstreetmap.org/2020/08/17/osmf-and-cesium-joint-press-release-openstreetmap-a-map-of-buildings/) on the product 'Cesium OSM Buildings' (we [covered](https://weeklyosm.eu/archives/13572#wn526_23183) earlier). It was also announced that Cesium is now a silver sponsor of OSMF. OSM Buildings now [fears](https://osmbuildings.org/blog/2020-08-24_cesium_osm_buildings/) that the use of the project name by Cesium will affect the continued existence of the project.",1
 15908,"WN614","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/2022/04/614_T_all.jpg =680x560)
 
-Where one can sit out in the sun [[^1^](#wn614_26695)]  © [JveuxDuSoleil.fr](https://jveuxdusoleil.fr/)| Leaflet | Powered by Esri |  OSM Buildings | map data © [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)"
+Where one can sit out in the sun [[^1^](#wn614_26695)]  © [JveuxDuSoleil.fr](https://jveuxdusoleil.fr/)| Leaflet | Powered by Esri |  OSM Buildings | map data © [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)",1

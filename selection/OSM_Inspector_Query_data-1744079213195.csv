@@ -1,16 +1,16 @@
-"id","blog","category","markdown"
-4853,"WN363","Mapping","OSM Inspector has been [updated](http://blog.geofabrik.de/?p=416). This affects the ""Geometry"", ""Tagging"", ""Places"" and ""Highways"" views."
-7931,"WN429","Mapping","Warin61 [noticed](https://www.openstreetmap.org/user/Warin61/diary/45106) that quite a few public transport route relations are broken. He describes the minimal requirements to make them pass the tests from GeoFabrik's [OSMInspector](https://tools.geofabrik.de/osmi/?view=pubtrans_routes&lon=-0.17094&lat=51.52422&zoom=9&overlays=ptv2_routes_,ptv2_routes_valid,ptv2_routes_invalid,ptv2_error_,ptv2_error_ways,ptv2_error_nodes) validation tool, which is a lot easier than having to go through the respective wiki pages documenting how to map bus and train route relations."
-9663,"WN465","Mapping","Geofabrik has rewritten the Routing View in [OSM Inspector](http://tools.geofabrik.de/osmi/?view=routing&lon=34.71349&lat=-5.17547&zoom=7), which is used by many mappers to find unconnected roads and other routing-related issues. The blog article at the company's homepage [provides](https://blog.geofabrik.de/?p=522) some more details on the changes."
-13638,"WN552","Software","OSM Inspector by Geofabrik, which has had a view for Public Transport routes (version 2 tagging) for some time, [now supports](https://lists.openstreetmap.org/pipermail/talk-transit/2021-February/002307.html) new validation rules for stop positions. It now checks whether the stop position is on the route and whether the stop positions of a route are ordered correctly."
+"id","blog","category","markdown","sg_id"
+4853,"WN363","Mapping","OSM Inspector has been [updated](http://blog.geofabrik.de/?p=416). This affects the ""Geometry"", ""Tagging"", ""Places"" and ""Highways"" views.",6
+7931,"WN429","Mapping","Warin61 [noticed](https://www.openstreetmap.org/user/Warin61/diary/45106) that quite a few public transport route relations are broken. He describes the minimal requirements to make them pass the tests from GeoFabrik's [OSMInspector](https://tools.geofabrik.de/osmi/?view=pubtrans_routes&lon=-0.17094&lat=51.52422&zoom=9&overlays=ptv2_routes_,ptv2_routes_valid,ptv2_routes_invalid,ptv2_error_,ptv2_error_ways,ptv2_error_nodes) validation tool, which is a lot easier than having to go through the respective wiki pages documenting how to map bus and train route relations.",6
+9663,"WN465","Mapping","Geofabrik has rewritten the Routing View in [OSM Inspector](http://tools.geofabrik.de/osmi/?view=routing&lon=34.71349&lat=-5.17547&zoom=7), which is used by many mappers to find unconnected roads and other routing-related issues. The blog article at the company's homepage [provides](https://blog.geofabrik.de/?p=522) some more details on the changes.",6
+13638,"WN552","Software","OSM Inspector by Geofabrik, which has had a view for Public Transport routes (version 2 tagging) for some time, [now supports](https://lists.openstreetmap.org/pipermail/talk-transit/2021-February/002307.html) new validation rules for stop positions. It now checks whether the stop position is on the route and whether the stop positions of a route are ordered correctly.",6
 15768,"WN610","Did you know that…","... [OSM Smart Menu](https://github.com/jgpacker/osm-smart-menu/blob/master/README.md#osm-smart-menu), the browser extension for Firefox and Google Chrome? The extension can help easily access different maps and a lot of tools to analyse OSM data. One click and you switch to:
 - [osmose](https://osmose.openstreetmap.fr/en/map/#zoom=12&lat=49.3912&lon=6.8534&item=xxxx&level=1)
 - [OSM Inspector](https://tools.geofabrik.de/osmi/?zoom=15&lat=38.6462&lon=-27.2268)
 - [Latest OSM edits](https://resultmaps.neis-one.org/osm-change-tiles#13/38.6700/-27.2227)
 
-and many others, depending on your configuration."
+and many others, depending on your configuration.",6
 16246,"WN624","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/2022/07/624_T_all.jpg =979x480)
 
-OSM Inspector - with a revamp [[^1^](#wn624_27054)]  ©  [Geofabrik](https://www.geofabrik.de/)  | map data © [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)"
-16268,"WN624","Software","[1] OSM Inspector, an OSM QA tool, has received a [revamp](https://blog.geofabrik.de/?p=555). Geofabrik is seeking feedback."
-16605,"WN636","Mapping","Michael Reichert [announced](https://blog.geofabrik.de/?p=566) that Geofabrik has added two road-related layers to OSM Inspector, relations with `highway= ` and out-of-use roads."
+OSM Inspector - with a revamp [[^1^](#wn624_27054)]  ©  [Geofabrik](https://www.geofabrik.de/)  | map data © [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)",6
+16268,"WN624","Software","[1] OSM Inspector, an OSM QA tool, has received a [revamp](https://blog.geofabrik.de/?p=555). Geofabrik is seeking feedback.",6
+16605,"WN636","Mapping","Michael Reichert [announced](https://blog.geofabrik.de/?p=566) that Geofabrik has added two road-related layers to OSM Inspector, relations with `highway= ` and out-of-use roads.",6

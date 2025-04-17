@@ -1,15 +1,15 @@
-"id","blog","category","markdown"
-14,"WN272","Mapping","The French QA tool Osmose has a [Mapillary integration](https://twitter.com/osmose_qa/status/650735269033938944) as well."
-211,"WN274","Community","Pierre Béland is looking for a tool to help experienced mappers analyze data after a mapping party. A lot of data was added as response to the earthquake in Nepal. There were many new mappers, that never did any other mapping besides the mapping party in which they participated. The verification of this data is a huge job. Pierre's approach is to find objects without primary key (such as building, highway, etc) or where the value is clearly a note (such as highway=I'm not sure whether there is a road here). He tried some analysis with his own tools on a planet dumb of Nepal. With some help from the community he finds the JOSM plugins OSMantic and OSMRecPlugin. The second one seems promising for his needs. Also there are some disabled tests from Osmose that might help. (on the [French mailing list](https://lists.openstreetmap.org/pipermail/talk-fr/2015-October/078307.html) ![(Französisch)](http://blog.openstreetmap.de/wp-uploads//2015/01/fr.svg)"
-178,"WN274","Programming","On September 26th, 2015 [Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose) version [1.0-2015-09-26](https://github.com/osm-fr/osmose-backend/releases) was released"
+"id","blog","category","markdown","sg_id"
+14,"WN272","Mapping","The French QA tool Osmose has a [Mapillary integration](https://twitter.com/osmose_qa/status/650735269033938944) as well.",6
+211,"WN274","Community","Pierre Béland is looking for a tool to help experienced mappers analyze data after a mapping party. A lot of data was added as response to the earthquake in Nepal. There were many new mappers, that never did any other mapping besides the mapping party in which they participated. The verification of this data is a huge job. Pierre's approach is to find objects without primary key (such as building, highway, etc) or where the value is clearly a note (such as highway=I'm not sure whether there is a road here). He tried some analysis with his own tools on a planet dumb of Nepal. With some help from the community he finds the JOSM plugins OSMantic and OSMRecPlugin. The second one seems promising for his needs. Also there are some disabled tests from Osmose that might help. (on the [French mailing list](https://lists.openstreetmap.org/pipermail/talk-fr/2015-October/078307.html) ![(Französisch)](http://blog.openstreetmap.de/wp-uploads//2015/01/fr.svg)",6
+178,"WN274","Programming","On September 26th, 2015 [Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose) version [1.0-2015-09-26](https://github.com/osm-fr/osmose-backend/releases) was released",6
 788,"WN284","Software","Releases
 | Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me](http://maps.me)|[5.3](https://github.com/mapsme/omim/releases/tag/android-release-53)|2015-12-21|Fixed zoom buttons bug|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.14.1](http://www.locusmap.eu/news-version-3-14.1/)|2015-12-22|Bug fixes|
 |[OSRM Backend](http://project-osrm.org/)|[4.9.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v4.9.0)|2015-12-24|API changes, bug fixes, maintenance, new features|
-|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2015-12-27](https://github.com/osm-fr/osmose-backend/releases)|2015-12-27||"
-993,"WN288","Mapping","The french quality assurance tool Osmose now also [covers](https://twitter.com/osmose_qa/status/690285020544679937) Australia, Fiji, Palestine, Israel, Armenia, North and South Korea."
+|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2015-12-27](https://github.com/osm-fr/osmose-backend/releases)|2015-12-27||",6
+993,"WN288","Mapping","The french quality assurance tool Osmose now also [covers](https://twitter.com/osmose_qa/status/690285020544679937) Australia, Fiji, Palestine, Israel, Armenia, North and South Korea.",6
 1651,"WN299","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Mapillary for iOS](http://www.mapillary.com/map)|[4.2.1](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-04-05|Changes for GoPro|
@@ -17,7 +17,7 @@
 |[SQLite](http://www.sqlite.org/)|[3.12.1](http://www.sqlite.org/releaselog/3_12_1.html)|2016-04-08|3 bugs fixed|
 |[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2016-04-09](https://github.com/osm-fr/osmose-backend/releases)|2016-04-09|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",6
 2227,"WN310","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GraphHopper Routing Engine](https://graphhopper.com/)|[0.7](https://graphhopper.com/blog/2016/06/15/graphhopper-routing-e+ngine-0-7-released/)|2016-06-15|Java 7 support, new translations and many more
@@ -30,8 +30,8 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.7|2016-06-25|-|
 |[Locus Map Free](http://www.locusmap.eu/)|[3.18.0](http://www.locusmap.eu/news-version-3-18-0)|2016-06-27|New function added|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-2506,"WN315","Mapping","The Osmose-QA tool [is](https://lists.openstreetmap.org/pipermail/talk-fr/2016-July/081653.html) available with world wide coverage. ![(Französisch)](http://blog.openstreetmap.de/wp-uploads//2015/01/fr.svg) (automatic [translation](https://translate.google.com/translate?sl"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",6
+2506,"WN315","Mapping","The Osmose-QA tool [is](https://lists.openstreetmap.org/pipermail/talk-fr/2016-July/081653.html) available with world wide coverage. ![(Französisch)](http://blog.openstreetmap.de/wp-uploads//2015/01/fr.svg) (automatic [translation](https://translate.google.com/translate?sl",6
 2695,"WN319","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
@@ -47,7 +47,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
 2881,"WN322","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim)|[2.5.1](https://github.com/twain47/Nominatim/releases/tag/v.2.5.1)|2016-08-02|Bug fix release with minor fixes|
@@ -66,7 +66,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
 3026,"WN325","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Grass Gis](http://grass.osgeo.org/)|[7.0.5](https://grass.osgeo.org/news/63/15/GRASS-GIS-7-0-5-released/)|2016-10-02|150 stability fixes and manual improvements|
@@ -76,7 +76,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-10-10|No info|
 |[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.17](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-10-08|Two bugs fixed while transfering Images.|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)."
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).",6
 3801,"WN341","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Traccar Client iOS](https://itunes.apple.com/us/app/traccar-client/id843156974)|[4.0](https://itunes.apple.com/us/app/traccar-client/id843156974)|2017-01-16|Fix battery level reading.|
@@ -92,7 +92,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
 4020,"WN345","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[GeoWebCache](http://geowebcache.org/)|[10.1.2](http://geowebcache.org/docs/current/)|2017-02-20|No Infos.|
@@ -113,7 +113,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
 4228,"WN349","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|[2.18.5](https://github.com/qgis/QGIS/releases/tag/final-2_18_5)|2017-02-24|No infos.|
@@ -131,7 +131,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-03-27 18:15:39+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
 5086,"WN367","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[GEOS](http://trac.osgeo.org/geos)|[3.6.2](http://trac.osgeo.org/geos/browser/git/NEWS?rev=3.6.2)|2017-07-25|Bug fixes.|
@@ -146,7 +146,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-08-01 17:41:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
 5126,"WN368","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|07.08.2017|More details and added x-ray vision in router and horizontal format.|
@@ -160,27 +160,27 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-08 15:35:26+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-5282,"WN371","Software","Vincent Privat [invites](https://lists.openstreetmap.org/pipermail/dev-fr/2017-August/002598.html) Osmose developers on Dev-fr to view JOSM tickets  and discuss: 1) [Export](https://josm.openstreetmap.de/ticket/14704) of the Validation Messages to a xml/json file and 2) Develop a [Standalone JOSM Validator (jar)](https://josm.openstreetmap.de/ticket/15182) in command line without GUI."
-5347,"WN372","Programming","Frédéric Rodrigo [published](https://medium.com/@frederic.rodrigo/pbf2redis-eae7fcada735) his findings on using a Redis database to query OSM objects and discusses performance relative to SQL queries on PostgreSQL. The experiments aim to explore ways of improving the heavy computations of the [Osmose](http://osmose.openstreetmap.fr) QA-tool."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",6
+5282,"WN371","Software","Vincent Privat [invites](https://lists.openstreetmap.org/pipermail/dev-fr/2017-August/002598.html) Osmose developers on Dev-fr to view JOSM tickets  and discuss: 1) [Export](https://josm.openstreetmap.de/ticket/14704) of the Validation Messages to a xml/json file and 2) Develop a [Standalone JOSM Validator (jar)](https://josm.openstreetmap.de/ticket/15182) in command line without GUI.",6
+5347,"WN372","Programming","Frédéric Rodrigo [published](https://medium.com/@frederic.rodrigo/pbf2redis-eae7fcada735) his findings on using a Redis database to query OSM objects and discusses performance relative to SQL queries on PostgreSQL. The experiments aim to explore ways of improving the heavy computations of the [Osmose](http://osmose.openstreetmap.fr) QA-tool.",6
 5522,"WN375","Imports","To bring in line the 40,000 wikidata tags that do not fit the Wikipedia URLs Yuri Astrakhan [suggests](https://lists.openstreetmap.org/pipermail/talk/2017-September/078850.html) to resolve the problem with a script. On the mailing list, Osmose and MapRoulette are mentioned as alternatives which would involve the community.
 
-Yuri Astrakhan's second post [leads](https://lists.openstreetmap.org/pipermail/talk/2017-September/078720.html) yet again to a longer discussion about missing wikidata tags and if they should be added automatically. In the mean time Yuri started a mechanical edit and received a bunch of complaints due to the bad quality of his edits."
-5497,"WN375","Mapping","Osmose [checks now](http://osmose.openstreetmap.fr/en/map/#item=3032&class=303241&zoom=8&lat=50.073&lon=8.407&layer=Mapnik&overlays=FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFT), whether `maxspeed= ` and `source: maxspeed= ` match and complains about e. g. `maxspeed=30` in combination with `source:maxspeed=DE:urban`, because 50 km/h are allowed in Germany."
-5513,"WN375","Software","Frederic Rodigo [announces](https://lists.openstreetmap.org/pipermail/talk/2017-September/078792.html) on the mailing list Talk that Osmose-QA is experimenting by adding missing sign tags on OSM from Mapillary detected signs on pictures."
-5639,"WN378","Mapping","[1] The quality assurance tool [Osmose](http://osmose.openstreetmap.fr/en/map/#zoom"
+Yuri Astrakhan's second post [leads](https://lists.openstreetmap.org/pipermail/talk/2017-September/078720.html) yet again to a longer discussion about missing wikidata tags and if they should be added automatically. In the mean time Yuri started a mechanical edit and received a bunch of complaints due to the bad quality of his edits.",6
+5497,"WN375","Mapping","Osmose [checks now](http://osmose.openstreetmap.fr/en/map/#item=3032&class=303241&zoom=8&lat=50.073&lon=8.407&layer=Mapnik&overlays=FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFT), whether `maxspeed= ` and `source: maxspeed= ` match and complains about e. g. `maxspeed=30` in combination with `source:maxspeed=DE:urban`, because 50 km/h are allowed in Germany.",6
+5513,"WN375","Software","Frederic Rodigo [announces](https://lists.openstreetmap.org/pipermail/talk/2017-September/078792.html) on the mailing list Talk that Osmose-QA is experimenting by adding missing sign tags on OSM from Mapillary detected signs on pictures.",6
+5639,"WN378","Mapping","[1] The quality assurance tool [Osmose](http://osmose.openstreetmap.fr/en/map/#zoom",6
 5647,"WN378","Picture","![osmose](http://www.weeklyosm.eu/wp-content/uploads/2017/10/ImagePastedat2017-10-2001-25-e1508443970543.png =733x411)
 
-The quality assurance tool Osmose now uses vector technology to display the markers [^1^](#wn378_16244) | Leaflet | © OpenStreetMap contributors"
-7749,"WN425","Mapping","The Osmose QA tool [now includes](https://twitter.com/osmose_qa/status/1038751075979980801) a layer with traffic signs from Mapillary where the equivalent information is missing from OSM. At the moment, the layer is available in France, Brussels and parts of Germany."
-7760,"WN425","Mapping","Osmose [now allows](https://twitter.com/osmose_qa/status/1038469872483745792?s=19) potential errors to be exported as KML files. You can import these files into apps, such as Maps.me, to assist in checking on the ground."
+The quality assurance tool Osmose now uses vector technology to display the markers [^1^](#wn378_16244) | Leaflet | © OpenStreetMap contributors",6
+7749,"WN425","Mapping","The Osmose QA tool [now includes](https://twitter.com/osmose_qa/status/1038751075979980801) a layer with traffic signs from Mapillary where the equivalent information is missing from OSM. At the moment, the layer is available in France, Brussels and parts of Germany.",6
+7760,"WN425","Mapping","Osmose [now allows](https://twitter.com/osmose_qa/status/1038469872483745792?s=19) potential errors to be exported as KML files. You can import these files into apps, such as Maps.me, to assist in checking on the ground.",6
 7893,"WN428","Humanitarian OSM","Nate Smith [announces](https://lists.openstreetmap.org/pipermail/talk/2018-October/081464.html) a new tool named [MapCampaigner](https://campaigns.hotosm.org/), developed by HOT. MapCampaigner's developers describe it as a ""data quality observation tool"" intended to follow up on the work done by contributors performing local field surveys tracking specific tags.
 
 For example, a [Report](https://campaigns.hotosm.org/campaign/24122d7abbad429b9e0ad7ca6ae36f72) in Botswana flags buildings with missing `building:roof` or ` building:levels` tags. 
 
-Critics on the mailing lists respond that this does not address more important data quality issues including those with building geometries, unlike other tools such as Osmose, OSMI and KeepRight."
-7894,"WN428","Software","The quality assurance tool [osmose](https://wiki.openstreetmap.org/wiki/Osmose) has recently implemented checks for [unconnected highways](https://twitter.com/osmose_qa/status/1043115761093492736) and crossing ways for [highways](https://twitter.com/osmose_qa/status/1043583842572009473) and [waterways](https://twitter.com/osmose_qa/status/1045285304280715264)."
-9471,"WN460","Mapping","Osmose now [uses](https://mobile.twitter.com/osmose_qa/status/1126102401616896000) the [MapCSS](https://wiki.openstreetmap.org/wiki/MapCSS) validation rules of the OpenRailwayMap project to validate railway infrastructure."
+Critics on the mailing lists respond that this does not address more important data quality issues including those with building geometries, unlike other tools such as Osmose, OSMI and KeepRight.",6
+7894,"WN428","Software","The quality assurance tool [osmose](https://wiki.openstreetmap.org/wiki/Osmose) has recently implemented checks for [unconnected highways](https://twitter.com/osmose_qa/status/1043115761093492736) and crossing ways for [highways](https://twitter.com/osmose_qa/status/1043583842572009473) and [waterways](https://twitter.com/osmose_qa/status/1045285304280715264).",6
+9471,"WN460","Mapping","Osmose now [uses](https://mobile.twitter.com/osmose_qa/status/1126102401616896000) the [MapCSS](https://wiki.openstreetmap.org/wiki/MapCSS) validation rules of the OpenRailwayMap project to validate railway infrastructure.",6
 9446,"WN460","Releases","Many new tests have recently been added to the Jungle Bus validators for JOSM (which improve the quality of public transport data in OSM):
 - on the new tags interval, opening_hours and interval:conditional
 - on line colours
@@ -190,38 +190,38 @@ Critics on the mailing lists respond that this does not address more important d
 - etc.
 
 These validators can be enabled in Preferences > Data Validator > Attribute Checker Rules tab.
-Your help is welcome to [translate these new tests](https://www.transifex.com/signin/?next=/openstreetmap-france/osmose/translate/#fr/transport_mapcss/)."
-9578,"WN463","Mapping","The latest version of ""[How Did You Contribute](https://hdyc.neis-one.org/)"" by Pascal Neis now [uses](https://twitter.com/pascal_n/status/1135576546863980545?s=19) [osmose](http://osmose.openstreetmap.fr/en) to display information about the quality of the user's edits."
-10630,"WN486","Software","Simon Poole, maintainer of Vespucci, [informed](https://lists.openstreetmap.org/pipermail/talk/2019-November/083513.html) the community about potential crashes of the mobile editor following a change in the data format provided by the Osmose API. This was resolved at the Osmose end (they undid their breaking change)."
-10951,"WN493","Mapping","The Osmose team [announced](https://twitter.com/osmose_qa/status/1210197569835618304?s=19) the implementation of updates to their QA database with improved, persistent, identifiers as well as better links, false positive support and an improved update process."
-11131,"WN498","Community","In a tweet the Osmose team [pointed](https://twitter.com/osmose_qa/status/1224072298292043777?s=19) to GitHub, where the source code and now the documentation is maintained. The developer also welcomes help with [translation](https://www.transifex.com/openstreetmap-france/osmose/dashboard/)."
-11152,"WN498","Mapping","The team behing the Osmose quality assurance tool [announced](https://twitter.com/osmose_qa/status/1224071576133521409?s=19) that an in-line help panel with a description of potential errors is now available. The additions also feature a guide on how to fix them, and other useful information."
-11552,"WN506","Mapping","Chris Beddow of Mapillary has moved his webinar on mapping against COVID-19 from 2 April to 7 April at 18:00 CET. He will use tools ranging from Osmose to Pic4Review and MapRoulette to enrich OpenStreetMap. You can sign up for the webinar [here](https://mapagainstcovid19.confetti.events/)."
-13090,"WN539","Programming","An [interactive](https://osmose-jupyter.openstreetmap.fr/) ([password](https://github.com/osm-fr/osmose-backend/blob/master/docker/work/.jupyter/jupyter_notebook_config.py#L13) protected) beta of the developer documentation for Osmose-QA is now [available](https://github.com/osm-fr/osmose-backend/tree/master/doc). It can be used to learn how Osmose's backend works and helps in modifying or adding new validation rules."
+Your help is welcome to [translate these new tests](https://www.transifex.com/signin/?next=/openstreetmap-france/osmose/translate/#fr/transport_mapcss/).",6
+9578,"WN463","Mapping","The latest version of ""[How Did You Contribute](https://hdyc.neis-one.org/)"" by Pascal Neis now [uses](https://twitter.com/pascal_n/status/1135576546863980545?s=19) [osmose](http://osmose.openstreetmap.fr/en) to display information about the quality of the user's edits.",6
+10630,"WN486","Software","Simon Poole, maintainer of Vespucci, [informed](https://lists.openstreetmap.org/pipermail/talk/2019-November/083513.html) the community about potential crashes of the mobile editor following a change in the data format provided by the Osmose API. This was resolved at the Osmose end (they undid their breaking change).",6
+10951,"WN493","Mapping","The Osmose team [announced](https://twitter.com/osmose_qa/status/1210197569835618304?s=19) the implementation of updates to their QA database with improved, persistent, identifiers as well as better links, false positive support and an improved update process.",6
+11131,"WN498","Community","In a tweet the Osmose team [pointed](https://twitter.com/osmose_qa/status/1224072298292043777?s=19) to GitHub, where the source code and now the documentation is maintained. The developer also welcomes help with [translation](https://www.transifex.com/openstreetmap-france/osmose/dashboard/).",6
+11152,"WN498","Mapping","The team behing the Osmose quality assurance tool [announced](https://twitter.com/osmose_qa/status/1224071576133521409?s=19) that an in-line help panel with a description of potential errors is now available. The additions also feature a guide on how to fix them, and other useful information.",6
+11552,"WN506","Mapping","Chris Beddow of Mapillary has moved his webinar on mapping against COVID-19 from 2 April to 7 April at 18:00 CET. He will use tools ranging from Osmose to Pic4Review and MapRoulette to enrich OpenStreetMap. You can sign up for the webinar [here](https://mapagainstcovid19.confetti.events/).",6
+13090,"WN539","Programming","An [interactive](https://osmose-jupyter.openstreetmap.fr/) ([password](https://github.com/osm-fr/osmose-backend/blob/master/docker/work/.jupyter/jupyter_notebook_config.py#L13) protected) beta of the developer documentation for Osmose-QA is now [available](https://github.com/osm-fr/osmose-backend/tree/master/doc). It can be used to learn how Osmose's backend works and helps in modifying or adding new validation rules.",6
 13398,"WN547","Imports","The recent availability of open data from the French national mapping agency, IGN, prompts [some words of advice and caution](https://lists.openstreetmap.org/pipermail/talk-fr/2021-January/102680.html) ![(fr)](https://blog.openstreetmap.de/wp-uploads/2016/12/fr.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://lists.openstreetmap.org/pipermail/talk-fr/2021-January/102680.html)
-from Christian Quest. Frédéric Rodrigo [offered a sneak preview](https://lists.openstreetmap.org/pipermail/talk-fr/2021-January/102682.html) ![(fr)](https://blog.openstreetmap.de/wp-uploads/2016/12/fr.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://lists.openstreetmap.org/pipermail/talk-fr/2021-January/102682.html) of an analysis of the data within Osmose."
-14481,"WN573","Mapping campaigns","TomTom [have created](https://lists.openstreetmap.org/pipermail/talk-africa/2021-July/000665.html) five MapRoulette challenges aimed at checking and improving OSM for vehicle navigation. Each challenge covers a different part of Africa, and TomTom indicates that they are based on both regular OSM quality control tools, such as Osmose, and data and validations internal to TomTom.  No details have been provided about how to modify the tagging."
+from Christian Quest. Frédéric Rodrigo [offered a sneak preview](https://lists.openstreetmap.org/pipermail/talk-fr/2021-January/102682.html) ![(fr)](https://blog.openstreetmap.de/wp-uploads/2016/12/fr.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://lists.openstreetmap.org/pipermail/talk-fr/2021-January/102682.html) of an analysis of the data within Osmose.",6
+14481,"WN573","Mapping campaigns","TomTom [have created](https://lists.openstreetmap.org/pipermail/talk-africa/2021-July/000665.html) five MapRoulette challenges aimed at checking and improving OSM for vehicle navigation. Each challenge covers a different part of Africa, and TomTom indicates that they are based on both regular OSM quality control tools, such as Osmose, and data and validations internal to TomTom.  No details have been provided about how to modify the tagging.",6
 15768,"WN610","Did you know that…","... [OSM Smart Menu](https://github.com/jgpacker/osm-smart-menu/blob/master/README.md#osm-smart-menu), the browser extension for Firefox and Google Chrome? The extension can help easily access different maps and a lot of tools to analyse OSM data. One click and you switch to:
 - [osmose](https://osmose.openstreetmap.fr/en/map/#zoom=12&lat=49.3912&lon=6.8534&item=xxxx&level=1)
 - [OSM Inspector](https://tools.geofabrik.de/osmi/?zoom=15&lat=38.6462&lon=-27.2268)
 - [Latest OSM edits](https://resultmaps.neis-one.org/osm-change-tiles#13/38.6700/-27.2227)
 
-and many others, depending on your configuration."
-16147,"WN620","Software","Sammyhawkrad [built](https://sammyhawkrad.github.io/OsmoseStats/) a simple tool to help OpenStreetMap contributors see statistics of their most common editing issues as flagged by [Osmose](https://wiki.openstreetmap.org/wiki/Osmose)."
-16217,"WN622","Open Data","[1] Osmose is now using open data to [compare](https://twitter.com/osmose_qa/status/1534149889088753664) against OpenStreetMap data to find any missing roads or power lines in OSM. At present comparisons are made for power lines in [France](http://osmose.openstreetmap.fr/fr/map/#source"
+and many others, depending on your configuration.",6
+16147,"WN620","Software","Sammyhawkrad [built](https://sammyhawkrad.github.io/OsmoseStats/) a simple tool to help OpenStreetMap contributors see statistics of their most common editing issues as flagged by [Osmose](https://wiki.openstreetmap.org/wiki/Osmose).",6
+16217,"WN622","Open Data","[1] Osmose is now using open data to [compare](https://twitter.com/osmose_qa/status/1534149889088753664) against OpenStreetMap data to find any missing roads or power lines in OSM. At present comparisons are made for power lines in [France](http://osmose.openstreetmap.fr/fr/map/#source",6
 16194,"WN622","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/2022/06/622_T_EN.jpg =1034x446)
 
-Osmose using open data in France and Spain now [[^1^](#wn622_26983)]  ©  Osmose  | map data © [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)"
-16287,"WN625","Software","Stefan Keller [informed](https://www.openstreetmap.org/user/Geonick/diary/399523) us that two of his computer science students have developed an application called '[OSM Wikidata Quality Checker](https://wiki.openstreetmap.org/wiki/OpenStreetMap_Wikidata_Quality_Checker)' with the help of Sascha Brawer. The application checks existing links from OpenStreetMap to Wikidata. The errors found &ndash; for example invalid Wikidata entries in OpenStreetMap &ndash; are also sent to Osmose-QA with a suggested correction. The software processes the data worldwide on a weekly basis. Currently, a total of over 30,000 error notes have been found in nine categories. They are now looking for a place to host this data processing pipeline permanently."
-16530,"WN633","Software","Samuel Manu, perhaps better known in OSM as sammyhawkrad, [tweeted](https://twitter.com/sammyhawkrad/status/1563593339085402115) about new updates to the [OsmoseStats](https://sammyhawkrad.github.io/OsmoseStats/) tool he built. You can now see the number of OSM issues per country/region and also view the list of individual issues with hyperlinks on the charts."
-16826,"WN642","Community","Following Elon Musk's purchase of Twitter, many have switched to the alternative and FOSS protocol named [Mastodon](https://wiki.openstreetmap.org/wiki/Mastodon). Amanda McCann has been hosting a Mastodon-instance for quite a while ([en.osm.town](https://en.osm.town)) where many contributors and official accounts live, such as [OpenStreetMap](https://en.osm.town/@openstreetmap), [State of the Map](https://en.osm.town/@sotm), [JOSM](https://en.osm.town/@josmeditor), [MapComplete](https://en.osm.town/@MapComplete), [MapRoulette](https://en.osm.town/@MapRoulette), [Osmose QA](https://en.osm.town/web/@OsmoseQA), [Open Inframap](https://en.osm.town/@OpenInfraMap) and many regional accounts such as [LATAM](https://en.osm.town/@osmlatam), [BE](https://en.osm.town/@osm_be), [Guyane](https://en.osm.town/@osm_gf), [Swiss](https://en.osm.town/@SwissOSM), [Pyrénées-Orientales](https://en.osm.town/@OpenStreetMap66), [Catala](https://mastodon.social/@osmcatala), [Berlin+Brandenburg](https://en.osm.town/@osmberlin), [Missing Maps Slovakia](https://en.osm.town/@missingmaps_sk),[OSMChina](https://en.osm.town/@osmchina) and [weeklyOSM](https://en.osm.town/web/@weeklyOSM) as well."
+Osmose using open data in France and Spain now [[^1^](#wn622_26983)]  ©  Osmose  | map data © [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)",6
+16287,"WN625","Software","Stefan Keller [informed](https://www.openstreetmap.org/user/Geonick/diary/399523) us that two of his computer science students have developed an application called '[OSM Wikidata Quality Checker](https://wiki.openstreetmap.org/wiki/OpenStreetMap_Wikidata_Quality_Checker)' with the help of Sascha Brawer. The application checks existing links from OpenStreetMap to Wikidata. The errors found &ndash; for example invalid Wikidata entries in OpenStreetMap &ndash; are also sent to Osmose-QA with a suggested correction. The software processes the data worldwide on a weekly basis. Currently, a total of over 30,000 error notes have been found in nine categories. They are now looking for a place to host this data processing pipeline permanently.",6
+16530,"WN633","Software","Samuel Manu, perhaps better known in OSM as sammyhawkrad, [tweeted](https://twitter.com/sammyhawkrad/status/1563593339085402115) about new updates to the [OsmoseStats](https://sammyhawkrad.github.io/OsmoseStats/) tool he built. You can now see the number of OSM issues per country/region and also view the list of individual issues with hyperlinks on the charts.",6
+16826,"WN642","Community","Following Elon Musk's purchase of Twitter, many have switched to the alternative and FOSS protocol named [Mastodon](https://wiki.openstreetmap.org/wiki/Mastodon). Amanda McCann has been hosting a Mastodon-instance for quite a while ([en.osm.town](https://en.osm.town)) where many contributors and official accounts live, such as [OpenStreetMap](https://en.osm.town/@openstreetmap), [State of the Map](https://en.osm.town/@sotm), [JOSM](https://en.osm.town/@josmeditor), [MapComplete](https://en.osm.town/@MapComplete), [MapRoulette](https://en.osm.town/@MapRoulette), [Osmose QA](https://en.osm.town/web/@OsmoseQA), [Open Inframap](https://en.osm.town/@OpenInfraMap) and many regional accounts such as [LATAM](https://en.osm.town/@osmlatam), [BE](https://en.osm.town/@osm_be), [Guyane](https://en.osm.town/@osm_gf), [Swiss](https://en.osm.town/@SwissOSM), [Pyrénées-Orientales](https://en.osm.town/@OpenStreetMap66), [Catala](https://mastodon.social/@osmcatala), [Berlin+Brandenburg](https://en.osm.town/@osmberlin), [Missing Maps Slovakia](https://en.osm.town/@missingmaps_sk),[OSMChina](https://en.osm.town/@osmchina) and [weeklyOSM](https://en.osm.town/web/@weeklyOSM) as well.",6
 17168,"WN652","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/2023/01/652_T_all.jpg =1280x1280)
 
-Osmose QA introduces a new check [[^1^](#wn652_27978)] | © Public Domain"
-17202,"WN652","Releases","QA tool Osmose has [introduced](https://en.osm.town/@OsmoseQA/109667039380656322) a new check for buildings on agricultural land that appear to be too large."
-17465,"WN660","OSM in the media","Frédéric Rodrigo (Osmose-QA maintainer) [explored](https://medium.com/@frederic.rodrigo/state-of-the-art-openstreetmap-extraction-synchronization-under-quality-constraints-3d46907c5151) the subject of synchronising a copy of OpenStreetMap data while trying to ensure the quality of the copy. The article studies existing tools and strategies."
-18924,"WN702","Software","The Osmose QA tool now has a [feature](https://en.osm.town/@OsmoseQA/111664156091529833) to expand clustered categories. Just click on the plus symbol."
-19107,"WN704","Education","The UN Maps Learning Hub has [launched](https://www.linkedin.com/feed/update/urn:li:activity:7153700858059272193) its OSM Advanced courses, starting with a course on validating data in OSM. It offers an initial guide to learning validation techniques and tools such as the OSM Tasking Manager validation steps, JOSM tools and plugins, Overpass, Osmose, Whodidit, OSMCha, then a guide to learning how to interact with OSM contributors, and finally a guide that proposes a specific validation workflow for different map features (places, land use, road network, hydrography, bridges, fords and culverts) with a long-term perspective. Feedback is welcome!"
-19152,"WN706","Did you know that…","... that UN Mappers has [launched](https://www.linkedin.com/posts/un-mappers_validation-openstreetmap-unmaps-activity-7153700858059272193-wCr3) the '[OSM Advanced](https://mappers.un.org/learning/course/view.php?id=35)' course on the UN Maps Learning Hub under a CC-BY-SA licence? It now offers an initial guide to learning validation techniques and tools (such as OSM Task Manager validation steps, JOSM  tools and plug-ins, Overpass, Osmose, Whodidit, OSMCha), then a guide to learning how to interact with OSM contributors, and finally a guide that offers a specific validation workflow for different map objects with a long-term perspective. It is available in English, Spanish, French, Italian, Portuguese, and soon in Chinese. As this Learning Hub is based on Moodle, you will need to sign up to access it. If this is your very first connection, there is a privacy data statement to accept, then you can join the course. Any feedback is welcome!"
-21356,"WN757","Community","InfosReseaux [talked](https://www.openstreetmap.org/user/InfosReseaux/diary/405992) about how OpenStreetMap is helping with managing power grid assets. Accurate tagging and open data are really important in adapting grids to climate challenges. The post mentioned advanced tagging systems, tools like StreetComplete and Osmose, and how they work together with operators like Enedis. It also talks about what the French community has achieved, like reviewing 255,000 transmission towers, improving how power lines are described, and using AI and LiDAR to make improvements."
-21622,"WN765","Community","InfosReseaux (with frodrigo)  have [spent](https://forum.openstreetmap.fr/t/le-jardinage-du-reseau-de-distribution-electrique/32091) :FR-s: some time in recent weeks developing quality controls for the French power grids on [Osmose](https://osmose.openstreetmap.fr/fr/issues/open?item"
+Osmose QA introduces a new check [[^1^](#wn652_27978)] | © Public Domain",6
+17202,"WN652","Releases","QA tool Osmose has [introduced](https://en.osm.town/@OsmoseQA/109667039380656322) a new check for buildings on agricultural land that appear to be too large.",6
+17465,"WN660","OSM in the media","Frédéric Rodrigo (Osmose-QA maintainer) [explored](https://medium.com/@frederic.rodrigo/state-of-the-art-openstreetmap-extraction-synchronization-under-quality-constraints-3d46907c5151) the subject of synchronising a copy of OpenStreetMap data while trying to ensure the quality of the copy. The article studies existing tools and strategies.",6
+18924,"WN702","Software","The Osmose QA tool now has a [feature](https://en.osm.town/@OsmoseQA/111664156091529833) to expand clustered categories. Just click on the plus symbol.",6
+19107,"WN704","Education","The UN Maps Learning Hub has [launched](https://www.linkedin.com/feed/update/urn:li:activity:7153700858059272193) its OSM Advanced courses, starting with a course on validating data in OSM. It offers an initial guide to learning validation techniques and tools such as the OSM Tasking Manager validation steps, JOSM tools and plugins, Overpass, Osmose, Whodidit, OSMCha, then a guide to learning how to interact with OSM contributors, and finally a guide that proposes a specific validation workflow for different map features (places, land use, road network, hydrography, bridges, fords and culverts) with a long-term perspective. Feedback is welcome!",6
+19152,"WN706","Did you know that…","... that UN Mappers has [launched](https://www.linkedin.com/posts/un-mappers_validation-openstreetmap-unmaps-activity-7153700858059272193-wCr3) the '[OSM Advanced](https://mappers.un.org/learning/course/view.php?id=35)' course on the UN Maps Learning Hub under a CC-BY-SA licence? It now offers an initial guide to learning validation techniques and tools (such as OSM Task Manager validation steps, JOSM  tools and plug-ins, Overpass, Osmose, Whodidit, OSMCha), then a guide to learning how to interact with OSM contributors, and finally a guide that offers a specific validation workflow for different map objects with a long-term perspective. It is available in English, Spanish, French, Italian, Portuguese, and soon in Chinese. As this Learning Hub is based on Moodle, you will need to sign up to access it. If this is your very first connection, there is a privacy data statement to accept, then you can join the course. Any feedback is welcome!",6
+21356,"WN757","Community","InfosReseaux [talked](https://www.openstreetmap.org/user/InfosReseaux/diary/405992) about how OpenStreetMap is helping with managing power grid assets. Accurate tagging and open data are really important in adapting grids to climate challenges. The post mentioned advanced tagging systems, tools like StreetComplete and Osmose, and how they work together with operators like Enedis. It also talks about what the French community has achieved, like reviewing 255,000 transmission towers, improving how power lines are described, and using AI and LiDAR to make improvements.",6
+21622,"WN765","Community","InfosReseaux (with frodrigo)  have [spent](https://forum.openstreetmap.fr/t/le-jardinage-du-reseau-de-distribution-electrique/32091) :FR-s: some time in recent weeks developing quality controls for the French power grids on [Osmose](https://osmose.openstreetmap.fr/fr/issues/open?item",6

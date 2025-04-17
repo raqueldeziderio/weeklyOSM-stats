@@ -1,8 +1,8 @@
-"id","blog","category","markdown"
-15796,"WN610","Software","Anthon Khorev has [released](https://www.openstreetmap.org/user/Anton%20Khorev/diary/398859) 'osm-note-viewer', an alternative to `https://www.openstreetmap.org/user/username/notes`, where one can have an overview of notes related to a user both as a list and on a map."
-15975,"WN616","Software","Anton Khorev [wrote](https://www.openstreetmap.org/user/Anton%20Khorev/diary/399107) a diary entry about loose link detection in [note-viewer](https://github.com/AntonKhorev/osm-note-viewer), which will replace a plaintext URL with a dotted hyperlink. For now, it only handles openstreetmap.org and StreetComplete’s image hosting URLs, but other sites may be added in the future."
-16027,"WN617","Programming","Anton Khorev, developer of [osm-note-viewer](https://github.com/AntonKhorev/osm-note-viewer), [explained](https://www.openstreetmap.org/user/Anton%20Khorev/diary/399174) the implementation of Leaflet’s pop-ups in his app whilst also accounting for any required map scrolling movements."
-17268,"WN654","Software","Anthon Khorev's ['osm-note-viewer'](https://antonkhorev.github.io/osm-note-viewer/) can now be used with other OpenStreetMap website-based projects. He [explained](https://www.openstreetmap.org/user/Anton%20Khorev/diary/400851) more in his blog."
+"id","blog","category","markdown","sg_id"
+15796,"WN610","Software","Anthon Khorev has [released](https://www.openstreetmap.org/user/Anton%20Khorev/diary/398859) 'osm-note-viewer', an alternative to `https://www.openstreetmap.org/user/username/notes`, where one can have an overview of notes related to a user both as a list and on a map.",10
+15975,"WN616","Software","Anton Khorev [wrote](https://www.openstreetmap.org/user/Anton%20Khorev/diary/399107) a diary entry about loose link detection in [note-viewer](https://github.com/AntonKhorev/osm-note-viewer), which will replace a plaintext URL with a dotted hyperlink. For now, it only handles openstreetmap.org and StreetComplete’s image hosting URLs, but other sites may be added in the future.",10
+16027,"WN617","Programming","Anton Khorev, developer of [osm-note-viewer](https://github.com/AntonKhorev/osm-note-viewer), [explained](https://www.openstreetmap.org/user/Anton%20Khorev/diary/399174) the implementation of Leaflet’s pop-ups in his app whilst also accounting for any required map scrolling movements.",10
+17268,"WN654","Software","Anthon Khorev's ['osm-note-viewer'](https://antonkhorev.github.io/osm-note-viewer/) can now be used with other OpenStreetMap website-based projects. He [explained](https://www.openstreetmap.org/user/Anton%20Khorev/diary/400851) more in his blog.",10
 19504,"WN715","Mapping campaigns","The Austrian community has taken a collective approach in processing about 5000 map notes and about 2000 notes have already been closed in a short time. Currently, less than 3000 are still open. If you also want to help, there are a number of useful tools available:
 
   [An overview of all notes in Austria](https://resultmaps.neis-one.org/osm-notes-country?c=Austria)
@@ -10,4 +10,4 @@
   [A list of the oldest notes per country](https://observablehq.com/@vgeorge/oldest-osm-notes-by-country)
   [A URL that displays a random note (suitable as a bookmark)](https://brzozo.ws/random-note/AT)
   The tools [NotesReview](https://ent8r.github.io/NotesReview/) and [NoteViewer](https://antonkhorev.github.io/osm-note-viewer/) for viewing local notes.
-  [The JOSM plugin noteSolver for automatic assignment of changesets and notes](https://github.com/kmpoppe/noteSolver)"
+  [The JOSM plugin noteSolver for automatic assignment of changesets and notes](https://github.com/kmpoppe/noteSolver)",10

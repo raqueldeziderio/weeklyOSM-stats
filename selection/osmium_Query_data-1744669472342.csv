@@ -1,7 +1,7 @@
-"id","blog","category","markdown"
-355,"WN277","Programming","On November 6th, 2015 [libosmium](http://osmcode.org/libosmium/) version [2.5.2](https://github.com/osmcode/libosmium/blob/master/CHANGELOG.md) was released. One day after version 2.5.1."
+"id","blog","category","markdown","sg_id"
+355,"WN277","Programming","On November 6th, 2015 [libosmium](http://osmcode.org/libosmium/) version [2.5.2](https://github.com/osmcode/libosmium/blob/master/CHANGELOG.md) was released. One day after version 2.5.1.",4
 483,"WN279","Programming","On November 17th, 2015 [libosmium](http://osmcode.org/libosmium/) version [2.5.3](https://github.com/osmcode/libosmium/blob/master/CHANGELOG.md) and [Osmium Tool](http://osmcode.org/osmium/)
-version [1.3.0](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md) were released."
+version [1.3.0](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md) were released.",4
 1142,"WN290","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[libosmium](http://osmcode.org/libosmium/)|[2.6.0](https://github.com/osmcode/libosmium/blob/master/CHANGELOG.md)|2016-02-03|Extensions, enhances and fixes|
@@ -11,7 +11,7 @@ version [1.3.0](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)
 |[Mapillary for iOs](http://www.mapillary.com/map)|[4.1.3](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-02-05|French support, 3 new cameras,++, fixes|
 |[Maps.me](http://maps.me)|[5.6.1](https://github.com/mapsme/omim/releases/tag/android-release-561)|2016-02-05|Bug fixed|
 |[Atlas](http://wiki.openstreetmap.org/wiki/Atlas_(navigation_application))|[1.2.1](http://groups.google.com/group/atlas-app)|2016-02-07|Night mode, update map and routing engine, various improvements|
-|[Graphhopper](https://graphhopper.com/)|[0.6](https://graphhopper.com/blog/2016/02/08/releasing-graphhopper-0-6/)|2016-02-08|Many smaller changes, new alternate route calculation|"
+|[Graphhopper](https://graphhopper.com/)|[0.6](https://graphhopper.com/blog/2016/02/08/releasing-graphhopper-0-6/)|2016-02-08|Many smaller changes, new alternate route calculation|",4
 1328,"WN293","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[libosmium](http://osmcode.org/libosmium/)|[2.6.1](https://github.com/osmcode/libosmium/blob/master/CHANGELOG.md)|2016-02-22|New CMake option, massive speed imp
@@ -24,7 +24,7 @@ arious improvements|
 |[QMapShack Mac](https://bitbucket.org/maproom/qmapshack/wiki/Home)|[1.6.0](xxx)|2016-02-27||
 |[JOSM](http://josm.openstreetmap.de/)|[9900](http://josm.openstreetmap.de/wiki/Changelog)|2016-02-28|Extensions in relation editor and some more|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",4
 1361,"WN294","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[OpenLayers](http://openlayers.org/)|[3.14.2](https://github.com/openlayers/ol3/releases/tag/v3.14.2)|2016-02-03|Some patches of 3.14.1|
@@ -37,9 +37,9 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[iD](http://ideditor.com/)|[1.9.1](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-03-03|Bug fixes of version 1.9.0 from 2016-03-01|
 |[SQLite](http://www.sqlite.org/)|[3.11.1](http://www.sqlite.org/releaselog/3_11_1.html)|2016-03-03|Some improvements and bug fixes|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-1422,"WN295","Programming","Jochen [explains](https://blog.jochentopf.com/2016-03-11-renumbering-openstreetmap.html) his renumbering command in osmium-tool to store ID numbers of OSM elements with less space needed than original OSM numbering."
-1766,"WN301","Programming","Jochen Topf [reports](https://blog.jochentopf.com/2016-04-20-node-locations-on-ways.html) about a new feature in the [Osmium](http://wiki.openstreetmap.org/wiki/DE:Osmium) tool  which can be used to store the actual latitude/longitude values of nodes that are element of a way in a more efficient way and as raw OSM data. Those are optimized for speed when reading."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",4
+1422,"WN295","Programming","Jochen [explains](https://blog.jochentopf.com/2016-03-11-renumbering-openstreetmap.html) his renumbering command in osmium-tool to store ID numbers of OSM elements with less space needed than original OSM numbering.",4
+1766,"WN301","Programming","Jochen Topf [reports](https://blog.jochentopf.com/2016-04-20-node-locations-on-ways.html) about a new feature in the [Osmium](http://wiki.openstreetmap.org/wiki/DE:Osmium) tool  which can be used to store the actual latitude/longitude values of nodes that are element of a way in a more efficient way and as raw OSM data. Those are optimized for speed when reading.",4
 2085,"WN307","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[GeoServer](http://geoserver.org/)|[2.9.0](https://osgeo-org.atlassian.net/jira/secure/ReleaseNote.jspa?projectId=10000&version=13003)|2016-05-30|-|
@@ -49,7 +49,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.7.1](https://github.com/osmcode/pyosmium/releases)|2016-06-01|Some extensions|
 |[JOSM](http://josm.openstreetmap.de/)|[10327](http://josm.openstreetmap.de/wiki/Changelog)|2016-06-05|Hotfix of version 10301 and last Java 7 version|
 |[Overpass Turbo](http://overpass-turbo.eu/)|[06-06-2016](https://github.com/tyrasd/overpass-turbo/blob/master/CHANGELOG.md)|06.06.2016|new features and bugfixes|
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",4
 2146,"WN308","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Overpass-Turbo](http://overpass-turbo.eu/)|[2016-06-06](https://github.com/tyrasd/overpass-turbo/blob/master/CHANGELOG.md)|6.6.2016|-|
@@ -62,7 +62,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary Android](http://www.mapillary.com/map)|[2.22](https://play.google.com/store/apps/details?id=app.mapillary)|13.6.2016|bug fixes and extended features|
 |[OSRM Backend](http://project-osrm.org/)|[5.2.1](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.2.0)|13.6.2016| bug fix version to 5.2.0|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",4
 2533,"WN316","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|2.16.1|2016-07-29|No infos|
@@ -78,8 +78,8 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.8](https://github.com/osmcode/pyosmium/releases)|2016-08-08|Adjustments to libosmium|
 |[SQLite](http://www.sqlite.org/)|[3.14.0](http://www.sqlite.org/releaselog/3_14_0.html)|2016-08-08|19 Improvements and enhancements, 3 bugs fixed|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
-2885,"WN322","Releases","Jochen Topf [announces](https://blog.jochentopf.com/2016-09-17-libosmium-and-osmium-tool-releases.html) the new features of libosmium 2.9.0 and Osmium-Tool 1.4.0 in his blog. The latter now also allows to change tags with _sed_ and generates human readable diffs."
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",4
+2885,"WN322","Releases","Jochen Topf [announces](https://blog.jochentopf.com/2016-09-17-libosmium-and-osmium-tool-releases.html) the new features of libosmium 2.9.0 and Osmium-Tool 1.4.0 in his blog. The latter now also allows to change tags with _sed_ and generates human readable diffs.",4
 2881,"WN322","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim)|[2.5.1](https://github.com/twain47/Nominatim/releases/tag/v.2.5.1)|2016-08-02|Bug fix release with minor fixes|
@@ -98,8 +98,8 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3198,"WN328","Programming","With GEOS 3.6, the C++ API was changed by GEOS. Jochen Topf as a developer of the library libosmium [presented](https://lists.openstreetmap.org/pipermail/dev/2016-October/029550.html) on the dev mailing list, three possible ways how to proceed with the functions to generate GEOS geometries in libosmium."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
+3198,"WN328","Programming","With GEOS 3.6, the C++ API was changed by GEOS. Jochen Topf as a developer of the library libosmium [presented](https://lists.openstreetmap.org/pipermail/dev/2016-October/029550.html) on the dev mailing list, three possible ways how to proceed with the functions to generate GEOS geometries in libosmium.",4
 3287,"WN330","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.4.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.4.3)|2016-11-08|Bugfix release.|
@@ -112,7 +112,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
 3357,"WN331","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.14](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-11-15|Various improvements.|
@@ -131,8 +131,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3414,"WN332","Programming","Jochen Topf [summarizes](https://blog.jochentopf.com/2016-11-21-osmium-news.html) the most important changes in Osmium in a blog post."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
+3414,"WN332","Programming","Jochen Topf [summarizes](https://blog.jochentopf.com/2016-11-21-osmium-news.html) the most important changes in Osmium in a blog post.",4
 3731,"WN339","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.21.1](https://play.google.com/store/apps/details?id=menion.android.locus)|2017-01-10|Bugfix release.|
@@ -148,8 +148,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3781,"WN340","Programming","Geofabrik reports in [a blog post](http://blog.geofabrik.de/?p=397) how they recently improved referential integrity in their extracts. With a marginal impact on file size while cutting down processing time, this was made possible by switching to the latest [osmium](https://github.com/osmcode/osmium-tool) version."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
+3781,"WN340","Programming","Geofabrik reports in [a blog post](http://blog.geofabrik.de/?p=397) how they recently improved referential integrity in their extracts. With a marginal impact on file size while cutting down processing time, this was made possible by switching to the latest [osmium](https://github.com/osmcode/osmium-tool) version.",4
 3792,"WN340","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.21](https://play.google.com/store/apps/details?id=app.mapillary)|2017-01-15|Minor fixes.|
@@ -161,9 +161,9 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Sorry, still offline :(
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-3867,"WN342","Programming","Jochen Topf [blogs](https://blog.jochentopf.com/2017-02-06-expedicious-and-exact-extracts-with-osmium.html) about the new osmium-tool extract command that creates OSM data extracts faster than any other existing tool, while enabling several extracts on the same run."
-3996,"WN344","Programming","Geofabrik [announces](https://lists.openstreetmap.org/pipermail/dev/2017-February/029699.html) that the download server now has full history files for all regions served. These files (called "".osh.pbf"") can be used to run analyses, and one can use Osmium to convert them to a text-based format (""OPL"") that is then accessible for grep et al."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
+3867,"WN342","Programming","Jochen Topf [blogs](https://blog.jochentopf.com/2017-02-06-expedicious-and-exact-extracts-with-osmium.html) about the new osmium-tool extract command that creates OSM data extracts faster than any other existing tool, while enabling several extracts on the same run.",4
+3996,"WN344","Programming","Geofabrik [announces](https://lists.openstreetmap.org/pipermail/dev/2017-February/029699.html) that the download server now has full history files for all regions served. These files (called "".osh.pbf"") can be used to run analyses, and one can use Osmium to convert them to a text-based format (""OPL"") that is then accessible for grep et al.",4
 4118,"WN347","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.6.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.6.3)|2017-03-03|Some bugfixes.|
@@ -178,7 +178,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
 4166,"WN348","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.33](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-14|Fix bug in distance mode, upgrade map box map for more stability.|
@@ -197,7 +197,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
 4307,"WN351","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Osmium Tool](http://osmcode.org/osmium/)|[1.6.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Two changes and three fixes.|
@@ -218,7 +218,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-10 15:08:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
 4331,"WN352","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.1](https://github.com/osmcode/pyosmium/releases)|11/04/2017|Four extensions, two changes and three bugfixes.|
@@ -236,7 +236,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-17 18:40:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
 4478,"WN355","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[JOSM](http://josm.openstreetmap.de/)|[12039](http://josm.openstreetmap.de/wiki/Changelog)|2017-05-02|See release infos.|
@@ -257,8 +257,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-08 20:24:45+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4536,"WN357","Programming","Christoph Lingg [asked](https://lists.openstreetmap.org/pipermail/dev/2017-May/029878.html) whether there is an easier-to-use OSM data format other than PBF. He would prefer the data in GeoJSON. Jochen Topf [explained](https://lists.openstreetmap.org/pipermail/dev/2017-May/029884.html) in detail where the problems are and suggested his  export -branch of osmium which can export to GeoJSON."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
+4536,"WN357","Programming","Christoph Lingg [asked](https://lists.openstreetmap.org/pipermail/dev/2017-May/029878.html) whether there is an easier-to-use OSM data format other than PBF. He would prefer the data in GeoJSON. Jochen Topf [explained](https://lists.openstreetmap.org/pipermail/dev/2017-May/029884.html) in detail where the problems are and suggested his  export -branch of osmium which can export to GeoJSON.",4
 4580,"WN358","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.26](https://docs.kurviger.de/app)|2017-05-17|Various improvements.|
@@ -276,20 +276,20 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-29 22:52:18+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-6293,"WN393","Programming","Nakaner has released an Osmium-based C++ program called [PrepDelRels](https://github.com/Nakaner/prepdelrels) that determines which paths become unnecessary when deleting a relation."
-6729,"WN403","Programming","Jochen Topf [presents](https://blog.jochentopf.com/2018-04-03-new-osmium-releases.html) the innovation of Libosmium 2.14 and Osmium-Tool 1.8. Many bugs related to missing timestamps and other metadata fields have been fixed and the ability to write OSM files with only certain metadata fields was added."
-7094,"WN412","Community","Heikki Vesanto created a [presentation](https://gisforthought.com/history-of-openstreetmap-in-ireland/) for OSGeo Ireland, that shows the evolution of OSM there. He [published](https://gisforthought.com/creating-openstreetmap-history-visualisations/) a guide for creating your own animations with Python, PostgreSQL, osmium-tools and QGIS on his blog."
-7379,"WN419","Community","In his blog ""Maps Matter"" SK53 [wrote](http://sk53-osm.blogspot.com/2018/07/can-we-identify-completeness-of.html) about how the completeness of data in OSM can be estimated without using external datasets for comparison. The question becomes particularly important when thinking about the generation of Areas-of-Interest, which requires POIs to be reasonably complete. His idea is that the number of POIs over time should develop similarly to [Species Accumulation Curves](https://en.wikipedia.org/wiki/Species_discovery_curve)  (at first increasing slowly but then accelerating and finally leveling off ). The article details step by step his approach of investigating the question for shops in the UK using Overpass, Osmium and PostgreSQL. He concluded that there are still a lot of shops to be added, even in the best-mapped places. Some shop types, `shop=supermarket` and `shop=doityourself`, do show signs of slowdown. In terms of the number of distinct values for`shop=` he found the curve tailed off and suggests that the existing shop tags are sufficient to meet our tagging needs. Joost Schoope [pointed out](https://twitter.com/joostjakob/status/1024576295047491584) that a similar approach has already been used for roads."
-7437,"WN420","Community","Chetan Gowda [wrote](https://www.openstreetmap.org/user/Chetan_Gowda/diary/44577) an article describing how he used [Mapolution](https://github.com/osmcode/osmium-contrib/tree/master/mapolution) to visualise the evolution of OSM in different countries. He explained how to install the required software on a Mac and described his workflow in his comprehensive post."
-8383,"WN439","Programming","Jochen Topf released the Osmium library 2.15.0, the Python bindings for Osmium PyOsmium, 2.15.0, the Osmium command line tool 1.10.0, and the OSMCoastline 2.2.1 program recently. The new Osmium library uses a lot less memory, with savings up to 50 percent. PyOsmium now uses PyBind11 internally to connect the C++ Osmium library instead of building on Boost as before. Jochen [explains](https://blog.jochentopf.com/2018-12-11-osmium-releases.html) further enhancements on his blog."
-12128,"WN519","Software","Sarah Hoffmann [announced](https://lists.openstreetmap.org/pipermail/dev/2020-June/030956.html) the release of osm2pgsql version 1.2.2. This is a bugfix release which updates the bundled libosmium only. It fixes an issue where osm2pgsql updates stalled on a large multipolygon [relation](https://overpass-turbo.eu/s/VIi)."
-13927,"WN558","Software","User rainerU [described](https://www.openstreetmap.org/user/rainerU/diary/396259) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg)  > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.openstreetmap.org/user/rainerU/diary/396259), how to filter OSM objects based on their tag history and the users involved using [Osmium](https://osmcode.org/osmium-tool) and Rory McCann's [osm-tag-csv-history](https://github.com/rory/osm-tag-csv-history)."
-16353,"WN628","OSM in action","New instructions for setting up a rendering server on Ubuntu 22.04 were [published](https://switch2osm.org/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/)  when that version of Ubuntu was released. In a diary entry, SomeoneElse [explained](https://www.openstreetmap.org/user/SomeoneElse/diary/399648) that setting up replication with `osm2pgsql` or `PyOsmium` and monitoring with `munin` is much easier now, as Ubuntu provides up to date packages for `osm2pgsql` and `osmium`, so that a manual build from source is not needed any more."
-17106,"WN650","Programming","[RGCosm](https://github.com/punnerud/rgcosm) is a new minimal 'Reverse Geocode for OpenStreetMap'. According to the developer's _Hacker News_ [announcement](https://news.ycombinator.com/item?id=34191433): '[ChatGPT](https://openai.com/blog/chatgpt/) wrote most of the code for me. Created it in about three hours, where the time is combined with creating the DB, and testing it with the rest of the code for a different project' (sqlite3 + python + [pyosmium](https://github.com/osmcode/pyosmium))."
-17225,"WN653","Software","Kshitij Raj Sharma has [created](https://github.com/kshitijrajsharma/OSMSG) 'OpenStreetMap Stats Generator', which uses osmium to analyse the change files from OSM and generate statistics in different file formats such as csv, json, and jpg. Results are also being [tweeted](https://twitter.com/stats_osm). A second bot follows the recent trends on OSM and [retweets](https://twitter.com/OSM_retweet_bot) the findings with hashtags #osm, #openstreetmap and #hotosm every three hours."
-19418,"WN713","Programming","Isaac Boates, with [help](https://wiki.openstreetmap.org/wiki/Karlsruhe_Hack_Weekend_February_2024) from the Karlsruhe Hack Weekend February 2024 attendees, has prepared several Docker images for various OSM-related utilities such as [osm2pgsql](https://hub.docker.com/repository/docker/iboates/osm2pgsql/general), [osmium](https://hub.docker.com/repository/docker/iboates/osmium/general), and [osm2pgrouting](https://hub.docker.com/repository/docker/iboates/osm2pgrouting)."
-19987,"WN726","Programming","Bulgent [provided](https://qiita.com/Bulgent/items/518a3bfa08eb9bdef476) :JA-s: >   [:EN-t:](https://qiita-com.translate.goog/Bulgent/items/518a3bfa08eb9bdef476?_x_tr_sl=auto&_x_tr_tl=EN) an introduction to using PyOsmium, a Python library for processing OpenStreetMap data. The post covers installation, basic usage, data extraction, geographic calculations, and GeoJSON output. He also contrasts PyOsmium with another library, Pyrosm, highlighting their respective strengths and weaknesses for different OSM data processing tasks."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",4
+6293,"WN393","Programming","Nakaner has released an Osmium-based C++ program called [PrepDelRels](https://github.com/Nakaner/prepdelrels) that determines which paths become unnecessary when deleting a relation.",4
+6729,"WN403","Programming","Jochen Topf [presents](https://blog.jochentopf.com/2018-04-03-new-osmium-releases.html) the innovation of Libosmium 2.14 and Osmium-Tool 1.8. Many bugs related to missing timestamps and other metadata fields have been fixed and the ability to write OSM files with only certain metadata fields was added.",4
+7094,"WN412","Community","Heikki Vesanto created a [presentation](https://gisforthought.com/history-of-openstreetmap-in-ireland/) for OSGeo Ireland, that shows the evolution of OSM there. He [published](https://gisforthought.com/creating-openstreetmap-history-visualisations/) a guide for creating your own animations with Python, PostgreSQL, osmium-tools and QGIS on his blog.",4
+7379,"WN419","Community","In his blog ""Maps Matter"" SK53 [wrote](http://sk53-osm.blogspot.com/2018/07/can-we-identify-completeness-of.html) about how the completeness of data in OSM can be estimated without using external datasets for comparison. The question becomes particularly important when thinking about the generation of Areas-of-Interest, which requires POIs to be reasonably complete. His idea is that the number of POIs over time should develop similarly to [Species Accumulation Curves](https://en.wikipedia.org/wiki/Species_discovery_curve)  (at first increasing slowly but then accelerating and finally leveling off ). The article details step by step his approach of investigating the question for shops in the UK using Overpass, Osmium and PostgreSQL. He concluded that there are still a lot of shops to be added, even in the best-mapped places. Some shop types, `shop=supermarket` and `shop=doityourself`, do show signs of slowdown. In terms of the number of distinct values for`shop=` he found the curve tailed off and suggests that the existing shop tags are sufficient to meet our tagging needs. Joost Schoope [pointed out](https://twitter.com/joostjakob/status/1024576295047491584) that a similar approach has already been used for roads.",4
+7437,"WN420","Community","Chetan Gowda [wrote](https://www.openstreetmap.org/user/Chetan_Gowda/diary/44577) an article describing how he used [Mapolution](https://github.com/osmcode/osmium-contrib/tree/master/mapolution) to visualise the evolution of OSM in different countries. He explained how to install the required software on a Mac and described his workflow in his comprehensive post.",4
+8383,"WN439","Programming","Jochen Topf released the Osmium library 2.15.0, the Python bindings for Osmium PyOsmium, 2.15.0, the Osmium command line tool 1.10.0, and the OSMCoastline 2.2.1 program recently. The new Osmium library uses a lot less memory, with savings up to 50 percent. PyOsmium now uses PyBind11 internally to connect the C++ Osmium library instead of building on Boost as before. Jochen [explains](https://blog.jochentopf.com/2018-12-11-osmium-releases.html) further enhancements on his blog.",4
+12128,"WN519","Software","Sarah Hoffmann [announced](https://lists.openstreetmap.org/pipermail/dev/2020-June/030956.html) the release of osm2pgsql version 1.2.2. This is a bugfix release which updates the bundled libosmium only. It fixes an issue where osm2pgsql updates stalled on a large multipolygon [relation](https://overpass-turbo.eu/s/VIi).",4
+13927,"WN558","Software","User rainerU [described](https://www.openstreetmap.org/user/rainerU/diary/396259) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg)  > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.openstreetmap.org/user/rainerU/diary/396259), how to filter OSM objects based on their tag history and the users involved using [Osmium](https://osmcode.org/osmium-tool) and Rory McCann's [osm-tag-csv-history](https://github.com/rory/osm-tag-csv-history).",4
+16353,"WN628","OSM in action","New instructions for setting up a rendering server on Ubuntu 22.04 were [published](https://switch2osm.org/serving-tiles/manually-building-a-tile-server-ubuntu-22-04-lts/)  when that version of Ubuntu was released. In a diary entry, SomeoneElse [explained](https://www.openstreetmap.org/user/SomeoneElse/diary/399648) that setting up replication with `osm2pgsql` or `PyOsmium` and monitoring with `munin` is much easier now, as Ubuntu provides up to date packages for `osm2pgsql` and `osmium`, so that a manual build from source is not needed any more.",4
+17106,"WN650","Programming","[RGCosm](https://github.com/punnerud/rgcosm) is a new minimal 'Reverse Geocode for OpenStreetMap'. According to the developer's _Hacker News_ [announcement](https://news.ycombinator.com/item?id=34191433): '[ChatGPT](https://openai.com/blog/chatgpt/) wrote most of the code for me. Created it in about three hours, where the time is combined with creating the DB, and testing it with the rest of the code for a different project' (sqlite3 + python + [pyosmium](https://github.com/osmcode/pyosmium)).",4
+17225,"WN653","Software","Kshitij Raj Sharma has [created](https://github.com/kshitijrajsharma/OSMSG) 'OpenStreetMap Stats Generator', which uses osmium to analyse the change files from OSM and generate statistics in different file formats such as csv, json, and jpg. Results are also being [tweeted](https://twitter.com/stats_osm). A second bot follows the recent trends on OSM and [retweets](https://twitter.com/OSM_retweet_bot) the findings with hashtags #osm, #openstreetmap and #hotosm every three hours.",4
+19418,"WN713","Programming","Isaac Boates, with [help](https://wiki.openstreetmap.org/wiki/Karlsruhe_Hack_Weekend_February_2024) from the Karlsruhe Hack Weekend February 2024 attendees, has prepared several Docker images for various OSM-related utilities such as [osm2pgsql](https://hub.docker.com/repository/docker/iboates/osm2pgsql/general), [osmium](https://hub.docker.com/repository/docker/iboates/osmium/general), and [osm2pgrouting](https://hub.docker.com/repository/docker/iboates/osm2pgrouting).",4
+19987,"WN726","Programming","Bulgent [provided](https://qiita.com/Bulgent/items/518a3bfa08eb9bdef476) :JA-s: >   [:EN-t:](https://qiita-com.translate.goog/Bulgent/items/518a3bfa08eb9bdef476?_x_tr_sl=auto&_x_tr_tl=EN) an introduction to using PyOsmium, a Python library for processing OpenStreetMap data. The post covers installation, basic usage, data extraction, geographic calculations, and GeoJSON output. He also contrasts PyOsmium with another library, Pyrosm, highlighting their respective strengths and weaknesses for different OSM data processing tasks.",4
 20282,"WN732","Programming","  ATTENTION  
 
 [Comment by Jochen Topf on our original text: ](https://weeklyosm.eu/de/archives/17392#comment-95460)
@@ -298,8 +298,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
   The follwoing text has been crossed out in WordPress  
 
-DevCodeF1 [explained](https://devcodef1.com/news/1350934/osm-data-export-with-bicycle-routes) how to export OpenStreetMap data with cycle route relationships using the Osmium tool and GeoJSON filters. Step-by-step instructions are provided on setting up Osmium, filtering for specific cycle routes using  Osmium tags-filter, and exporting data to GeoJSON format, including necessary options such as --drop-author and --drop-version to handle relations."
-20417,"WN735","Programming","Jochen Topf [discussed](https://blog.jochentopf.com/2024-08-15-out-of-memory.html) his experience with an 'out of memory' error that occurred while processing large datasets with the Osmium tool, explaining the technical challenges and his approach to debugging and resolving the problem, which included analysing memory usage and optimising code to handle large OpenStreetMap data more efficiently."
-20623,"WN740","Releases","Sarah Hoffmann [announced](https://www.openstreetmap.org/user/lonvia/diary/405152) the release of version 4 of pyosmium, a Python wrapper for the Osmium C++ library, used for reading, writing, and processing OSM data. This major update includes several new features, such as iterative processing, filter functions, and an OSM data writer with automatic reference completion."
+DevCodeF1 [explained](https://devcodef1.com/news/1350934/osm-data-export-with-bicycle-routes) how to export OpenStreetMap data with cycle route relationships using the Osmium tool and GeoJSON filters. Step-by-step instructions are provided on setting up Osmium, filtering for specific cycle routes using  Osmium tags-filter, and exporting data to GeoJSON format, including necessary options such as --drop-author and --drop-version to handle relations.",4
+20417,"WN735","Programming","Jochen Topf [discussed](https://blog.jochentopf.com/2024-08-15-out-of-memory.html) his experience with an 'out of memory' error that occurred while processing large datasets with the Osmium tool, explaining the technical challenges and his approach to debugging and resolving the problem, which included analysing memory usage and optimising code to handle large OpenStreetMap data more efficiently.",4
+20623,"WN740","Releases","Sarah Hoffmann [announced](https://www.openstreetmap.org/user/lonvia/diary/405152) the release of version 4 of pyosmium, a Python wrapper for the Osmium C++ library, used for reading, writing, and processing OSM data. This major update includes several new features, such as iterative processing, filter functions, and an OSM data writer with automatic reference completion.",4
 21438,"WN760","Programming","Sarah Hoffmann has been [selected](https://nominatim.org/2025/02/06/sovereign-tech-fellowship.html) for the one-year pilot of the [Sovereign Tech Fellowship](https://www.sovereign.tech/news/meet-the-sovereign-tech-fellows
-) programme by the Sovereign Tech Agency. The fellowship will provide support for the maintenance of Nominatim, Photon, [osm2pgsql](https://osm2pgsql.org/news/2025/02/06/sovereign-tech-fellowship.html), and pyosmium throughout the next year. Congratulations Sarah!"
+) programme by the Sovereign Tech Agency. The fellowship will provide support for the maintenance of Nominatim, Photon, [osm2pgsql](https://osm2pgsql.org/news/2025/02/06/sovereign-tech-fellowship.html), and pyosmium throughout the next year. Congratulations Sarah!",4
