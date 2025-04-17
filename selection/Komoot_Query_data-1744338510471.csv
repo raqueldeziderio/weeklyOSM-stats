@@ -1,4 +1,4 @@
-"id","blog","category","markdown"
+"id","blog","category","markdown","sg_id"
 2212,"WN309","Releases","| Software|Version|Release Date| Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android](http://www.mapillary.com/map)|[2.24](https://play.google.com/store/apps/details?id=app.mapillary)|2016-06-15|Some extensions and some bug fixes|
@@ -8,7 +8,7 @@
 |[Komoot iOS](https://www.komoot.de/)|[8.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-06-18|-|
 |[Komoot Android](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-06-19|-|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2372,"WN313","Releases","| Software|Version|Release date| Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|2.16.0|2016-07-08|No infos|
@@ -25,7 +25,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Mapillary iOS](http://www.mapillary.com/map)|[4.4.3](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-07-17|Some fixes|
 |[Naviki Android](https://www.naviki.org/naviki/)|[3.45](https://play.google.com/store/apps/details?id=org.naviki)|2016-07-18|Some improvements|
 
-provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)",12
 2820,"WN321","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-09-05|No info|
@@ -43,7 +43,7 @@ provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 2881,"WN322","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim)|[2.5.1](https://github.com/twain47/Nominatim/releases/tag/v.2.5.1)|2016-08-02|Bug fix release with minor fixes|
@@ -62,7 +62,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 2901,"WN323","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.24.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-09-19|Eleven new features & improvements, ten bugs fixed.|
@@ -82,7 +82,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3011,"WN324","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PostGIS](http://www.postgis.net)|[2.3.0](https://svn.osgeo.org/postgis/tags/2.3.0/ChangeLog)|2016-09-26|Support parallel processing when using PostgreSQL 9.6|
@@ -102,7 +102,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3026,"WN325","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Grass Gis](http://grass.osgeo.org/)|[7.0.5](https://grass.osgeo.org/news/63/15/GRASS-GIS-7-0-5-released/)|2016-10-02|150 stability fixes and manual improvements|
@@ -112,7 +112,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-10-10|No info|
 |[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.17](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-10-08|Two bugs fixed while transfering Images.|
 
-Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)."
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).",12
 3107,"WN326","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.49](https://play.google.com/store/apps/details?id=org.naviki)|2016-10-11|Layout revised, better bluetooth support, bugs fixed.|
@@ -127,7 +127,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3132,"WN327","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-10-18|Bug fix release|
@@ -144,7 +144,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3228,"WN328","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Graphhopper](https://graphhopper.com/)|[0.8](https://graphhopper.com/blog/2016/10/18/graphhopper-routing-engine-0-8-released/)|2016-10-18|Many changes, please read release info.|
@@ -162,7 +162,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
 
-( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3287,"WN330","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OSRM Backend](http://project-osrm.org/)|[5.4.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.4.3)|2016-11-08|Bugfix release.|
@@ -175,7 +175,7 @@ Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3357,"WN331","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.14](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-11-15|Various improvements.|
@@ -194,7 +194,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3471,"WN333","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[2.45.1](https://github.com/gravitystorm/openstreetmap-carto/compare/v2.45.0...v2.45.1)|2016-11-28|Fix svg regression.|
@@ -208,7 +208,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3494,"WN334","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.10](https://play.google.com/store/apps/details?id=app.mapillary)|2016-12-06|Upload stability features.|
@@ -222,7 +222,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3554,"WN335","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[PostGIS](http://www.postgis.net)|[2.3.1](https://svn.osgeo.org/postgis/tags/2.3.1/ChangeLog)|2016-11-26|Many changes. Please read release infos.|
@@ -239,7 +239,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3570,"WN336","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.16](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-20|Various improvements.|
@@ -259,7 +259,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 3642,"WN337","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.12](https://play.google.com/store/apps/details?id=app.mapillary)|2016-12-20|App install fix, stopping background upload service when finished.|
@@ -272,7 +272,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4020,"WN345","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[GeoWebCache](http://geowebcache.org/)|[10.1.2](http://geowebcache.org/docs/current/)|2017-02-20|No Infos.|
@@ -293,7 +293,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4166,"WN348","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.33](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-14|Fix bug in distance mode, upgrade map box map for more stability.|
@@ -312,7 +312,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4228,"WN349","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[QGIS](http://www.qgis.org)|[2.18.5](https://github.com/qgis/QGIS/releases/tag/final-2_18_5)|2017-02-24|No infos.|
@@ -330,7 +330,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-03-27 18:15:39+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4276,"WN350","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.17.12](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2017-03-28|Enhanced audio control, better search, performance improvements and bug fixes.|
@@ -350,7 +350,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-03 16:21:53+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4307,"WN351","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Osmium Tool](http://osmcode.org/osmium/)|[1.6.1](https://github.com/osmcode/osmium-tool/blob/master/CHANGELOG.md)|2017-03-06|Two changes and three fixes.|
@@ -371,7 +371,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-10 15:08:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4380,"WN353","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[3.2.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v3.1.0...v3.2.0)|2017-04-17|Many changes, please read release info.|
@@ -387,7 +387,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-04-24 16:37:53+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4421,"WN354","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[iOsMo](https://osmo.mobi/)|[1.7](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1147141327)|2017-04-24|Fixed issue with unhided screen keyboard on registration view, waypoints from group tracks now visible on map.|
@@ -399,7 +399,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-01 13:17:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4478,"WN355","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[JOSM](http://josm.openstreetmap.de/)|[12039](http://josm.openstreetmap.de/wiki/Changelog)|2017-05-02|See release infos.|
@@ -420,8 +420,8 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-08 20:24:45+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-4510,"WN356","Other Geo Things","On ápfelmagazin.de you can [read](http://www.apfelmagazine.de/sportlich-in-den-sommer-starten-tobias-hallermann-von-komoot-im-interview-gewinnspiel-14589/) ![(de)](http://blog.openstreetmap.de/wp-uploads//2016/12/de.svg) (automatic [translation](https://translate.google.com/translate?sl"
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
+4510,"WN356","Other Geo Things","On ápfelmagazin.de you can [read](http://www.apfelmagazine.de/sportlich-in-den-sommer-starten-tobias-hallermann-von-komoot-im-interview-gewinnspiel-14589/) ![(de)](http://blog.openstreetmap.de/wp-uploads//2016/12/de.svg) (automatic [translation](https://translate.google.com/translate?sl",12
 4498,"WN356","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Mapserver](http://mapserver.org)|[7.0.5](http://mapserver.org/development/changelog/changelog-7-0.html#changelog-7-0-5)|2017-05-09|Please read release info.|
@@ -442,7 +442,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-15 22:00:37+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4551,"WN357","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[GeoServer](http://geoserver.org/)|[2.11.1](https://osgeo-org.atlassian.net/jira/secure/ReleaseNote.jspa?projectId=10000&version=15800)|2017-05-19|37 bugfixes and some enhancements.|
@@ -463,7 +463,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-22 19:23:05+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4580,"WN358","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.26](https://docs.kurviger.de/app)|2017-05-17|Various improvements.|
@@ -481,7 +481,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-29 22:52:18+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4650,"WN359","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Naviki iOS&nbsp; ](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.60](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2017-05-16|Stability in recording increased, reports revised and bug fixes.|
@@ -495,7 +495,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-05 17:28:17+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4673,"WN360","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.28](https://docs.kurviger.de/app)|2017-06-05|Some enhancements.|
@@ -513,7 +513,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-13 00:32:52+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4726,"WN361","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-06-14|No infos.|
@@ -526,12 +526,12 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-19 14:20:12+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 4979,"WN365","Releases","- Jungle Bus 1.2 | 11.07.2017
 - Komoot Android 9.3 | 13.07.2017
 - Kurviger Free 1.1.5 | 13.07.2017
 - Mapillary Android 3.67 | 11.07.2017
-- OSM Contributor 3.0.5 | 12.07.2017"
+- OSM Contributor 3.0.5 | 12.07.2017",12
 5043,"WN366","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[Jungle Bus](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|[1.2.4](https://play.google.com/store/apps/details?id=io.jawg.osmcontributor.bus)|2017-07-20|No infos.|
@@ -548,7 +548,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-07-22 21:29:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 5086,"WN367","Releases","| Software|Version|Release date|Comment|
 | ------ | ----------- |----|----|
 |[GEOS](http://trac.osgeo.org/geos)|[3.6.2](http://trac.osgeo.org/geos/browser/git/NEWS?rev=3.6.2)|2017-07-25|Bug fixes.|
@@ -563,7 +563,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-08-01 17:41:55+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 5126,"WN368","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|07.08.2017|More details and added x-ray vision in router and horizontal format.|
@@ -577,7 +577,7 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-08 15:35:26+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
 5181,"WN369","Releases","| Software|Version|Release date|Changes|
 | ------ | ----------- |----|----|
 |[guide4you](https://github.com/KlausBenndorf/guide4you)|[2.2.3](https://github.com/KlausBenndorf/guide4you/releases)|2017-08-08|No infos.|
@@ -598,28 +598,28 @@ Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.ph
 
 Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-15 12:58:09+02 UTC
 
-( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
-6796,"WN404","Releases","Komoot's open geocoder Photon [reaches](https://github.com/komoot/photon/releases/tag/0.3.0) version 0.3.0, which includes major updates of software dependencies and a number of improvements on reverse geocoding, house number handling and location bias computing."
-7370,"WN418","Did you know that…","... photon? An [elasticsearch](http://elasticsearch.org/) based Geocoder, multilingual, typo tolerant and that supports auto-completion. Source code is available on [GitHub](https://github.com/komoot/photon) and an example implementation is running at [komoot](http://photon.komoot.de) who initiated his development. Download is available and the installation is very easy."
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html).",12
+6796,"WN404","Releases","Komoot's open geocoder Photon [reaches](https://github.com/komoot/photon/releases/tag/0.3.0) version 0.3.0, which includes major updates of software dependencies and a number of improvements on reverse geocoding, house number handling and location bias computing.",12
+7370,"WN418","Did you know that…","... photon? An [elasticsearch](http://elasticsearch.org/) based Geocoder, multilingual, typo tolerant and that supports auto-completion. Source code is available on [GitHub](https://github.com/komoot/photon) and an example implementation is running at [komoot](http://photon.komoot.de) who initiated his development. Download is available and the installation is very easy.",12
 7371,"WN418","Picture","![Logo](http://www.weeklyosm.eu/wp-content/uploads/2018/07/418_T_EN.png =950x547)
 
-Photon, typo tolerant, multilingual geocoder that supports auto-complete [^1^](#wn418_17952) | © Komoot © map data OpenStreetMap contributors"
+Photon, typo tolerant, multilingual geocoder that supports auto-complete [^1^](#wn418_17952) | © Komoot © map data OpenStreetMap contributors",12
 7375,"WN418","Releases","According to a [tweet](https://twitter.com/wambacher1/status/1020277600231489537) from wambacher, there are new versions for the following OSM-related software available: Komoot Android, Leaflet 1.3.3, Magic Earth iOS 4.1.0 and several Mapbox GL products.
-You can find these updates along with an almost endless list of OSM-related software and current versions in [Wambacher's software list](https://wambachers-osm.website/index.php/osm-software-watchlist)."
-7765,"WN425","Releases","Wambacher's OSM related software list [has been updated](https://wambachers-osm.website/index.php/osm-software-watchlist). Most recent version changes were Komoot Android, Mapbox Nav SDK , Mapillary Android, Naviki Android, QMapShack and Vespucci."
-8897,"WN449","Programming","The company Komoot, know for its OSM based cycling and hiking [app](https://www.komoot.com/) and the geocoder [Photon](https://photon.komoot.de/), has an open vacancy as [Backend Engineer](https://www.komoot.com/jobs/backend-engineer-routing)."
-13203,"WN542","Other Geo Things","Komoot, a German-based portal and app for outdoor activities which uses OSM, has had [a change in its share ownership](https://www.pocketnavigation.de/2020/11/komoot-lehnt-millionenangebot-von-oesterreichischem-investor-ab/) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.pocketnavigation.de/2020/11/komoot-lehnt-millionenangebot-von-oesterreichischem-investor-ab/). The state of Brandenburg's innovation fund (BFB Frühphasenfonds Brandenburg) originally supported the firm with a, reportedly, 1 million Euro investment for 15% of the share capital. This investment has now been realised, and has been sold, with both René Banko (of Karstadt Kaufhof) and Berlin-based June Fund expressing interest. The latter was successful."
-14136,"WN564","Mapping","Because of illegal Eifel routes on Komoot, the district of Düren and Komoot [met](https://www.aachener-zeitung.de/lokales/dueren/illegale-eifel-routen-auf-komoot-beschaeftigen-gericht_aid-57980003) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.aachener-zeitung.de/lokales/dueren/illegale-eifel-routen-auf-komoot-beschaeftigen-gericht_aid-57980003) in court (article unfortunately behind a paywall). The result of the negotiations is that joint solutions are being sought, Komoot is training national park administrations in OSM mapping and the district environmental office is now possibly contributing to OSM itself in order to improve the map and adapt the bicycle routing accordingly."
-14263,"WN567","OSM in the media","_Spiegel Netzwelt_ [compared](https://www.spiegel.de/netzwelt/apps/wandern-und-radfahren-diese-outdoor-apps-erleichtern-navigation-und-routenplanung-a-05a8826a-2b1b-456e-9c2c-d8a1230531c6) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.spiegel.de/netzwelt/apps/wandern-und-radfahren-diese-outdoor-apps-erleichtern-navigation-und-routenplanung-a-05a8826a-2b1b-456e-9c2c-d8a1230531c6) outdoor apps that make navigation and route planning easier. Whether the mountains are calling in summer or your bike is saddled, with Komoot, Outdooractive, BRouter and OsmAnd there will be an app for navigation and route planning."
-14844,"WN583","Mapping","Carl Myhill [complained](https://twitter.com/carlmyhill/status/1433718081482788864) to Komoot that it was routing cyclists in Richmond Park (London) on paths where cycling is forbidden, and subject to a £60 fine. Komoot requires formal notification of such issues and this was provided by the Royal Parks. In the UK ways mapped as track, service, or path cannot be assumed to allow any access mode other than private without other explicit tagging. Komoot, however, does not follow these defaults."
-14850,"WN584","Mapping","The German OSM chapter FOSSGIS [received](https://forum.openstreetmap.org/viewtopic.php?id=73886) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://forum.openstreetmap.org/viewtopic.php?id=73886) a complaint from the local authorities about the mapping of Mandichosee, a popular reservoir near Augsburg. A large increase in people intruding into an area dedicated for the  protection of breeding birds has occurred. This is partly due to features on OSM, and the way they are displayed in the Komoot application."
-16007,"WN616","Did you know that…","… [Acastus-Photon](https://github.com/gjedeer/Acastus), an address and POI lookup application for Android based on OpenStreetMap data? Available through [F-Droid](https://f-droid.org/packages/name.gdr.acastus_photon/), the app is said to be more reliable than other POI lookup solutions thanks to using [Photon](https://photon.komoot.io/), developed by the [Komoot](https://www.komoot.com/) team, as its default backend."
-16302,"WN626","Maps","European deputy Anna Deparnay-Grunenberg, [made official](https://bioveloroute.eu/) ![(de)](https://weeklyosm.eu/wp-content/uploads/2022/01/de.svg) / ![(fr)](https://weeklyosm.eu/wp-content/uploads/2022/01/fr.svg)  > [![en](https://weeklyosm.eu/wp-content/uploads/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://bioveloroute.eu/) the _Bio.Vélo.Route._, a cycle route from Stuttgart to Strasbourg celebrating the 60th anniversary of their town twinning. As shown on the website, the route made full use of OpenStreetMap data through [Komoot](https://www.komoot.com/tour/843854016) and [uMap](https://umap.openstreetmap.de/de/map/bioveloroute_24352). A route relation stub has been [created](https://www.openstreetmap.org/relation/14363923) and may benefit from contributions along it."
-17611,"WN664","Software","OpenStreetMap BaWü [names](https://en.osm.town/@OSM_tourism/110163577601646179) (via Mastodon) the OSM apps that are already available on HarmonyOS (the OS from Huawei): [OsmAnd](https://osmand.net/), [MapFactor](https://navigatorfree.mapfactor.com/de/), [MAPS.ME](https://maps.me/), [Naviki](https://www.naviki.org/de/naviki/), [Navmii](https://www.navmii.com/), and [Komoot](https://www.komoot.de/)."
-18868,"WN700","Software","As of the latest [update](https://apps.garmin.com/en-GB/apps/d918ae1e-9e7b-4fdf-b336-46141a0ccd6a) of Komoot's Garmin app, it now offers dedicated maps for Garmin devices. However, this function can only be used with a Premium subscription."
-19070,"WN704","OpenStreetMap Foundation","Komoot is now an official [Gold Corporate Member](https://en.osm.town/@openstreetmap/111737915099246806) of the OpenStreetMap Foundation."
-19461,"WN714","Software","komoot has [introduced](https://www.komoot.com/en-en/whats-new) a feature that allows users to save their home address in their profile for easier trip planning, answering a long-standing request from its community. This update makes it easier to start or end a trip from home."
-19989,"WN726","Other Geo Things","Komoot [released](https://www.komoot.com/de-de/whats-new) three major improvements in June. New route guidance ensures fewer interruptions. For road cyclists, the route planner now evaluates the road surfaces, guides to road bike-friendly routes, and reduces gravel sections. The new mountain bike router offers insider knowledge about the best trails."
-20509,"WN738","OSM in action","Tobias Jordans [noticed](https://en.osm.town/@tordans/113085290871285204) that Komoot has made it easier to show POIs, which can ease the planning of routes."
-21642,"WN765","OSM in the media","Telepolis [presented](https://www.telepolis.de/features/OpenStreetMap-Apps-fuer-Outdoor-Profis-Mehr-als-nur-Wanderkarten-10317933.html) :DE-s:>>>[:EN-t:](https://www-telepolis-de.translate.goog/features/OpenStreetMap-Apps-fuer-Outdoor-Profis-Mehr-als-nur-Wanderkarten-10317933.html?_x_tr_sl=de&_x_tr_tl=en) three advanced OpenStreetMap apps – OSMand, Komoot, and Gaia GPS – that support outdoor professionals with a range of features such as offline navigation, detailed route planning, and precise tracking for hiking, biking, and other outdoor activities."
-21681,"WN766","Other Geo Things","_Business Wire_ [reported](https://www.businesswire.com/news/home/20250320568940/en/Bending-Spoons-Acquires-komoot) that tech company Bending Spoons has completed its acquisition of Komoot, the Germany-based route-planning platform popular among adventurers and outdoor enthusiasts. However, the acquisition has raised concerns, with Ray Maker among those [questioning](https://www.dcrainmaker.com/2025/03/komoot-acquired-history-says-this-wont-end-well.html) Bending Spoons' track record with previous acquisitions such as Evernote, WeTransfer, and Meetup. As uncertainty looms, users and observers [worry](https://mas.to/@osma/114221722518564485) about the potential changes to Komoot’s quality and overall user experience under its new ownership."
+You can find these updates along with an almost endless list of OSM-related software and current versions in [Wambacher's software list](https://wambachers-osm.website/index.php/osm-software-watchlist).",12
+7765,"WN425","Releases","Wambacher's OSM related software list [has been updated](https://wambachers-osm.website/index.php/osm-software-watchlist). Most recent version changes were Komoot Android, Mapbox Nav SDK , Mapillary Android, Naviki Android, QMapShack and Vespucci.",12
+8897,"WN449","Programming","The company Komoot, know for its OSM based cycling and hiking [app](https://www.komoot.com/) and the geocoder [Photon](https://photon.komoot.de/), has an open vacancy as [Backend Engineer](https://www.komoot.com/jobs/backend-engineer-routing).",12
+13203,"WN542","Other Geo Things","Komoot, a German-based portal and app for outdoor activities which uses OSM, has had [a change in its share ownership](https://www.pocketnavigation.de/2020/11/komoot-lehnt-millionenangebot-von-oesterreichischem-investor-ab/) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.pocketnavigation.de/2020/11/komoot-lehnt-millionenangebot-von-oesterreichischem-investor-ab/). The state of Brandenburg's innovation fund (BFB Frühphasenfonds Brandenburg) originally supported the firm with a, reportedly, 1 million Euro investment for 15% of the share capital. This investment has now been realised, and has been sold, with both René Banko (of Karstadt Kaufhof) and Berlin-based June Fund expressing interest. The latter was successful.",12
+14136,"WN564","Mapping","Because of illegal Eifel routes on Komoot, the district of Düren and Komoot [met](https://www.aachener-zeitung.de/lokales/dueren/illegale-eifel-routen-auf-komoot-beschaeftigen-gericht_aid-57980003) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.aachener-zeitung.de/lokales/dueren/illegale-eifel-routen-auf-komoot-beschaeftigen-gericht_aid-57980003) in court (article unfortunately behind a paywall). The result of the negotiations is that joint solutions are being sought, Komoot is training national park administrations in OSM mapping and the district environmental office is now possibly contributing to OSM itself in order to improve the map and adapt the bicycle routing accordingly.",12
+14263,"WN567","OSM in the media","_Spiegel Netzwelt_ [compared](https://www.spiegel.de/netzwelt/apps/wandern-und-radfahren-diese-outdoor-apps-erleichtern-navigation-und-routenplanung-a-05a8826a-2b1b-456e-9c2c-d8a1230531c6) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.spiegel.de/netzwelt/apps/wandern-und-radfahren-diese-outdoor-apps-erleichtern-navigation-und-routenplanung-a-05a8826a-2b1b-456e-9c2c-d8a1230531c6) outdoor apps that make navigation and route planning easier. Whether the mountains are calling in summer or your bike is saddled, with Komoot, Outdooractive, BRouter and OsmAnd there will be an app for navigation and route planning.",12
+14844,"WN583","Mapping","Carl Myhill [complained](https://twitter.com/carlmyhill/status/1433718081482788864) to Komoot that it was routing cyclists in Richmond Park (London) on paths where cycling is forbidden, and subject to a £60 fine. Komoot requires formal notification of such issues and this was provided by the Royal Parks. In the UK ways mapped as track, service, or path cannot be assumed to allow any access mode other than private without other explicit tagging. Komoot, however, does not follow these defaults.",12
+14850,"WN584","Mapping","The German OSM chapter FOSSGIS [received](https://forum.openstreetmap.org/viewtopic.php?id=73886) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://forum.openstreetmap.org/viewtopic.php?id=73886) a complaint from the local authorities about the mapping of Mandichosee, a popular reservoir near Augsburg. A large increase in people intruding into an area dedicated for the  protection of breeding birds has occurred. This is partly due to features on OSM, and the way they are displayed in the Komoot application.",12
+16007,"WN616","Did you know that…","… [Acastus-Photon](https://github.com/gjedeer/Acastus), an address and POI lookup application for Android based on OpenStreetMap data? Available through [F-Droid](https://f-droid.org/packages/name.gdr.acastus_photon/), the app is said to be more reliable than other POI lookup solutions thanks to using [Photon](https://photon.komoot.io/), developed by the [Komoot](https://www.komoot.com/) team, as its default backend.",12
+16302,"WN626","Maps","European deputy Anna Deparnay-Grunenberg, [made official](https://bioveloroute.eu/) ![(de)](https://weeklyosm.eu/wp-content/uploads/2022/01/de.svg) / ![(fr)](https://weeklyosm.eu/wp-content/uploads/2022/01/fr.svg)  > [![en](https://weeklyosm.eu/wp-content/uploads/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://bioveloroute.eu/) the _Bio.Vélo.Route._, a cycle route from Stuttgart to Strasbourg celebrating the 60th anniversary of their town twinning. As shown on the website, the route made full use of OpenStreetMap data through [Komoot](https://www.komoot.com/tour/843854016) and [uMap](https://umap.openstreetmap.de/de/map/bioveloroute_24352). A route relation stub has been [created](https://www.openstreetmap.org/relation/14363923) and may benefit from contributions along it.",12
+17611,"WN664","Software","OpenStreetMap BaWü [names](https://en.osm.town/@OSM_tourism/110163577601646179) (via Mastodon) the OSM apps that are already available on HarmonyOS (the OS from Huawei): [OsmAnd](https://osmand.net/), [MapFactor](https://navigatorfree.mapfactor.com/de/), [MAPS.ME](https://maps.me/), [Naviki](https://www.naviki.org/de/naviki/), [Navmii](https://www.navmii.com/), and [Komoot](https://www.komoot.de/).",12
+18868,"WN700","Software","As of the latest [update](https://apps.garmin.com/en-GB/apps/d918ae1e-9e7b-4fdf-b336-46141a0ccd6a) of Komoot's Garmin app, it now offers dedicated maps for Garmin devices. However, this function can only be used with a Premium subscription.",12
+19070,"WN704","OpenStreetMap Foundation","Komoot is now an official [Gold Corporate Member](https://en.osm.town/@openstreetmap/111737915099246806) of the OpenStreetMap Foundation.",12
+19461,"WN714","Software","komoot has [introduced](https://www.komoot.com/en-en/whats-new) a feature that allows users to save their home address in their profile for easier trip planning, answering a long-standing request from its community. This update makes it easier to start or end a trip from home.",12
+19989,"WN726","Other Geo Things","Komoot [released](https://www.komoot.com/de-de/whats-new) three major improvements in June. New route guidance ensures fewer interruptions. For road cyclists, the route planner now evaluates the road surfaces, guides to road bike-friendly routes, and reduces gravel sections. The new mountain bike router offers insider knowledge about the best trails.",12
+20509,"WN738","OSM in action","Tobias Jordans [noticed](https://en.osm.town/@tordans/113085290871285204) that Komoot has made it easier to show POIs, which can ease the planning of routes.",12
+21642,"WN765","OSM in the media","Telepolis [presented](https://www.telepolis.de/features/OpenStreetMap-Apps-fuer-Outdoor-Profis-Mehr-als-nur-Wanderkarten-10317933.html) :DE-s:>>>[:EN-t:](https://www-telepolis-de.translate.goog/features/OpenStreetMap-Apps-fuer-Outdoor-Profis-Mehr-als-nur-Wanderkarten-10317933.html?_x_tr_sl=de&_x_tr_tl=en) three advanced OpenStreetMap apps – OSMand, Komoot, and Gaia GPS – that support outdoor professionals with a range of features such as offline navigation, detailed route planning, and precise tracking for hiking, biking, and other outdoor activities.",12
+21681,"WN766","Other Geo Things","_Business Wire_ [reported](https://www.businesswire.com/news/home/20250320568940/en/Bending-Spoons-Acquires-komoot) that tech company Bending Spoons has completed its acquisition of Komoot, the Germany-based route-planning platform popular among adventurers and outdoor enthusiasts. However, the acquisition has raised concerns, with Ray Maker among those [questioning](https://www.dcrainmaker.com/2025/03/komoot-acquired-history-says-this-wont-end-well.html) Bending Spoons' track record with previous acquisitions such as Evernote, WeTransfer, and Meetup. As uncertainty looms, users and observers [worry](https://mas.to/@osma/114221722518564485) about the potential changes to Komoot’s quality and overall user experience under its new ownership.",12
