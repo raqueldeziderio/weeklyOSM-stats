@@ -6,9 +6,9 @@ Statistical files for the weeklyOSM, initially static and considering the number
 > 
 > For more information, please refer to <https://www.gnu.org/licenses/gpl-3.0.pt-br.htm>
 > 
-> How to refer this dataset: SOUTO, R.D. weeklyOSM-stats. Available at https://github.com/raqueldeziderio/weeklyOSM-stats. GPL 3.0.
+> How to refer this research: SOUTO, R.D. weeklyOSM-stats. Available at https://github.com/raqueldeziderio/weeklyOSM-stats. GPL 3.0.
 > 
-> This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto. Colaborate to this research: Strubbl, derFred and TheFive.
+> This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto. Colaborated to this research: Strubbl, derFred and TheFive.
 > 
 > About the OSM-Wochennotiz (weeklyOSM): [Issue #1, on July 23, 2010](https://blog.openstreetmap.de/blog/2010/07/osm-wochennotiz-nr-1/) [actual domain](https://weeklyosm.eu/).
 > 
