@@ -50,15 +50,14 @@ These statistics can be a *proxy* for understanding the use of OSM-related softw
 ### Initial file
 
 * Considering only EN version - principal version that is translated to the other 14 languages.
-   768 issues, being: 
-         WN001 a WN271 - without articles (markdown column) - desconsidered, because of the initial weeklyOSM workflow that 
+   768 issues, being:
+  
+* WN001 a WN271 - without articles (markdown column) - desconsidered, because of the initial weeklyOSM workflow that 
          was different of today.    
 
-         WN272 to WN768 - considered to this analysis
+* WN272 to WN768 - considered to this analysis
 
-35 categories
-   
-21.864 - total dataset
+* 35 categories and 21.864 records (articles)
   
 ### Initial cleaning
 
