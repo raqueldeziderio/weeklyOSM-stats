@@ -1,4 +1,7 @@
 Statistics for the weeklyOSM issues from WN272 (29/09/2015-05/10/2015) to WN768 (03/04/2025-09/04/2025)
+(this work is under development)
+
+Description of files:
 
 * article_per_category....csv  (number of articles per weeklyOSM's category)
 
