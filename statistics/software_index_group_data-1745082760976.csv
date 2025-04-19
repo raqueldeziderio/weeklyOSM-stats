@@ -1,0 +1,84 @@
+"index_group_id","name","desc_sg","sg_id","sg_stats_id","ndoc","count","index_group"
+1,"achavi","data quality",6,1,3,223,1.34529147982063
+2,"BBBike","data extraction",5,2,17,177,9.6045197740113
+3,"Carto API","API",3,3,40,261,15.3256704980843
+4,"CyclOSM","OSM based service",11,4,10,1031,0.969932104752667
+5,"EveryDoor","mobile editor",9,5,35,485,7.21649484536082
+6,"F4map","3D model",1,6,12,26,46.1538461538462
+7,"FacilMap","OSM based service",11,7,6,1031,0.5819592628516
+8,"Field Papers","desktop editor",7,8,12,1163,1.03181427343078
+9,"Geofabrik","data extraction",5,9,69,177,38.9830508474576
+10,"GeoNotes","notes editor",10,10,3,8,37.5
+11,"Geotools","library",8,11,4,219,1.82648401826484
+12,"Go Map","mobile editor",9,12,6,485,1.23711340206186
+13,"GraphHopper","routing",12,13,61,359,16.991643454039
+14,"HDX","data extraction",5,14,8,177,4.51977401129944
+15,"iD","desktop editor",7,15,310,1163,26.6552020636285
+16,"JOSM","desktop editor",7,16,431,1163,37.0593293207223
+17,"KartaView","street level imagery       ",13,17,43,424,10.1415094339623
+18,"Komoot","routing",12,18,58,359,16.1559888579387
+19,"Leaflet","library",8,19,116,219,52.9680365296804
+20,"Level0","desktop editor",7,20,10,1163,0.859845227858985
+21,"Locus Map","routing",12,21,41,359,11.4206128133705
+22,"Mapbox","OSM based service",11,22,502,1031,48.6905916585839
+23,"Mapbox GL","API",3,23,53,261,20.3065134099617
+24,"MapComplete","mobile editor",9,24,65,485,13.4020618556701
+25,"Mapilio","street level imagery       ",13,25,7,424,1.65094339622642
+26,"Mapillary","street level imagery       ",13,26,309,424,72.877358490566
+27,"MapLibre","OSM based service",11,27,47,1031,4.55868089233754
+28,"MapRoulette","desktop editor",7,28,165,1163,14.1874462596733
+29,"Maps.me","mobile editor",9,29,70,485,14.4329896907216
+30,"MapSwipe","mobile editor",9,30,32,485,6.5979381443299
+31,"Merkaartor","desktop editor",7,31,7,1163,0.60189165950129
+32,"Nominatim","API",3,32,73,261,27.9693486590038
+33,"OGR","library",8,33,5,219,2.28310502283105
+34,"OpenAEDMap","OSM based service",11,36,6,1031,0.5819592628516
+35,"OpenAerialMap","aerial imagery",2,37,23,23,100
+36,"OpenCycleMap","OSM based service",11,38,13,1031,1.26091173617847
+37,"OpenHistoricalMap","OSM based service",11,39,21,1031,2.0368574199806
+38,"Open Infrastructure Map","OSM based service",11,34,11,1031,1.06692531522793
+39,"OpenLayers","library",8,40,49,219,22.3744292237443
+40,"OpenMapTiles","OSM based service",11,41,28,1031,2.71580989330747
+41,"OpenPoiMap","OSM based service",11,42,3,1031,0.2909796314258
+42,"OpenRailwayMap","OSM based service",11,43,23,1031,2.23084384093113
+43,"OpenRouteService","OSM based service",11,44,94,1031,9.11736178467507
+44,"OpenSeaMap","OSM based service",11,45,3,1031,0.2909796314258
+45,"Open Source Routing Machine","OSM based service",11,35,57,1031,5.5286129970902
+46,"OpenTopoMap","OSM based service",11,46,23,1031,2.23084384093113
+47,"Organic Maps","mobile editor",9,47,78,485,16.0824742268041
+48,"osm2pgsql","conversor",4,54,70,139,50.3597122302158
+49,"OsmAnd","routing",12,55,166,359,46.2395543175487
+50,"OSM API","API",3,48,26,261,9.96168582375479
+51,"OSM Buildings","3D model",1,49,14,26,53.8461538461538
+52,"OSMCha","data quality",6,56,48,223,21.52466367713
+53,"OSMGo","mobile editor",9,57,5,485,1.03092783505155
+54,"OSM History Analytics","data quality",6,50,89,223,39.9103139013453
+55,"OSM History Viewer","routing",12,51,3,359,0.835654596100279
+56,"OSM Inspector","data quality",6,52,8,223,3.58744394618834
+57,"osmium","conversor",4,58,45,139,32.3741007194245
+58,"OSM Note Viewer","notes editor",10,53,5,8,62.5
+59,"Osmose","data quality",6,59,53,223,23.7668161434978
+60,"osmosis","conversor",4,60,8,139,5.75539568345324
+61,"OSMstats","data quality",6,61,16,223,7.17488789237668
+62,"OSMTracker","mobile editor",9,62,5,485,1.03092783505155
+63,"overpass API","API",3,63,68,261,26.0536398467433
+64,"overpass turbo","data extraction",5,64,71,177,40.1129943502825
+65,"overpass ultra","data extraction",5,65,12,177,6.77966101694915
+66,"Panoramax","street level imagery       ",13,66,65,424,15.3301886792453
+67,"Pic4Review","desktop editor",7,67,6,1163,0.515907136715391
+68,"PokemonGO","OSM based service",11,68,15,1031,1.454898157129
+69,"PostGIS","library",8,69,45,219,20.5479452054795
+70,"Potlatch","desktop editor",7,70,20,1163,1.71969045571797
+71,"PyOsmium","conversor",4,71,16,139,11.5107913669065
+72,"Rapid","desktop editor",7,72,82,1163,7.05073086844368
+73,"SketchMap","desktop editor",7,73,9,1163,0.773860705073087
+74,"StreetComplete","mobile editor",9,74,114,485,23.5051546391753
+75,"TagFinder","tagging",14,75,1,53,1.88679245283019
+76,"Taginfo","tagging",14,76,52,53,98.1132075471698
+77,"Tasking Manager","desktop editor",7,77,141,1163,12.1238177128117
+78,"uMap","OSM based service",11,78,162,1031,15.7129000969932
+79,"uNav","routing",12,79,11,359,3.06406685236769
+80,"Valhalla","routing",12,80,19,359,5.2924791086351
+81,"Vespucci","mobile editor",9,81,76,485,15.6701030927835
+82,"WaterwayMap","OSM based service",11,82,7,1031,0.678952473326867
+83,"Who Did It","data quality",6,83,6,223,2.69058295964126
