@@ -2,9 +2,7 @@
 
 Statistical files for the weeklyOSM, initially static and considering the numbers WN272 (29/09/2015-05/10/2015) to WN768 (03/04/2025-09/04/2025).
 
-> Disclaimer:
-> 
-> This datasets is licensed under the GPL 3.0.
+> Disclaimer: these datasets is licensed under the GPL 3.0.
 > 
 > For more information, please refer to <https://www.gnu.org/licenses/gpl-3.0.pt-br.htm>
 > 
