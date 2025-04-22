@@ -3,4 +3,4 @@ Selection of some resources from the weeklyOSM dataset from WN272 (29/09/2015-05
 
 TO REFER THIS DATASET:
 
-Raquel Dezidério Souto. (2025). weeklyOSM - WN272 to WN768 - selected software articles [Data set]. GPL-3.0. Rio de Janeiro: IVIDES DATA, 2025. https://doi.org/10.5281/zenodo.15263669
+Raquel Dezidério Souto. (2025). weeklyOSM - WN272 to WN768 - selected software articles [Data set]. GPL-3.0. Rio de Janeiro: IVIDES DATA, 2025. https://doi.org/10.5281/zenodo.15263668
