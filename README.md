@@ -1,5 +1,7 @@
 # weeklyOSM-stats
 
+---
+
 Statistical files for the weeklyOSM, initially static and considering the numbers WN272 (29/09/2015-05/10/2015) to WN768 (03/04/2025-09/04/2025).
 
 > Disclaimer: these datasets are licensed under the GPL 3.0.
@@ -11,7 +13,17 @@ Statistical files for the weeklyOSM, initially static and considering the number
 > This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto. Colaborated to this research: Strubbl, derFred and TheFive.
 > 
 > About the OSM-Wochennotiz (weeklyOSM): [Issue #1, on July 23, 2010](https://blog.openstreetmap.de/blog/2010/07/osm-wochennotiz-nr-1/) [actual domain](https://weeklyosm.eu/).
-> 
+>
+
+---
+
+# Some initial results
+
+
+## [Participation of the selected softwares in its software group](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graphs_software_in_group) [graphics, EN]
+
+## [Participação dos softwares selecionados no grupo de softwares](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graficos_software_no_grupo) [gráficos, PT]
+
 
 ## Scope and general objective
 
