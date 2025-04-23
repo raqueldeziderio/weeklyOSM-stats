@@ -10,6 +10,8 @@ Estes arquivos mostram a participação no weeklyOSM de softwares selecionados, 
 
 SOUTO, R.D. weeklyOSM-stats. Available at https://github.com/raqueldeziderio/weeklyOSM-stats. GPL 3.0. [https://doi.org/10.5281/zenodo.15264138](https://doi.org/10.5281/zenodo.15264138)
 
+Para ver os arquivos, clique em <code>.
+
 
 > Esta análise está em desenvolvimento. Para entrar em contato sobre esta iniciativa: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto. Colaboraram nesta pesquisa: Strubbl, derFred and TheFive. 
 
