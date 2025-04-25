@@ -54,6 +54,8 @@ These statistics can be a *proxy* for understanding the use of OSM-related softw
   
 
   <https://software.wambachers-osm.website/>
+
+  <https://wiki.openstreetmap.org/wiki/Editor_usage_stats>
   
 
 * The .csv files has these overall delimiters: comma (,) for records and double quote (") for quote and scape.
