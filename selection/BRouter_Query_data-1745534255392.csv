@@ -1,0 +1,153 @@
+"id","blog","category","markdown"
+3401,"WN332","Did you know that …","... the [BRouter-Web-Client](http://brouter.de/brouter-web/#zoom=14&lat=51.69634&lon=7.02266&layer=OpenStreetMap.de&lonlats=6.989493,51.6666%7C6.999954,51.67009%7C6.996907,51.673606%7C6.997325,51.674075%7C6.998645,51.67669%7C6.994311,51.681337%7C6.993806,51.682355%7C7.001542,51.685488%7C7.011745,51.689219%7C7.031765,51.696947%7C7.041442,51.698696%7C7.060229,51.702895%7C7.065593,51.699727%7C7.06849,51.69987%7C7.078553,51.7022%7C7.081354,51.699667%7C7.088574,51.69982%7C7.090956,51.697167&nogos=&profile=trekking&alternativeidx=0&format=geojson) to schedule your next ride?"
+222,"WN274","Programming","On October 18th, 2015 a fresh [BRouter](http://brouter.de/brouter/) version [1.3.1](http://brouter.de/brouter/revisions.html) was released.
+Compared to version 1.2 many enhancements and some bugfixes are included."
+279,"WN276","Programming","On November 1st, 2015 [BRouter](http://brouter.de/brouter/) version [1.3.2](http://brouter.de/brouter/revisions.html) was released."
+1849,"WN303","Releases","| Software|Version|Release Date| Comment|
+| ------ | ----------- |----|----|
+|[iD](http://ideditor.com/)|[1.9.4](https://github.com/openstreetmap/iD/blob/master/CHANGELOG.md)|2016-05-03|-|
+|[JOSM](http://josm.openstreetmap.de/)|[10168](http://josm.openstreetmap.de/wiki/Changelog)|2016-05-03|-|
+|[BRouter](http://brouter.de/brouter/)|[1.4.1](http://brouter.de/brouter/revisions.html)|2016-05-09|Turning Instructions|
+|[OSRM Backend](http://project-osrm.org/)|[5.1.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.1.0)|2016-05-09|Bug fix release|
+
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+1993,"WN305","Releases","| Software|Version|Release Date| Comment|
+| ------ | ----------- |----|----|
+|[BRouter](http://brouter.de/brouter/)|[1.4.2](http://brouter.de/brouter/revisions.html)|2016-05-16|Turning instructions changed|
+|[Cruiser for Android](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.6](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-05-18|Renamed from Atlas|
+|[SQLite](http://www.sqlite.org/)|[3.13.0](http://www.sqlite.org/releaselog/3_13_0.html)|2016-05-18|9 Improvements and 4 bugs fixed|
+|[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.2.5](-)|2016-05-19|Renamed from Atlas|
+|[QGIS](http://www.qgis.org)|[2.14.3](https://raw.githubusercontent.com/qgis/QGIS/final-2_14_3/ChangeLog)|2016-05-20|-|
+|[Locus Map Free](http://www.locusmap.eu/)|[3.17.2](http://www.locusmap.eu/news-version-3-17-0)|2016-05-22|-|
+
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+2533,"WN316","Releases","| Software|Version|Release date| Comment|
+| ------ | ----------- |----|----|
+|[QGIS](http://www.qgis.org)|2.16.1|2016-07-29|No infos|
+|[Locus Map Free](http://www.locusmap.eu/)|3.18.6|2016-08-03|Changes in internal cache, many fixes|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|2.42.0|2016-08-03|No infos|
+|[GeoServer](http://geoserver.org/)|[2.9.1](https://osgeo-org.atlassian.net/jira/secure/ReleaseNote.jspa?projectId=10000&version=13001)|2016-08-04|Some improvements and 41 bugs fixed|
+|[libosmium](http://osmcode.org/libosmium/)|[2.8.0](https://github.com/osmcode/libosmium/releases)|2016-08-04|New EWKT support, some improvements and bugs fixed|
+|[OSRM Backend](http://project-osrm.org/)|[5.3.1](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.3.1)|2016-08-04|2 bugs fixed|
+|[Magic Earth](http://www.generalmagic.com/magic-earth/)|[7.1.16.37](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-08-05|Bug fixes and stability improvements|
+|[BRouter](http://brouter.de/brouter/)|[1.4.3](http://brouter.de/brouter/revisions.html)|2016-08-06|Changes in the profiles and a bugfix|
+|[Cruiser for Android](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.10](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-08-07|Various improvements, updated map and routing engines|
+|[Cruiser for Desktop](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.10|2016-08-08|No infos|
+|[PyOsmium](http://osmcode.org/pyosmium/)|[2.8](https://github.com/osmcode/pyosmium/releases)|2016-08-08|Adjustments to libosmium|
+|[SQLite](http://www.sqlite.org/)|[3.14.0](http://www.sqlite.org/releaselog/3_14_0.html)|2016-08-08|19 Improvements and enhancements, 3 bugs fixed|
+
+provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software)"
+2695,"WN319","Releases","| Software|Version|Release date| Comment|
+| ------ | ----------- |----|----|
+|[Maps.me iOS  ](http://maps.me)|[6.3.3](https://itunes.apple.com/app/id510623322)|2016-08-18|Search fixed, new map data|
+|[Osmose Backend](https://wiki.openstreetmap.org/wiki/Osmose)|[1.0-2016-08-22](https://github.com/osm-fr/osmose-backend/releases)|2016-08-22|No info|
+|[Mapillary iOS  ](http://www.mapillary.com/map)|[4.4.10](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-08-23|iOS 10 support, bug fixed|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.23.0](https://github.com/mapbox/mapbox-gl-js/releases)|2016-08-24|Five new functions, performance enhancements and some bugs fixed|
+|[ODL Studio](http://www.opendoorlogistics.com/software/)|[1.3.5](http://www.opendoorlogistics.com/odl-studio-v1-3-5-released)|2016-08-24|Update notifyer, two bugs fixed|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.7](http://vespucci.io/help/en/0.9.7%20Release%20notes/)|2016-08-24|Too much, please read release info|
+|[Locus Map Free  ](http://www.locusmap.eu/)|3.18.7|2016-08-25|BRouter configuration, some fixes|
+|[Maps.me Android  ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-08-25|GPS error fixed, new map data|
+|[QGIS](http://www.qgis.org)|2.16.2|2016-08-26|No infos|
+|[OpenLayers](http://openlayers.org/)|[3.18.1](https://github.com/openlayers/ol3/releases/tag/v3.18.1)|2016-08-29|Patch of the recently published 3.18.0|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+2742,"WN320","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[BRouter](http://brouter.de/brouter/)|[1.4.4](http://brouter.de/brouter/revisions.html)|2016-08-29|Performance improvements, added mtb:scale:uphill|
+|[Locus Map Free ](http://www.locusmap.eu/)|3.18.9|2016-08-29|Some bugs fixed|
+|[OpenLayers](http://openlayers.org/)|[3.18.2](https://github.com/openlayers/ol3/releases/tag/v3.18.2)|2016-08-29|Bug closing polygons resolved|
+|[Naviki Android ](https://www.naviki.org/naviki/)|[3.47](https://play.google.com/store/apps/details?id=org.naviki)|2016-08-30|Layout, zoom and translation revised, eliminated errors and increased stability |
+|[Naviki iOS ](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|[3.47](https://itunes.apple.com/de/app/naviki-das-fahrrad-navi/id371645683)|2016-08-30|Layout, zoom, translation revised  and increased stability |
+|[OSRM Backend](http://project-osrm.org/)|[5.3.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.3.3)|2016-09-01|Four bugfixes. E.g. crashes because of segfaults.|
+|[Mapillary iOS ](http://www.mapillary.com/map)|[4.4.11](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-09-02|Added support for LG 360 camera and support for Russian|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.7r1155](http://vespucci.io/help/en/0.9.7%20Release%20notes/)|2016-09-02|No info|
+|[JOSM](http://josm.openstreetmap.de/)|[10966](http://josm.openstreetmap.de/wiki/Changelog)|2016-09-05|New expert function ""Download in current view"" in File menu, more improvements|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+2820,"WN321","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-09-05|No info|
+|[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.11](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-09-06|Routing enhancements, added hill shading|
+|[Cruiser for Desktop&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.11|2016-09-06|No infos|
+|[Merkaartor](http://merkaartor.be/)|[0.18.3](http://merkaartor.be/news)|2016-09-06|Mac OS X, improved download, relation filter and many bug fixed.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.47.1](https://play.google.com/store/apps/details?id=org.naviki)|2016-09-06|Fixed bug after pausing recording or navigation.|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[2.43.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v2.42.0...v2.43.0)|2016-09-06|Please read info.|
+|[Mapnik](http://mapnik.org/)|[3.0.12](https://github.com/mapnik/mapnik/blob/master/CHANGELOG.md#3012)|2016-09-08|Many changes. Please read changelog.|
+|[BRouter](http://brouter.de/brouter/)|[1.4.5](http://brouter.de/brouter/revisions.html)|2016-09-10|Performance improvements, two bugs fixed.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.3.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-09-10|Two bugs fixed.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.12](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-09-10|Updated Russian, disconnectable image stabilization|
+|[Traccar Server](https://www.traccar.org/server/)|[3.7](https://www.traccar.org/blog/category/releases/)|2016-09-10|No Info|
+|[MapFactor Navigator Free&nbsp; ](http://navigatorfree.mapfactor.com)|[2.2](https://play.google.com/store/apps/details?id=com.mapfactor.navigator)|2016-09-12|Many extensions and fixes, see release info.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3011,"WN324","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[PostGIS](http://www.postgis.net)|[2.3.0](https://svn.osgeo.org/postgis/tags/2.3.0/ChangeLog)|2016-09-26|Support parallel processing when using PostgreSQL 9.6|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-09-28|Swipe-to-pause gesture and minor improvements.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-09-28|Modifications for iOS 10|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.15](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-09-28|Two bugs fixed.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-09-28| Height profiles for pedestrians and cyclists, improvement of search and map editor.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[6.4.3](https://itunes.apple.com/app/id510623322)|2016-09-28| Height profiles for pedestrians and cyclists, improvement of search and map editor.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1200](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/0.9.8r1200)|2016-09-28|No information.|
+|[PostgreSQL](http://www.postgresql.org/)|[9.6.0](https://www.postgresql.org/docs/9.6/static/release-9-6.html)|2016-09-29|Highliht: Parallel support, please read release info.|
+|[BRouter](http://brouter.de/brouter/)|[1.4.6](http://brouter.de/brouter/revisions.html)|2016-09-30|Improved memory footprint, tweaked recalculation timeout logic. |
+|[Leaflet](http://leafletjs.com/)|[1.0.1](https://github.com/Leaflet/Leaflet/blob/master/CHANGELOG.md)|2016-09-30|Completely revised version, please read release information.|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.16.39](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-09-30|No specific information.|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.25.1](https://github.com/mapbox/mapbox-gl-js/releases)|2016-09-30|Bug fix of the currently released version v0.25.0|
+|[Traccar Client Android&nbsp;?](https://www.traccar.org/client/)|[3.12](https://www.traccar.org/blog/category/releases/)|2016-10-01|Fix some small issues.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[2.42](https://play.google.com/store/apps/details?id=app.mapillary)|2016-10-03|Bug fixes with login, signup and camera when receiving calls.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3132,"WN327","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-10-18|Bug fix release|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.16.42](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-10-18|Current speed, speed limits and speed camera warnings, improved management of alternative routes|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.18](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-10-18|Added support for Ricoh Theta S,  improved support for OSC v1 cameras and some more changes.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2..1.1](https://github.com/mapzen/lost/releases/tag/lost-2.1.0)|2016-10-18|Fixes connection state not being updated until after callbacks invoked.|
+|[BRouter](http://brouter.de/brouter/)|[1.4.7](http://brouter.de/brouter/revisions.html)|2016-10-19|Added turncost and `oneway:bicycle=true`, two bugs fixed.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1204](http://vespucci.io/help/en/0.9.8%20Release%20notes/)|2016-10-19|See release info.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.0](https://play.google.com/store/apps/details?id=app.mapillary)|2016-10-20|User interface and navigation is completely redesigned and rebuilt, support for older Android devices and some more ""big changes"".|
+|[OpenLayers](http://openlayers.org/)|[3.19.0](https://github.com/openlayers/ol3/releases/tag/v3.18.2)|2016-10-21|Vector fills will rotate, freehand mode enhanced, Styles can now easily be cloned.|
+|[QGIS](http://www.qgis.org)|[2.18.0](https://github.com/qgis/QGIS/releases/tag/final-2_16_3)|2016-10-21|No infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-10-24|Bug fixes and new map data.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[6.4.4](https://itunes.apple.com/app/id510623322)|2016-10-24|Bug fixes and new map data.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3494,"WN334","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.10](https://play.google.com/store/apps/details?id=app.mapillary)|2016-12-06|Upload stability features.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.52.2](https://play.google.com/store/apps/details?id=org.naviki)|2016-12-07|Some bug fixes.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-12-08|Minor enhancements.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.5.9](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-12-08|Added time based capture, compass tweaks.|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.16.49](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-12-09|No info.|
+|[BRouter](http://brouter.de/brouter/)|[1.4.8](http://brouter.de/brouter/revisions.html)|2016-12-10|Added turn restrictions and some fixes.|
+|[OpenLayers](http://openlayers.org/)|[3.20.0](https://github.com/openlayers/ol3/releases/tag/v3.20.0)|2016-12-10|This release includes enhancements and fixes from 89 pull requests since the previous release.|
+|[Traccar Server](https://www.traccar.org/server/)|[3.9](https://www.traccar.org/blog/category/releases/)|2016-12-10|No Info.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+7855,"WN427","Software","The [Suspect Lists](http://brouter.de:443/brouter/suspects) of [BRouter](https://wiki.openstreetmap.org/wiki/BRouter), that can help finding errors and inconsistencies in the road network, are now available worldwide."
+14263,"WN567","OSM in the media","_Spiegel Netzwelt_ [compared](https://www.spiegel.de/netzwelt/apps/wandern-und-radfahren-diese-outdoor-apps-erleichtern-navigation-und-routenplanung-a-05a8826a-2b1b-456e-9c2c-d8a1230531c6) ![(de)](https://blog.openstreetmap.de/wp-uploads/2016/12/de.svg) > [![en](https://weeklyosm.eu/wp-content/uploads/sites/4/2020/09/en-green.svg)](https://translate.google.com/translate?sl=auto&tl=EN&u=https://www.spiegel.de/netzwelt/apps/wandern-und-radfahren-diese-outdoor-apps-erleichtern-navigation-und-routenplanung-a-05a8826a-2b1b-456e-9c2c-d8a1230531c6) outdoor apps that make navigation and route planning easier. Whether the mountains are calling in summer or your bike is saddled, with Komoot, Outdooractive, BRouter and OsmAnd there will be an app for navigation and route planning."
+16281,"WN625","Software","Natenom [described](https://blog.natenom.com/2022/07/steigungen-beim-routing-mit-osmand-beruecksichtigen-mit-und-ohne-brouter/) ![(de)](https://weeklyosm.eu/wp-content/uploads/2022/01/de.svg)  in his blog how to include gradients when calculating routes using OsmAnd with and without the BRouter app installed."
+16531,"WN633","Software","BRouter was [featured](https://news.ycombinator.com/item?id"
+17927,"WN674","Education","Branko Kokanovic recorded a video that explains how to use BRouter and Strava heatmaps to create the best routes for your next bike or hike tour. More details can be found in his [OSM diary](https://www.openstreetmap.org/user/Branko%20Kokanovic/diary/401772) or directly in the how-to [video](https://peertube.openstreetmap.fr/w/56SduK2wYnnUesnSroucbd)."
+19660,"WN718","OSM in action","[euroPathfinder](https://www.openstreetmap.org/user/euroPathfinder) and [Barthwo](https://www.openstreetmap.org/user/Barthwo), two active mappers, took part in the seminar '[Route 3.0](https://www.deutschertourismusverband.de/fileadmin/user_upload/Themen/Qualitaet/Qualitaetskriterien_digitale_Touren.pdf) :DE-s: and OpenStreetMap' at the invitation of the [Saarland Tourist Board](https://www.urlaub.saarland/Media/Das-sind-wir/Das-TZS-Team) :EN-s:>>>[:EN-t:](https://www-urlaub-saarland.translate.goog/Media/Das-sind-wir/Das-TZS-Team?_x_tr_sl=auto&_x_tr_tl=EN). In their blog post euroPathfinder briefly [presented](https://www.openstreetmap.org/user/euroPathfinder/diary/403987) :DE-s:>>>[:EN-t:](https://www-openstreetmap-org.translate.goog/user/euroPathfinder/diary/403987?_x_tr_sl=auto&_x_tr_tl=EN)  [Thomas Froitzheim's](https://www.openstreetmap.org/user/tof99) seminar, in which Saarland tourism experts were trained to check the correct mapping of hiking and cycling tour routes in OSM. The tools used were [uMap](https://umap.openstreetmap.de/de/map/mittelweser-region_33033), [BRouter Web](https://brouter.de/brouter-web/#map=9/49.3699/6.7758/osm-mapnik-german_style), [GPX Viewer](https://www.j-berkemeier.de/GPXViewer/) and [WayMarkedTrails](https://waymarkedtrails.org/)."
+19797,"WN721","Software","Marcus Jaschen [announced](https://www.marcusjaschen.de/blog/2024/2024-19/) :DE-s:>>>[:EN-t:](https://www-marcusjaschen-de.translate.goog/blog/2024/2024-19/?_x_tr_sl=auto&_x_tr_tl=EN) several updates to the [bikerouter.de](https://bikerouter.de/) website, an OpenStreetMap-based bicycle routing app [derived](https://github.com/mjaschen) from brouter-web. These updates include a migration of the web server from Nginx to Caddy, a migration of the server to an ARM64-based architecture, and a migration of the operating system to Ubuntu 24.04."
+19868,"WN723","Software","Alex Cojocaru's pull request for BRouter-Web [used](https://github.com/nrenner/brouter-web/pull/781) the updated geodata exchange library to improve the calculation of gradients by eliminating the 200 m segmentation, improving the accuracy and readability of elevation profiles."
+21189,"WN754","Software","^[1]^ GNU/Linux\.ch [introduced](https://gnulinux.ch/routen-planen-mit-brouter) :DE-s: >>>   [:EN-t:](https://gnulinux-ch.translate.goog/routen-planen-mit-brouter?_x_tr_sl=auto&_x_tr_tl=EN) the [BRouter](https://brouter.de/brouter-web) as a versatile route planning tool based on OpenStreetMap, suitable for various transport modes including walking, cycling, and driving. With features such as route customisation, elevation profiles, no-go zones, and export options, it offers flexibility and functionality for users on desktops or mobile devices."
+21220,"WN754","Picture","![lead picture](https://weeklyosm.eu/wp-content/uploads/2025/01/754.png =958x806)
+
+GNU/Linux.ch dedicates an article to BRouter-Web  [[^1^](#wn754_32005)] | © GNU/Linux.ch || Map data ©  [OpenStreetMap contributors](https://wiki.osmfoundation.org/wiki/Licence/Licence_and_Legal_FAQ)"
+21337,"WN757","Software","A new round trip function for [BRouter](https://brouter.de/brouter-web/) has been [proposed](https://github.com/abrensch/brouter/pull/759), adding customisable parameters for starting direction, round-trip distance, and route behaviours like allowing the same path for return trips. This feature enables users to generate tailored circular routes, improving flexibility for navigation and routing tasks."
+21485,"WN761","Community","Damien [reviewed](https://framablog.org/2021/02/12/a-velo-avec-la-carto-osm/) :FR-s:>>>[:EN-t:](https://framablog-org.translate.goog/2021/02/12/a-velo-avec-la-carto-osm/?_x_tr_sl=auto&_x_tr_tl=EN) several mapping applications that might be useful for cycling activities, such as OsmAnd, Waymarked Trails, OpenCampingMap, BRouter, GeoVelo, and StreetComplete."

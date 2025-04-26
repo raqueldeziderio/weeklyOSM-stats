@@ -1,0 +1,203 @@
+"id","blog","category","markdown"
+75,"WN272","Maps","On [OpenStreetMap.org](http://www.openstreetmap.org/directions?engine=mapzen_foot&route=51.5813%2C7.2702%3B51.5660%2C7.1995#map=14/51.5743/7.2347) tomhughes has integrated the Mapzen routing engine. (via [github](https://github.com/openstreetmap/openstreetmap-website/commit/e54eadea95296a68044bd3f2b092b978a808f1b7))
+"
+226,"WN275","Other Geo Things","Peter Richardson [explains](https://mapzen.com/blog/escape-from-mercator) in Mapzen's blog other than Mercator projections with some Tangram based animated graphics and maps.
+"
+633,"WN281","Mapping","A [Mapzen blog](https://mapzen.com/blog/targeted-editing-no-name-roads) encourages us to improve the awesomeness of  OSM data by naming un-named segments of roads. A tool is provided to help you to locate relevant roads which need to be named."
+641,"WN281","Other Geo Things","Mapzen has introduced [three new pretty styles](https://mapzen.com/blog/introducing-refill-cinnabar-and-zinc-styles-for-tangram) based on their Vector Tiles service."
+658,"WN281","Other Geo Things","In an [open letter](ttps://mapzen.com/blog/an-open-letter-to-audi-ag-bmw-group-and-daimler-ag) Mapzen CEO, Randy Meech, asks Audi, BMW and Dailmer to consider opening HERE data and also to enable user editing of the data. Matt Amos [explains](https://mapzen.com/blog/an-open-letter-mapzens-ceo) why he feels the proposal is not particularly constructive."
+693,"WN282","Mapping","Mapzen's ""Targeted Editing"" this time is focussed on [schools](https://mapzen.com/blog/targeted-editing-school-polygons) with the subtitle: ""For schools, polygons are twice as nice!"""
+748,"WN283","Open Data","In their new series, [Meaningful Geocoding](https://mapzen.com/blog/meaningful-geocoding-address-search-the-two-core-principles-of-geocoding), Mapzen shares the principles and practices of geocoding that they are incorporating in building [Pelias](https://github.com/pelias/pelias), their open source geocoder that powers their search entirely on open data."
+799,"WN284","Other Geo Things","Mapzen has a Christmas present for all the users who have asked for a [batch geocoder](http://holidaysearch.mapzen.com) ;-)"
+1131,"WN290","Community","Matt Amos [writes](https://mapzen.com/blog/station-relations) at Mapzen blog about attempts to derive the relevance of railway stations from route and stop area relations."
+1138,"WN290","Community","[Geraldine Sarmiento](https://mobile.twitter.com/sensescape) cartographer at Mapzen shows in [a blog entry](https://mapzen.com/blog/lines) how different lines styles make different maps."
+1166,"WN290","Maps","Mapzen [enhanced](https://mapzen.com/blog/narrative-shape-up) the output of their route guidance, which also improves the routing on the main site."
+1194,"WN291","Community","'[Targeted Editing - Tailgate Mania](https://mapzen.com/blog/targeted-editing-tailgate-mania)', a blog by Mapzen encourages people to add parking areas, parking aisles and access points to OpenStreetMap."
+1241,"WN292","Mapping","To inspire you to take you through your New Year’s fitness resolution, Mapzen writes a [blog](https://mapzen.com/blog/new-years-resolutions-fitness) encouraging people to map more fitness centres in their cities."
+1326,"WN293","Programming","According to the mapzen.com's [blog](https://mapzen.com/blog/inside-libpostal), [libpostal](https://github.com/openvenues/libpostal) is a new fast statistical parser/normalizer for street addresses around the world."
+1391,"WN294","Maps","In Mapzen's company blog you can read about the [new features](https://mapzen.com/blog/vector-tiles-v0-8-preview) of Mapzen's vector tile service. Feedback is appreciated."
+1464,"WN295","Mapping","With Spring break upon us, Mapzen [writes](https://mapzen.com/blog/new-years-resolutions-travel) about helping fellow travel-resolution enthusiasts by adding hotels and other types of lodging to OpenStreetMap."
+1426,"WN295","Mapping","[International Women's Day](http://www.internationalwomensday.com/) was celebrated in different ways, including pledging for parity,  [encouraging](https://mapzen.com/blog/international-womens-day-and-osm) learning and [mapping](http://wiki.openstreetmap.org/wiki/Tagging_in_Support_of_Women_and_Girls) with respect to female related POIs and tags."
+1495,"WN296","Mapping","Mapzen's [blog](https://mapzen.com/blog/targeted-editing-transit-colours) contains an article about the transit lines in OSM and how useful it is to add relevent colours to them.  Also - before clicking on the link - can you guess which capital city has the most transit route relations?"
+1485,"WN296","Software","Mapzen [publishes](https://mapzen.com/blog/erasermap-beta) the beta of ""eraser map"", an app for users specially focused on privacy."
+1555,"WN297","Maps","Mapzen [describes](https://mapzen.com/blog/mapping-mountains) their new elevation tilesets, how they were created, which data sources were involved and what has to be kept in mind while creating such tiles."
+1771,"WN301","Other Geo Things","CartoDB and Mapzen have [announced](http://gisuser.com/2016/04/cartodb-partners-with-mapzen-to-provide-next-generation-location-data-services/) a technology and commercialization partnership."
+1923,"WN304","Programming","Mapzen's routing software Valhalla now offers multi-modal public transport routing. A blog post [introduces](https://mapzen.com/blog/transit-routing/) the product (for customers), a second blog post [explains](https://mapzen.com/blog/introducing-mapzen-mobility/) the technical background."
+1963,"WN305","Mapping","In Mapzen's blog series of targeted editing, Indy Hurts has a focus on [cycleway mapping](https://mapzen.com/blog/targeted-editing-cycleways/)."
+2129,"WN308","Other Geo Things","An [article](https://www.wired.com/2016/06/transit-nerds-get-handy-new-tool-easily-turning-data-apps/) in Wired about Transitland, which collects and standardizes real-time public data sets for public transport. This service, offered by mapping platform Mapzen, provides developers with public transport data of more than 200 regions."
+2256,"WN310","Other Geo Things","Mapzen is [hiring](https://mapzen.com/jobs/tiles-engineer/) a ""_tiles engineer_"" in San Francisco or New York.  Experience with OpenStreetmap is apparently a ""bonus""!"
+2232,"WN310","Programming","Mapzen was able to ""[prevent a new war](https://mapzen.com/blog/assult-on-copenhagen/)"" between Sweden and Denmark (due to their geocoder misclassifying Copenhagen as in Sweden)."
+2327,"WN312","Maps","Geraldine Sarmiento [plays](https://mapzen.com/blog/sphere-maps/) with ""sphere mapping"" and tests it with different textures."
+2399,"WN313","Programming","Inspired by Pokémon Go John Oram [describes](https://mapzen.com/blog/augmented-reality/) how to create a map in Pokémon Go style with Tangram."
+2398,"WN313","Programming","Mapillary and Mapzen [both](http://blog.mapillary.com/update/2016/07/14/meili.html) [report](https://mapzen.com/blog/mapillary/) about their collaborative effort to match Mapillary data with OpenStreetMap with their tool called Meili. However, neither article evaluates the license-wise occurring problems due to OSM's share-alike."
+2418,"WN314","Maps","Mapzen [shows](https://mapzen.com/data/metro-extracts-alt/) on a map, which of its produced extracts get downloaded most often."
+2471,"WN315","Community","Michal Migurski [explains in his blog](http://mike.teczno.com/notes/openstreetmap-at-a-crossroads.html) why we don't need ""craft mappers"" any longer, and why we should surrender those duties to Mapzen, Facebook and the like.  Apparently ""Facebook’s efforts here are a quantum leap in seeing from a distance"" (though incidentally in [Thailand](http://forum.openstreetmap.org/viewtopic.php?pid=593364#p593364) their efforts had to be completely reverted and significant problems have been identified with their edits in [Egypt](http://www.openstreetmap.org/user/Chetan_Gowda/diary/39149)).  It's worth reading the full text, if only for Joost Schouppe's excellent comments."
+2590,"WN317","Programming","Mapzen [elaborates](https://mapzen.com/blog/access-denied/) about its routing service [Valhalla](https://github.com/valhalla) and how it provides country-specific access restrictions for pedestrians. For this, the library [ Mjolnir ]((https://github.com/valhalla/mjolnir)) is used to create tiled routing data."
+2759,"WN320","Humanitarian OSM","Microsoft and Mapzen have built a [Augmented reality app](https://mapzen.com/blog/microsoft-cities-unlocked/) which is a navigation system for visually impaired people. It was presented at the SotM-US as well."
+2789,"WN321","Programming","Mapzen has [set up](https://mapzen.com/blog/a-routing-engine-of-ones-own/) a Personal Package Archives or PPAs for Ubuntu for its routing engine Valhalla. This makes it possible to install Valhalla with a simple `apt-get` command."
+2883,"WN322","Other Geo Things","Peter Richardson of Mapzen [reported](https://mapzen.com/blog/tangram-heightmapper/) in his blog post as he generates 3D models with heightmapper from Mapzen's high-quality open-source terrain data."
+2943,"WN323","Programming","On AWS there's a new public and free [digital elevation model](https://aws.amazon.com/de/blogs/publicsector/announcing-terrain-tiles-on-aws-a-qa-with-mapzen/) which was created with Mapzen's help out of different free data sources."
+2967,"WN324","Did you know that …","… the Android library [Lost](https://mapzen.com/blog/open-source-location-services-with-lost/) by Mapzen? It is a free replacement for the proprietary Location APIs which are part of Google Play Services."
+3036,"WN325","Programming","Mapzen [published](https://mapzen.com/blog/libpostal/) a new API called Libpostal to expand address data into component parts (like house number, street, city etc.)."
+3083,"WN326","Programming","Mapzen has [updated](https://mapzen.com/blog/updated-house-styles/) its House styles. There are improvements on label priority and positioning."
+3107,"WN326","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.49](https://play.google.com/store/apps/details?id=org.naviki)|2016-10-11|Layout revised, better bluetooth support, bugs fixed.|
+|[GeoServer](http://geoserver.org/)|[2.9.2](http://blog.geoserver.org/2016/10/12/geoserver-2-9-2-released/)|2016-10-12|Better Mac OS support, 30 bugs fixed, many improvements.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.19.0](http://www.locusmap.eu/news-version-3-19-0/)|2016-10-12|New maps and some fixes.|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[2.44.1](https://github.com/gravitystorm/openstreetmap-carto/compare/v2.44.0...v2.44.1)|2016-10-12|Please read info.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-10-13|Adjustments and performance enhancements for Android 7|
+|[Mapbox GL JS](https://wiki.openstreetmap.org/wiki/Mapbox_GL)|[v0.26.0](https://github.com/mapbox/mapbox-gl-js/releases/tag/v0.26.0)|2016-10-13|Six new functions, better performance and some bugs fixed.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1204](https://github.com/MarcusWolschon/osmeditor4android/releases/tag/0.9.8r1204)|2016-10-13|No informations.|
+|[SQLite](http://www.sqlite.org/)|[3.15.0](http://www.sqlite.org/releaselog/3_15_0.html)|2016-10-14|Eight extensions and five bugs fixes.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2..1.0](https://github.com/mapzen/lost/releases/tag/lost-2.1.0)|2016-10-17|Four new funtions, four bugs fixed.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3166,"WN327","Programming","Mapzen [published](https://mapzen.com/blog/terrain-tile-service/) Version 1.0 of their Tilelayer with worldwide elevation data."
+3132,"WN327","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[8.4.1](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2016-10-18|Bug fix release|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.16.42](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2016-10-18|Current speed, speed limits and speed camera warnings, improved management of alternative routes|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.4.18](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-10-18|Added support for Ricoh Theta S,  improved support for OSC v1 cameras and some more changes.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2..1.1](https://github.com/mapzen/lost/releases/tag/lost-2.1.0)|2016-10-18|Fixes connection state not being updated until after callbacks invoked.|
+|[BRouter](http://brouter.de/brouter/)|[1.4.7](http://brouter.de/brouter/revisions.html)|2016-10-19|Added turncost and `oneway:bicycle=true`, two bugs fixed.|
+|[Vespucci](https://github.com/MarcusWolschon/osmeditor4android)|[0.9.8r1204](http://vespucci.io/help/en/0.9.8%20Release%20notes/)|2016-10-19|See release info.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.0](https://play.google.com/store/apps/details?id=app.mapillary)|2016-10-20|User interface and navigation is completely redesigned and rebuilt, support for older Android devices and some more ""big changes"".|
+|[OpenLayers](http://openlayers.org/)|[3.19.0](https://github.com/openlayers/ol3/releases/tag/v3.18.2)|2016-10-21|Vector fills will rotate, freehand mode enhanced, Styles can now easily be cloned.|
+|[QGIS](http://www.qgis.org)|[2.18.0](https://github.com/qgis/QGIS/releases/tag/final-2_16_3)|2016-10-21|No infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-10-24|Bug fixes and new map data.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[6.4.4](https://itunes.apple.com/app/id510623322)|2016-10-24|Bug fixes and new map data.|
+
+Provided by the [OSM Software Watchlist](https://osm.wno-edv-service.de/index.php/osm-software).
+
+( ) unfree software. See [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3323,"WN330","Programming","Mapzen [describes](https://mapzen.com/blog/behind-the-scenes-tron2/) the background of the programming of the Tangram engine with new features to import, among other things, the new TRON 2.0 styles."
+3375,"WN331","Programming","On the occasion of the second anniversary of the routing engine Valhalla, Mapzen [summarizes](https://mapzen.com/blog/valhalla-2.0/) the highlights, introduces the developer team behind it and announces the version 2.0 of Valhalla."
+3457,"WN333","Maps","A tutorial [explains](https://mapzen.com/blog/tangram-labels/) how to add labels on a map using [mapzen.js](https://mapzen.com/documentation/mapzen-js/) and [Tangram](https://mapzen.com/documentation/tangram/)."
+3554,"WN335","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[PostGIS](http://www.postgis.net)|[2.3.1](https://svn.osgeo.org/postgis/tags/2.3.1/ChangeLog)|2016-11-26|Many changes. Please read release infos.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2.1.2](https://github.com/mapzen/lost/releases/tag/lost-2.1.2)|2016-12-08|Five bugs fixed.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2016-12-14|Minor enhancements.|
+|[Cruiser for Android&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|[1.4.15](https://play.google.com/store/apps/details?id=gr.talent.cruiser)|2016-12-15|Various improvements.|
+|[Cruiser for Desktop&nbsp; ](https://wiki.openstreetmap.org/wiki/Cruiser)|1.2.15|2016-12-15|Offline Routing.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.5.10](https://itunes.apple.com/us/app/mapillary/id757286802)|2016-12-15|Compass fix for editor.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2016-12-16|Bug fixes and new map data.|
+|[osm2pgsql&nbsp;?](https://github.com/openstreetmap/osm2pgsql)|[0.92.0](https://lists.openstreetmap.org/pipermail/dev/2016-July/029370.html)|2016-12-16|Many changes, please read release info.|
+|[OSRM Backend](http://project-osrm.org/)|[5.5.1](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.5.1)|2016-12-16|Bugfixes of just released 5.5.0.|
+|[QGIS](http://www.qgis.org)|[2.18.2](https://github.com/qgis/QGIS/releases/tag/final-2_18_2)|2016-12-16|No info.|
+|[QMapShack Lin/Mac/Win](https://bitbucket.org/maproom/qmapshack/wiki/Home)|1.7.2|2016-12-16|No info.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+3666,"WN338","Maps","On the [CES 2017](http://www.ces.tech/), Mapzen tried to attract customers with a [3D print](https://twitter.com/mapzen/status/817501159103418369?s=09)."
+3646,"WN338","Other Geo Things","The [Open Traffic Partnership](http://military-technologies.net/2017/01/08/open-traffic-data-to-revolutionize-transport/) (OTP) is an initiative in Manila, Philippines which aims to make use of anonymized GPS data to analyze traffic congestion. The partnership has led to an open source platform - OSM is represented by Mapzen - that enables developing countries to record and analyze traffic patterns. Alyssa Wright, President of the US OpenStreetMap Foundation, said: ""The partnership seeks to improve the efficiency and effectiveness of global transport use and supply through open data and capacity expansion."""
+3730,"WN339","Other Geo Things","[Examples](https://mapzen.com/blog/made-with-mapzen/) of using OpenStreetMap data and Mapzen tools in news companies."
+3844,"WN341","Maps","Mapzen [reported](https://mapzen.com/blog/basemap-style-update/) in their blog about graphical changes that their maps (style) offer and also regarding API keys."
+3835,"WN341","OSM in action","Mapzen now [supplies](https://mapzen.com/blog/tizen/) map data for all smart devices with the operating system [Tizen](https://en.wikipedia.org/wiki/Tizen)."
+3956,"WN343","Maps","The LA Times [published](https://github.com/datadesk/web-map-maker) their code to generate web based maps using Mapzen's Tangram."
+3988,"WN344","Maps","Mapzen [added](https://twitter.com/weeklyOSM/status/830097873719025664) a new feature to the Who’s On First Spelunker: the [Bundler](https://mapzen.com/blog/bundler/). Now, after you selected a place, downloading a GeoJSON blob containing all its descendants with selectable categories is a few clicks away!"
+4047,"WN345","Programming","Mapzen [announced](https://mapzen.com/blog/interpolation/) their new address interpolation system. It used in the open source geocoder [Pelias](https://github.com/pelias/pelias), which is therefore used by the Mapzen Search."
+4077,"WN346","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[2.2.0](https://github.com/mapzen/lost/releases/tag/lost-2.2.0)|2016-12-08|Many changes, please read release info.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.6.8](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-03-01|Gui modifications, added image direction to the standard EXIF tags.|
+|[Magic Earth&nbsp; ](http://www.generalmagic.com/magic-earth/)|[7.1.17.9](https://play.google.com/store/apps/details?id=com.generalmagic.magicearth)|2017-03-02|Points-of-interest categories, improved pinch zooming, French, Italian, Dutch, Portuguese, Swedish, Greek, Chinese, Japanese, Arabic, Farsi, Czech and Romanian, Bug fixes and more.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-03-02|Bug fixed, actual map data.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.1.5](https://itunes.apple.com/app/id510623322)|2017-03-02|Updated map data.|
+|[OSM Contributor](https://play.google.com/store/apps/details?id=io.mapsquare.osmcontributor)|[3.0.3](https://play.google.com/store/apps/details?id=io.mapsquare.osmcontributor)|2017-03-02|No infos.|
+|[OSRM Backend](http://project-osrm.org/)|[5.6.2](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.6.2)|2017-03-03|Some bugfixes.|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.31](https://play.google.com/store/apps/details?id=app.mapillary)|2017-03-06|New and performance-optimized camera implementation, share button in photo view.|
+|[Overpass Api](http://www.overpass-api.de/)|osm3s-v0.7.54 |2017-03-06|Some bugfixes.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software).
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4132,"WN347","Maps","Mapzen now [offers](https://mapzen.com/blog/bike-map/) a map style for cycling. European readers have to answer the question themselves if this map design can compete with the long-standing experience and work of all those cycling mappers/developers in Europe. ;-)"
+4261,"WN350","Programming","David Valdmann [writes](https://mapzen.com/blog/curved-labels/) in the Mapzen blog about the curved lettering, which were introduced with Tangram.js 0.12."
+4321,"WN351","Programming","Mapzen [presents](https://mapzen.com/blog/libpostal-1-0/) a new, fast and accurate parser for address input."
+4379,"WN353","Other Geo Things","Mapzen [expands](https://mapzen.com/blog/neighbourhood-updates-two/) the Who's On First Neighbourhoods post, presenting the work-flow, sources and a status report."
+4580,"WN358","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[10.0.26](https://docs.kurviger.de/app)|2017-05-17|Various improvements.|
+|[OpenStreetMap Carto Style](https://github.com/gravitystorm/openstreetmap-carto)|[4.0.0](https://github.com/gravitystorm/openstreetmap-carto/compare/v3.3.1...v4.0.0)|2017-05-22|No infos.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[3.0.0](https://github.com/mapzen/lost/releases/tag/lost-3.0.0)|2017-05-25|Many changes, please read release info.|
+|[PyOsmium](http://osmcode.org/pyosmium/)|[2.12.3](https://github.com/osmcode/pyosmium/releases)|2017-05-25|One new feature  and two bugfixes.|
+|[SQLite](http://www.sqlite.org/)|[3.19.2](http://www.sqlite.org/releaselog/3_19_0.html)|2017-05-25|Bugfix release.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.3.4](https://itunes.apple.com/app/id510623322)|2017-05-26|Bugfix release.|
+|[QGIS](http://www.qgis.org)|[2.18.9](https://github.com/qgis/QGIS/releases/tag/final-2_18_9)|2017-05-26|No infos.|
+|[Overpass-Turbo](http://overpass-turbo.eu/)|[2017-05-28](https://github.com/tyrasd/overpass-turbo/blob/master/CHANGELOG.md)|2017-05-28|Many changes during the last days, please read release infos.|
+|[JOSM](http://josm.openstreetmap.de/)|[12275](http://josm.openstreetmap.de/wiki/Changelog)|2017-05-29|Minor enhancements.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[var](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-05-29|No infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-05-29|Compacter map data, new map style for driving, transliteration into Latin.|
+|[OSRM Backend](http://project-osrm.org/)|[5.7.3](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.7.3)|2017-05-29|Bugfix release.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-05-29 22:52:18+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4810,"WN362","Releases","| Software|Version|Release date|Comment|
+| ------ | ----------- |----|----|
+|[Mapillary Android&nbsp; ](http://www.mapillary.com/map)|[3.61](https://play.google.com/store/apps/details?id=app.mapillary)|2017-06-14|Next fix of stray images upload problems.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[3.0.1](https://github.com/mapzen/lost/releases/tag/lost-3.0.1)|2017-06-19|Bugfix release.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu/)|[3.24.2](http://www.locusmap.eu/news-version-3-24.2)|2017-06-20|No Infos.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[var](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-06-21|No Infos.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.3.6](https://itunes.apple.com/app/id510623322)|2017-06-21|Bugfix release.|
+|[OSRM Backend](http://project-osrm.org/)|[5.8.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v5.8.0)|2017-06-21|Many changes, please read release info.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.7.4](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-06-22|Two bugs fixed.|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[1.1.1](https://docs.kurviger.de/changelog)|2017-06-23|Mapzen map: several improvements, Mapstyle: Kurviger style is the default style.|
+|[QGIS](http://www.qgis.org)|[2.18.10](https://github.com/qgis/QGIS/releases/tag/final-2_18_10)|2017-06-23|No infos.|
+|[Overpass-Turbo](http://overpass-turbo.eu/)|[2017-06-25](https://github.com/tyrasd/overpass-turbo/blob/master/CHANGELOG.md)|2017-06-25|Many changes during the last days, please read release infos.|
+|[guide4you](https://github.com/KlausBenndorf/guide4you)|[2.0.5](https://github.com/KlausBenndorf/guide4you/releases/tag/v2.0.5)|2017-06-26|No Infos.|
+|[Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim)|[3.0.0](https://github.com/twain47/Nominatim/releases/tag/v3.0.0)|2017-06-26|New database format. Please read release info.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software). Timestamp: 2017-06-26 18:14:22+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+4846,"WN363","OSM in action","Mapzen [presents](https://mapzen.com/blog/osmlr-2nd-technical-preview/) a second technical preview of OSMLR. It ""provides a stable linear-referencing system atop the ever-changing network of roadways in OpenStreetMap. It’s used by the Open Traffic platform to associate statistics like speeds and vehicle counts with roadway segments. And it has many more possible uses, beyond just traffic statistics"". A preview build is also announced."
+4913,"WN364","Maps","Mapzen used the [tangram engine](https://mapzen.com/products/tangram/) to produce a futuristic-looking 3D map. Especially in large cities, the design looks like as it were from a science fiction movie. See [New York](http://tangrams.github.io/tangram-docs/?procedural/tronish.yaml#16/40.7071/-74.0075) or [Birmingham](http://tangrams.github.io/tangram-docs/?procedural/tronish.yaml#16/52.4785/-1.8970)."
+4988,"WN365","Other Geo Things","Mapzen [now offers](https://mapzen.com/blog/map-matching/) map matching, which ""takes in a trajectory of latitude/longitude coordinates and returns back a route line that is snapped to the OpenStreetMap road network and enriched with attributes, like speed limits and freeway exit signs."""
+5109,"WN368","Other Geo Things","At Mapzen, Dan Phiffer [blogs](https://mapzen.com/blog/geotagging-wof-venues/) about geotagging Who’s On First venues. An in-depth tutorial with various caveats explored."
+5181,"WN369","Releases","| Software|Version|Release date|Changes|
+| ------ | ----------- |----|----|
+|[guide4you](https://github.com/KlausBenndorf/guide4you)|[2.2.3](https://github.com/KlausBenndorf/guide4you/releases)|2017-08-08|No infos.|
+|[JOSM](https://josm.openstreetmap.de)|[12545](https://josm.openstreetmap.de/wiki/Changelog#stable-release-17.08)|2017-08-15|Added Java 9 compatibility. Please read Changelog for more infos.|
+|[Komoot Android&nbsp; ](https://www.komoot.de/)|[9.3](https://play.google.com/store/apps/details?id=de.komoot.android)|2017-08-13|No infos.|
+|[Komoot iOS&nbsp; ](https://www.komoot.de/)|[9.3](https://itunes.apple.com/de/app/komoot-fahrrad-outdoor-routenplaner/id447374873)|2017-08-14|Added iPad support, horizontal format, more map details and height indicator.|
+|[Kurviger Free&nbsp; ](https://docs.kurviger.de/app)|[1.1.7-2](https://docs.kurviger.de/changelog)|2017-08-14|No infos.|
+|[Leaflet](http://leafletjs.com)|[1.2.0](http://leafletjs.com/2017/08/08/leaflet-1.2.0.html)|2017-08-08|Please read changelog.|
+|[Locus Map Free&nbsp; ](http://www.locusmap.eu)|[3.25.1](http://www.locusmap.eu/news-version-3-25-0/)|2017-08-10|Man changes, please read changelog.|
+|[Mapbox Navigation SDK iOS](https://github.com/mapbox/mapbox-navigation-ios)|[0.6.1](https://github.com/mapbox/mapbox-navigation-ios/pull/492)|2017-08-15|No infos.|
+|[Mapillary iOS&nbsp; ](http://www.mapillary.com/map)|[4.8.1](https://itunes.apple.com/us/app/mapillary/id757286802)|2017-08-15|Added low power mode and bug fixes.|
+|[Maps.me Android&nbsp; ](http://maps.me)|[7.4.5](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)|2017-08-11|Updated map data, bug fixes.|
+|[Maps.me iOS&nbsp; ](http://maps.me)|[7.4.5](https://itunes.apple.com/app/id510623322)|2017-08-10|Updated map data, bug fixes.|
+|[Mapzen Lost](https://mapzen.com/blog/open-source-location-services-with-lost/)|[3.0.3](https://github.com/mapzen/lost/releases/tag/lost-3.0.3)|2017-08-14|Bug fixes.|
+|[Naviki Android&nbsp; ](https://www.naviki.org/naviki/)|[3.63](https://play.google.com/store/apps/details?id=org.naviki)|2017-08-08|Revised synchronization of ways, improved layout, new map layer and bug fixes.|
+|[OpenLayers](http://openlayers.org/)|[4.3.1](https://github.com/openlayers/openlayers/releases/tag/v4.3.1)|2017-08-14|Bug fixes.|
+|[PostgreSQL](http://www.postgresql.org/)|[9.6.4](https://www.postgresql.org/docs/9.6/static/release-9-6-4.html)|2017-08-10|Man changes, please read changelog.|
+
+Provided by the [OSM Software Watchlist](https://wambachers-osm.website/index.php/osm-software-watchlist). Timestamp: 2017-08-15 12:58:09+02 UTC
+
+( ) unfree software. See: [freesoftware](https://fsfe.org/about/basics/freesoftware.en.html)."
+6025,"WN387","Open Data","Mapzen has published their ""[Open Traffic platform](https://mapzen.com/blog/open-traffic-release/)"". It was developed in cooperation with the World Bank, and anonymized traffic data are to be made available under an open licence."
+6082,"WN388","Other Geo Things","Ian Dees writes on the [Mapzen blog](https://mapzen.com/blog/all-the-places/) about a project that collects addresses for branch locations from operators' websites. The data is then converted to a more useful format (GeoJSON) and made available at [alltheplaces.xyz](http://www.alltheplaces.xyz/) under a [Creative Commons’ CC-0 waiver](https://creativecommons.org/publicdomain/zero/1.0/) license."
+6102,"WN389","Programming","Mapzen will [cease](https://mapzen.com/blog/shutdown/) operations at the end of January 2018. The migration guide [lists](https://mapzen.com/blog/migration/) all projects which will continue existing. According to a [tweet](https://twitter.com/glennon/status/945034576363102208) and the project description, the Valhalla developers are now working for Mapbox (Mapbox already has a routing engine - OSRM)."
+6182,"WN391","Community","Randy Meech, founder & CEO, [offers](https://mapzen.com/blog/magna-carto/) his personal thoughts about the closure of Mapzen, and the philosophy behind its business strategy."
+6172,"WN391","Programming","Mapbox [would like to](https://blog.mapbox.com/migrating-your-mapzen-unity-project-8e8b80d7d352?source"
+6232,"WN392","Programming","Robin Boldt, who runs Kurviger.de, [reports](https://www.graphhopper.com/blog/2018/01/18/mapzen-alternatives-kurviger/) in a guest article in the Graphhopper blog about their migration from Mapzen to the competitors and about which problems vector tile customers have to cope with."
+6283,"WN393","Community","Post Mortem III: Randy Meech has written another [post](https://mapzen.com/blog/a-letter-just-to-you/) on the closing of Mapzen. It features the future of former team members and Mapzen's products."
+6325,"WN394","Programming","Following on from the announcement of the shutdown of its services, Mapzen [announces](https://mapzen.com/blog/long-term-support-mapzen-maps/) how long-term support will be handled for its maps, basemap designs, and the vector and terrain tile data.  It also provides detailed instructions on how to update Mapzen-based projects with the new endpoints. The geocoding team [is currently working](https://mapzen.com/blog/v1-searching-for-the-road-ahead) on the successor to Mapzen's Pelias, [geocode.earth](geocode.earth)."
+6406,"WN396","Community","In [a Twitter thread](https://twitter.com/randyme/status/965427520211472384), Randy Meech, the founder of Mapzen and Mapquest, explains his view on the current discussion sparked by emacsen's blog post."
+7130,"WN413","Software","The BBBike extract service [now offers](https://lists.openstreetmap.org/pipermail/dev/2018-June/030255.html) OpenStreetMap data extracts in [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) format. The step follows the shutdown of all of Mapzen's services, including the Metro extracts, where the GeoJSON download was an often used feature. GeoJSON is an [open](https://tools.ietf.org/html/rfc7946) alternative to the proprietary [ESRI-Shapefiles](https://en.wikipedia.org/wiki/Shapefile)."
+7174,"WN414","Other Geo Things","[StreetCred](https://www.streetcred.co/), created partly due to the shutdown of Mapzen, is estimating that there are 1 billion POIs across the world. The company [announced](https://techcrunch.com/2018/06/20/streetcred/) that they want to build a marketplace to buy POI data from users that collect the data and sell it to companies. The collecting users will be rewarded with a blockchain currency called StreetCred token."
+7768,"WN425","Other Geo Things","Randy Meech (ex CEO of Mapzen) outlines, in a long twitter thread, the philosophy behind his new business,  [Street Cred labs](https://www.streetcred.co/) , which is developing new approaches to capturing POI data. Of particular interest are [his remarks](https://twitter.com/randyme/status/1039150065074532353) about how the data may be licensed. TechCrunch has written a [short article](https://techcrunch.com/2018/06/20/streetcred/) about the company."
+8361,"WN438","Community","After Mapbox hired the Valhalla team from Mapzen, most if not all core OSRM developers seem to [have quit](https://github.com/orgs/Project-OSRM/people) their job. However, there is [no official statement](https://github.com/Project-OSRM/osrm-backend/issues/5209) from Mapbox as to whether they plan to maintain both projects in the future."
+8690,"WN445","Programming","The Linux Foundation [announced](https://www.linuxfoundation.org/press-release/2019/01/mapzen-open-source-data-and-software-for-real-time-mapping-applications-to-become-a-linux-foundation-project/) that the application base created by Mapzen is being merged into The Linux Foundation. Mapzen discontinued its services at the end of January 2018, due to the lack of a sustainable business model."
+8851,"WN448","Community","Stefan Keller [criticises](https://twitter.com/sfkeller/status/1095969845504552960) Mapzen and the Linux Foundation, which recently took over Mapzen's projects, for concealing the main data sources, the OpenStreetMap project, in their public announcements."
+11030,"WN495","Other Geo Things","There's now a [GTFS feed](https://www.interline.io/blog/mtc-regional-gtfs-feed-release/) for the San Francisco Bay Area.  An observant reader on _Hacker News_ [noticed](https://news.ycombinator.com/item?id=22004187) that the [ACE](https://acerail.com/stations/) train (which runs [here](https://www.openstreetmap.org/relation/9599549)) is missing. The route is missing because they don't currently have geometries for the route alignment, so a suggestion was made to ""Send an intern with a logging GPS"".  It'll never work ...
+
+Joking apart, Interline, a mobility data and service company that provides the GTFS feed, has a number of [OSM extracts](https://www.interline.io/osm/extracts/) available (they've continued where Mapzen left off), and in the Bay Area the Valley Transportation Authority has [worked closely](https://wiki.openstreetmap.org/wiki/Import/VTA_Transportation) with OSM in a number of areas, including sidewalk mapping."
+11624,"WN508","Software","Mapzen, a start-up which failed early in 2018, created a lot of useful software in the OSM sphere. The Mapzen open-source, MIT licensed, mapping platform has [moved](https://www.zdnet.com/article/mapzen-open-source-mapping-project-revived-under-the-urban-computing-foundation/) to the [Urban Computing Foundation (UCF)](https://uc.foundation/), founded by the Linux Foundation as an umbrella for the mobility sector, which wants to restart the project."
+12268,"WN522","Community","In Geomob podcast #25 Ed [chats](https://thegeomob.com/podcast/episode-25) with geo industry veteran [Randy Meech](https://twitter.com/randyme), co-founder of [StreetCred](https://www.streetcred.co/). Perviously Randy was CEO of [Mapzen](https://www.mapzen.com/), and CTO of [MapQuest](https://www.mapquest.com/)."
