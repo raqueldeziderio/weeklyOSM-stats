@@ -1,15 +1,15 @@
 "desc_sg","sg_id","count"
-"desktop editor",7,1163
-"OSM based service",11,1031
-"mobile editor",9,485
+"desktop editor",7,1192
+"OSM based service",11,968
+"routing",12,524
+"mobile editor",9,522
 "street level imagery       ",13,424
-"routing",12,359
+"library",8,323
+"data quality",6,276
 "API",3,261
-"data quality",6,223
-"library",8,219
 "data extraction",5,177
 "conversor",4,139
 "tagging",14,53
-"3D model",1,26
-"aerial imagery",2,23
-"notes editor",10,8
+"aerial imagery",2,34
+"3D model",1,32
+"notes editor",10,10
