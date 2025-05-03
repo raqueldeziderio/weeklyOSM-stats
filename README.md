@@ -66,14 +66,14 @@ These statistics can be a *proxy* for understanding the use of OSM-related softw
 ### Initial file
 
 * Considering only EN version - principal version that is translated to the other 14 languages.
-   768 issues, being:
+768 issues, being:
   
 * WN001 a WN271 - without articles (markdown column) - desconsidered, because of the initial weeklyOSM workflow that 
          was different of today.    
 
 * WN272 to WN768 - considered to this analysis
 
-* 35 categories and 21.864 records (articles)
+* 35 categories and 32.261 records (articles)
   
 ### Initial cleaning
 
@@ -83,7 +83,9 @@ These statistics can be a *proxy* for understanding the use of OSM-related softw
    unpublished articles:
    
    [Actual Category] (68 records), automatically translated links of this week (1), exerciseEN: (8), Long Term Dates (3),
-   -- no category yet -- (5), Not translated (3), unpublished (3,013). 
+   -- no category yet -- (5), Not translated (3), unpublished (3,013).
+
+  18.672 records (after the initial cleaning)
         
 ### Standardizing categories
    
@@ -113,54 +115,18 @@ After cleaning and standardizing processes:
 
 18.672 records
    
-24 categories:
+24 categories: About us, Breaking news, Community, Did you know that…, Education, Events, Humanitarian OSM, Imports, Licenses, Local chapter news, Mapping, Mapping campaigns, Maps, Open Data, OpenStreetMap Foundation, OSM in action, OSM in the media, OSM research, Other Geo Things, Picture, Programming, Releases, Software, Upcoming Events
 
-    About us
-   
-    Breaking news
-   
-    Community
-   
-    Did you know that…
-   
-    Education
-   
-    Events
-   
-    Humanitarian OSM
-   
-    Imports
-   
-    Licenses
-   
-    Local chapter news
-   
-    Mapping
-   
-    Mapping campaigns
-   
-    Maps
-   
-    Open Data
-   
-    OpenStreetMap Foundation
-   
-    OSM in action
-   
-    OSM in the media
-   
-    OSM research
-   
-    Other Geo Things
-   
-    Picture
-   
-    Programming
-   
-    Releases
-   
-    Software
-   
-    Upcoming Events
-      
+### Final file - selected software articles
+
+4,939 records
+24 categories
+
+### Statistics files
+
+Please, see the folder [statistics](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/statistics)
+
+### Selected software files
+
+Please, see the folder [selection](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/selection)
    
