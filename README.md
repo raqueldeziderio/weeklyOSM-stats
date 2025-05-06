@@ -20,7 +20,7 @@ Statistical files for the weeklyOSM, initially static and considering the number
 # Some initial results
 
 
-## [Participation of the selected softwares in its software group](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graphs_software_in_group) [graphics, EN]
+## [Participation of the selected softwares in its software group](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graphics_software_in_group) [graphics, EN]
 
 ## [Participação dos softwares selecionados no grupo de softwares](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graficos_software_no_grupo) [gráficos, PT]
 
