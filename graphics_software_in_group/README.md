@@ -10,7 +10,7 @@ These files show the participation in the weeklyOSM of selected software accordi
 
 SOUTO, R.D. weeklyOSM-stats. Available at https://github.com/raqueldeziderio/weeklyOSM-stats. GPL 3.0. [https://doi.org/10.5281/zenodo.15264246](https://doi.org/10.5281/zenodo.15264246)
 
-> To see the files, click on the [URL][https://doi.org/10.5281/zenodo.15264246](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graphics_software_in_group)
+> To see the files, click on the [URL](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graphics_software_in_group)
 
 > This analysis is under development. To keep contact about this initiative: ivides@ivides.org, a/c: Dr. Raquel Dezidério Souto. Colaborated to this research: Strubbl, derFred and TheFive. 
 
