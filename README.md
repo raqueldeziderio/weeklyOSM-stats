@@ -17,7 +17,7 @@ Statistical files for the weeklyOSM, initially static and considering the number
 
 ---
 
-# Some initial results
+# Results with 102 selected softwares (by May 06, 2025)
 
 
 ## [Participation of the selected softwares in its software group](https://github.com/raqueldeziderio/weeklyOSM-stats/tree/main/graphics_software_in_group) [graphics, EN]
