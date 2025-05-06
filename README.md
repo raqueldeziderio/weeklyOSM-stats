@@ -73,7 +73,7 @@ These statistics can be a *proxy* for understanding the use of OSM-related softw
 
 * WN272 to WN768 - considered to this analysis
 
-* 35 categories and 32.261 records (articles)
+* 35 categories and 32,261 records (articles)
   
 ### Initial cleaning
 
@@ -85,7 +85,7 @@ These statistics can be a *proxy* for understanding the use of OSM-related softw
    [Actual Category] (68 records), automatically translated links of this week (1), exerciseEN: (8), Long Term Dates (3),
    -- no category yet -- (5), Not translated (3), unpublished (3,013).
 
-  18.672 records (after the initial cleaning)
+  18,672 records (after the initial cleaning)
         
 ### Standardizing categories
    
@@ -113,13 +113,13 @@ For more details, please, refer to the /statistics/README.md in this repo.
 
 After cleaning and standardizing processes:
 
-18.672 records
+18,672 records
    
 24 categories: About us, Breaking news, Community, Did you know that…, Education, Events, Humanitarian OSM, Imports, Licenses, Local chapter news, Mapping, Mapping campaigns, Maps, Open Data, OpenStreetMap Foundation, OSM in action, OSM in the media, OSM research, Other Geo Things, Picture, Programming, Releases, Software, Upcoming Events
 
 ### Final file - selected software articles
 
-4,939 records
+5,042 records
 24 categories
 
 ### Statistics files
