@@ -1,9 +1,10 @@
+"category",sg_id","n_doc"
 "desktop editor",7,1193
 "OSM based service",11,968
-"routing",12,524
+"routing",12,521
 "mobile editor",9,522
-"street level imagery       ",13,424
-"data quality",6,379
+"street level imagery",13,424
+"data quality",6,382
 "library",8,323
 "API",3,261
 "data extraction",5,177
