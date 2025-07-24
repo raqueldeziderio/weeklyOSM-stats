@@ -28,7 +28,7 @@ Statistical files for the weeklyOSM, initially static and considering the number
 
 # Scope and general objective
 
-The actual weeklyOSM is multilingual and is considering 15 languages. It has the English version as the standard to the AI translation to the other 14 languages, using the [Deepl](https://www.deepl.com/). Initially, it was published in five other languages - Inglês, Espanhol, Turco, Romeno and Japonês, translated from the [Wochennotiz](https://wiki.openstreetmap.org/wiki/Wochennotiz), the German blog, starting in [July 2010](http://blog.openstreetmap.de/blog/2010/07/osm-wochennotiz-nr-1/).
+The actual weeklyOSM is multilingual and is considering 15 languages. It has the English version as the standard to the AI translation to the other 14 languages, using the [DeepL](https://www.deepl.com/). Initially, it was published in five other languages - Inglês, Espanhol, Turco, Romeno and Japonês, translated from the [Wochennotiz](https://wiki.openstreetmap.org/wiki/Wochennotiz), the German blog, starting in [July 2010](http://blog.openstreetmap.de/blog/2010/07/osm-wochennotiz-nr-1/).
 
 The objective of this analysis is to prospect the most cited categories and softwares, considering the period from 2015 (WN272) to 2025 (WN768), since the adoption of the OpenStreetMap Blog Collector or [OSMBC system](https://github.com/TheFive/osmbc), developed by TheFive.
 
